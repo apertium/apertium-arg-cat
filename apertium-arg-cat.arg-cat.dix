@@ -492,9 +492,30 @@
 
 <!-- SECTION: Determiners -->
 
-<e><p><l>o<s n="det"/><s n="def"/></l><r>el<s n="det"/><s n="def"/></r></p></e>
+<e><p><l>tot<s n="predet"/></l><r>tot<s n="predet"/></r></p></e>
+
+<e><p><l>cada<s n="det"/></l><r>cada<s n="det"/></r></p></e>
+
+<e><p><l>o<s n="det"/><s n="def"/><s n="m"/></l><r>el<s n="det"/><s n="def"/><s n="m"/></r></p></e>
+<e><p><l>o<s n="det"/><s n="def"/><s n="f"/></l><r>el<s n="det"/><s n="def"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>o<s n="det"/><s n="def"/><s n="mf"/></l><r>el<s n="det"/><s n="def"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>o<s n="det"/><s n="def"/><s n="GD"/></l><r>el<s n="det"/><s n="def"/><s n="mf"/></r></p></e>
+
 
 <!-- SECTION: Pronouns -->
+
+<e><p><l>en<s n="prn"/><s n="enc"/><s n="adv"/></l><r>en<s n="prn"/><s n="enc"/><s n="adv"/></r></p></e>
+<e><p><l>en<s n="prn"/><s n="pro"/><s n="adv"/></l><r>en<s n="prn"/><s n="pro"/><s n="adv"/></r></p></e>
+<e><p><l>ie<s n="prn"/><s n="enc"/><s n="adv"/></l><r>hi<s n="prn"/><s n="enc"/><s n="adv"/></r></p></e>
+<e><p><l>i<s n="prn"/><s n="pro"/><s n="adv"/></l><r>hi<s n="prn"/><s n="pro"/><s n="adv"/></r></p></e>
+
+
+<e><p><l>yo<s n="prn"/><s n="tn"/></l><r>jo<s n="prn"/><s n="tn"/></r></p></e>
+<e><p><l>tu<s n="prn"/><s n="tn"/></l><r>tu<s n="prn"/><s n="tn"/></r></p></e>
+<e><p><l>ell<s n="prn"/><s n="tn"/></l><r>ell<s n="prn"/><s n="tn"/></r></p></e>
+<e><p><l>vusatros<s n="prn"/><s n="tn"/></l><r>vosaltres<s n="prn"/><s n="tn"/></r></p></e>
+<e><p><l>nusatros<s n="prn"/><s n="tn"/></l><r>nosaltres<s n="prn"/><s n="tn"/></r></p></e>
+
 
 <!-- SECTION: Nouns -->
 
@@ -19594,6 +19615,15 @@
 <e><p><l>zurciquiar<s n="vblex"/></l><r>incitar<s n="vblex"/></r></p></e>
 
 <!-- SECTION: Interjections -->
+
+<!-- SECTION: Punctuation -->
+
+<e><re>[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+<e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+<e><re>,</re><p><l><s n="cm"/></l>         <r><s n="cm"/></r></p></e>
+<e><re>[¿¡]</re><p><l><s n="lquest"/></l>  <r><s n="lquest"/></r></p></e>
+<e><re>[\(\[]</re><p><l><s n="lpar"/></l>  <r><s n="lpar"/></r></p></e>
+<e><re>[\)\]]</re><p><l><s n="rpar"/></l>  <r><s n="rpar"/></r></p></e>
 
    </section>
   <section id="final" type="standard">
