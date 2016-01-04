@@ -520,6 +520,10 @@
 
 <!-- SECTION: Numerals -->
 
+<e r="LR"><p><l>dos<s n="num"/><s n="mf"/></l><r>dos<s n="num"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>dos<s n="num"/><s n="mf"/></l><r>dos<s n="num"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>dos<s n="num"/><s n="mf"/></l><r>dos<s n="num"/><s n="m"/></r></p></e>
+
 <e><p><l>catorce<s n="num"/></l><r>catorze<s n="num"/></r></p></e>
 <e><p><l>ciento<s n="num"/></l><r>cent<s n="num"/></r></p></e>
 <e><p><l>cient<s n="num"/></l><r>cent<s n="num"/></r></p></e>
