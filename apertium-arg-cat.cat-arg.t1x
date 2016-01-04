@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<transfer default="chunk">
+<transfer>
   <section-def-cats>
     <def-cat n="nom">
       <cat-item tags="n.*"/>
@@ -35,14 +35,9 @@
       </pattern>
       <action>
         <out>
-          <chunk name="sent" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SENT"/></tag>
-            </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
             </lu>
-          </chunk>
         </out>
       </action>
     </rule>

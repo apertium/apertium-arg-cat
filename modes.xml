@@ -5,8 +5,13 @@
 
   <mode name="arg-cat" install="yes">
     <pipeline>
-      <program name="lt-proc">
+      <program name="lt-proc -w">
         <file name="arg-cat.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="arg-cat.rlx.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
         <file name="arg-cat.prob"/>
@@ -15,7 +20,7 @@
       <program name="lt-proc -b">
         <file name="arg-cat.autobil.bin"/>
       </program>
-      <program name="lrx-proc">
+      <program name="lrx-proc -m">
         <file name="arg-cat.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
@@ -34,11 +39,14 @@
 
   <mode name="arg-cat-dgen" install="no">
     <pipeline>
-      <program name="lt-proc">
+      <program name="lt-proc -w">
         <file name="arg-cat.automorf.bin"/>
       </program>
 
 
+      <program name="cg-proc -w">
+        <file name="arg-cat.rlx.bin"/>
+      </program>
       <program name="apertium-tagger -g $2">
         <file name="arg-cat.prob"/>
       </program>
@@ -58,7 +66,7 @@
 
   <mode name="arg-cat-morph" install="no">
     <pipeline>
-      <program name="lt-proc">
+      <program name="lt-proc -w">
         <file name="arg-cat.automorf.bin"/>
       </program>
     </pipeline>
@@ -66,7 +74,7 @@
 
   <mode name="arg-cat-disam" install="no">
     <pipeline>
-      <program name="lt-proc">
+      <program name="lt-proc -w">
         <file name="arg-cat.automorf.bin"/>
       </program>
       <program name="cg-conv -a"/>
@@ -78,11 +86,14 @@
 
   <mode name="arg-cat-tagger" install="no">
     <pipeline>
-      <program name="lt-proc">
+      <program name="lt-proc -w">
         <file name="arg-cat.automorf.bin"/>
       </program>
 
 
+      <program name="cg-proc -w">
+        <file name="arg-cat.rlx.bin"/>
+      </program>
       <program name="apertium-tagger -g $2">
         <file name="arg-cat.prob"/>
       </program>
@@ -91,11 +102,14 @@
 
   <mode name="arg-cat-pretransfer" install="no">
     <pipeline>
-      <program name="lt-proc">
+      <program name="lt-proc -w">
         <file name="arg-cat.automorf.bin"/>
       </program>
 
 
+      <program name="cg-proc -w">
+        <file name="arg-cat.rlx.bin"/>
+      </program>
       <program name="apertium-tagger -g $2">
         <file name="arg-cat.prob"/>
       </program>
@@ -105,11 +119,14 @@
 
   <mode name="arg-cat-biltrans" install="no">
     <pipeline>
-      <program name="lt-proc">
+      <program name="lt-proc -w">
         <file name="arg-cat.automorf.bin"/>
       </program>
 
 
+      <program name="cg-proc -w">
+        <file name="arg-cat.rlx.bin"/>
+      </program>
       <program name="apertium-tagger -g $2">
         <file name="arg-cat.prob"/>
       </program>
@@ -122,11 +139,14 @@
 
   <mode name="arg-cat-lex" install="no">
     <pipeline>
-      <program name="lt-proc">
+      <program name="lt-proc -w">
         <file name="arg-cat.automorf.bin"/>
       </program>
 
 
+      <program name="cg-proc -w">
+        <file name="arg-cat.rlx.bin"/>
+      </program>
       <program name="apertium-tagger -g $2">
         <file name="arg-cat.prob"/>
       </program>
@@ -134,7 +154,7 @@
       <program name="lt-proc -b">
         <file name="arg-cat.autobil.bin"/>
       </program>
-      <program name="lrx-proc -t">
+      <program name="lrx-proc -m -t">
         <file name="arg-cat.autolex.bin"/>
       </program>
     </pipeline>
@@ -142,11 +162,14 @@
 
   <mode name="arg-cat-transfer" install="no">
     <pipeline>
-      <program name="lt-proc">
+      <program name="lt-proc -w">
         <file name="arg-cat.automorf.bin"/>
       </program>
 
 
+      <program name="cg-proc -w">
+        <file name="arg-cat.rlx.bin"/>
+      </program>
       <program name="apertium-tagger -g $2">
         <file name="arg-cat.prob"/>
       </program>
@@ -154,7 +177,7 @@
       <program name="lt-proc -b">
         <file name="arg-cat.autobil.bin"/>
       </program>
-      <program name="lrx-proc">
+      <program name="lrx-proc -m">
         <file name="arg-cat.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b -t">
@@ -164,16 +187,18 @@
     </pipeline>
   </mode>
 
-
   <!-- cat → arg -->
 
-  <mode name="cat-arg" install="yes">
+  <mode name="cat-arg" install="no">
     <pipeline>
-      <program name="lt-proc">
+      <program name="lt-proc -w">
         <file name="cat-arg.automorf.bin"/>
       </program>
 
 
+      <program name="cg-proc -w">
+        <file name="cat-arg.rlx.bin"/>
+      </program>
       <program name="apertium-tagger -g $2">
         <file name="cat-arg.prob"/>
       </program>
@@ -181,7 +206,7 @@
       <program name="lt-proc -b">
         <file name="cat-arg.autobil.bin"/>
       </program>
-      <program name="lrx-proc">
+      <program name="lrx-proc -m">
         <file name="cat-arg.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
@@ -200,11 +225,14 @@
 
   <mode name="cat-arg-dgen" install="no">
     <pipeline>
-      <program name="lt-proc">
+      <program name="lt-proc -w">
         <file name="cat-arg.automorf.bin"/>
       </program>
 
 
+      <program name="cg-proc -w">
+        <file name="cat-arg.rlx.bin"/>
+      </program>
       <program name="apertium-tagger -g $2">
         <file name="cat-arg.prob"/>
       </program>
@@ -224,7 +252,7 @@
 
   <mode name="cat-arg-morph" install="no">
     <pipeline>
-      <program name="lt-proc">
+      <program name="lt-proc -w">
         <file name="cat-arg.automorf.bin"/>
       </program>
     </pipeline>
@@ -232,7 +260,7 @@
 
   <mode name="cat-arg-disam" install="no">
     <pipeline>
-      <program name="lt-proc">
+      <program name="lt-proc -w">
         <file name="cat-arg.automorf.bin"/>
       </program>
       <program name="cg-conv -a"/>
@@ -244,11 +272,14 @@
 
   <mode name="cat-arg-tagger" install="no">
     <pipeline>
-      <program name="lt-proc">
+      <program name="lt-proc -w">
         <file name="cat-arg.automorf.bin"/>
       </program>
 
 
+      <program name="cg-proc -w">
+        <file name="cat-arg.rlx.bin"/>
+      </program>
       <program name="apertium-tagger -g $2">
         <file name="cat-arg.prob"/>
       </program>
@@ -257,11 +288,14 @@
 
   <mode name="cat-arg-pretransfer" install="no">
     <pipeline>
-      <program name="lt-proc">
+      <program name="lt-proc -w">
         <file name="cat-arg.automorf.bin"/>
       </program>
 
 
+      <program name="cg-proc -w">
+        <file name="cat-arg.rlx.bin"/>
+      </program>
       <program name="apertium-tagger -g $2">
         <file name="cat-arg.prob"/>
       </program>
@@ -271,11 +305,14 @@
 
   <mode name="cat-arg-biltrans" install="no">
     <pipeline>
-      <program name="lt-proc">
+      <program name="lt-proc -w">
         <file name="cat-arg.automorf.bin"/>
       </program>
 
 
+      <program name="cg-proc -w">
+        <file name="cat-arg.rlx.bin"/>
+      </program>
       <program name="apertium-tagger -g $2">
         <file name="cat-arg.prob"/>
       </program>
@@ -288,11 +325,14 @@
 
   <mode name="cat-arg-lex" install="no">
     <pipeline>
-      <program name="lt-proc">
+      <program name="lt-proc -w">
         <file name="cat-arg.automorf.bin"/>
       </program>
 
 
+      <program name="cg-proc -w">
+        <file name="cat-arg.rlx.bin"/>
+      </program>
       <program name="apertium-tagger -g $2">
         <file name="cat-arg.prob"/>
       </program>
@@ -300,7 +340,7 @@
       <program name="lt-proc -b">
         <file name="cat-arg.autobil.bin"/>
       </program>
-      <program name="lrx-proc">
+      <program name="lrx-proc -m">
         <file name="cat-arg.autolex.bin"/>
       </program>
     </pipeline>
@@ -308,11 +348,14 @@
 
   <mode name="cat-arg-transfer" install="no">
     <pipeline>
-      <program name="lt-proc">
+      <program name="lt-proc -w">
         <file name="cat-arg.automorf.bin"/>
       </program>
 
 
+      <program name="cg-proc -w">
+        <file name="cat-arg.rlx.bin"/>
+      </program>
       <program name="apertium-tagger -g $2">
         <file name="cat-arg.prob"/>
       </program>
