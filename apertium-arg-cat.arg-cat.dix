@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+   <!-- Define the alphabet below. -->
+  <alphabet></alphabet>
+
+  <sdefs>
+    <sdef n="v2" /> 
+    <sdef n="acr" /> 
+    <sdef n="predet" /> 
+    <sdef n="detnt" /> 
+    <sdef n="loc" /> 
+    <sdef n="ant" /> 
+    <sdef n="al" /> 
+    <sdef n="atn" /> 
+    <sdef n="enc" /> 
+    <sdef n="pro" /> 
+    <sdef n="tn" /> 
+    <sdef n="n" /> 
+    <sdef n="np" /> 
+    <sdef n="adj" /> 
+    <sdef n="f" /> 
+    <sdef n="m" /> 
+    <sdef n="mf" /> 
+    <sdef n="sg" /> 
+    <sdef n="pl" /> 
+    <sdef n="adv" /> 
+    <sdef n="preadv" /> 
+    <sdef n="pr" /> 
+    <sdef n="prn" /> 
+    <sdef n="rel" /> 
+    <sdef n="nn" /> 
+    <sdef n="an" /> 
+    <sdef n="aa" /> 
+    <sdef n="ind" /> 
+    <sdef n="itg" /> 
+    <sdef n="det" /> 
+    <sdef n="dem" /> 
+    <sdef n="def" /> 
+    <sdef n="cnjcoo" /> 
+    <sdef n="cnjsub" /> 
+    <sdef n="cnjadv" /> 
+    <sdef n="nt" /> 
+    <sdef n="vbser" /> 
+    <sdef n="vbhaver" /> 
+    <sdef n="vblex" /> 
+    <sdef n="vbmod" /> 
+    <sdef n="inf" /> 
+    <sdef n="ger" /> 
+    <sdef n="pp" /> 
+    <sdef n="pri" /> 
+    <sdef n="p1" /> 
+    <sdef n="p2" /> 
+    <sdef n="p3" /> 
+    <sdef n="pii" /> 
+    <sdef n="ifi" /> 
+    <sdef n="fti" /> 
+    <sdef n="cni" /> 
+    <sdef n="prs" /> 
+    <sdef n="pis" /> 
+    <sdef n="fts" /> 
+    <sdef n="imp" /> 
+    <sdef n="pos" /> 
+    <sdef n="sp" /> 
+    <sdef n="ref" /> 
+    <sdef n="sup" /> 
+    <sdef n="num" /> 
+    <sdef n="ij" /> 
+    <sdef n="sent" /> 
+    <sdef n="cm" /> 
+    <sdef n="lpar" /> 
+    <sdef n="rpar" /> 
+    <sdef n="lquest" /> 
+    <sdef n="ND" /> 
+    <sdef n="GD" /> 
+    <sdef n="web" /> 
+  </sdefs>
+  
+   <section id="main" type="standard">
+      <!-- Define entries within <e> here. -->
+      <e><p><l>casa<s n="n"/></l><r>casa<s n="n"/></r></p></e>
+   </section>
+  <section id="final" type="standard">
+
+    <!-- ******************************
+          group web_symbol
+      ****************************** -->
+    <e><re>[a-z.]+@[a-z.]+</re><p><l><s n="web"/></l><r><s n="web"/></r></p></e>
+    <e><re>(www.|http://|https://|ftp://)[áéíóúàèìòùäëïöüñça-z0-9\-./]+[áéíóúàèìòùäëïöüñça-z0-9/]</re><p><l><s n="web"/></l><r><s n="web"/></r></p></e>
+    <e><re>(25[0-5]|2[0-4][0-9]|[0-1]?[0-9]?[0-9])(.(25[0-5]|2[0-4][0-9]|[0-1]?[0-9]?[0-9]))(.(25[0-5]|2[0-4][0-9]|[0-1]?[0-9]?[0-9]))(.(25[0-5]|2[0-4][0-9]|[0-1]?[0-9]?[0-9]))</re><p><l><s n="web"/></l><r><s n="web"/></r></p></e>
+    <!-- ******************************
+          group(s) with only one element
+      ****************************** -->
+    <e><re>[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+    <e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+    <e><re>,</re><p><l><s n="cm"/></l><r><s n="cm"/></r></p></e>
+    <e><re>[¿¡]</re><p><l><s n="lquest"/></l><r><s n="lquest"/></r></p></e>
+    <e><re>[\(\[]</re><p><l><s n="lpar"/></l><r><s n="lpar"/></r></p></e>
+    <e><re>[\)\]]</re><p><l><s n="rpar"/></l><r><s n="rpar"/></r></p></e>
+  </section>   
+</dictionary>
+
+<!-- 
+Resources: 
+    http://wiki.apertium.org/wiki/Bilingual_dictionary
+    http://wiki.apertium.org/wiki/Apertium_New_Language_Pair_HOWTO#Bilingual_dictionary
+-->
+

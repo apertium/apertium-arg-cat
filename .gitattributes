@@ -1,0 +1,19 @@
+* text=auto !eol
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/apertium-arg-cat.arg-cat.dix -text
+/apertium-arg-cat.arg-cat.lrx -text
+/apertium-arg-cat.arg-cat.t1x -text
+/apertium-arg-cat.arg-cat.t2x -text
+/apertium-arg-cat.arg-cat.t3x -text
+/apertium-arg-cat.cat-arg.lrx -text
+/apertium-arg-cat.cat-arg.t1x -text
+/apertium-arg-cat.cat-arg.t2x -text
+/apertium-arg-cat.cat-arg.t3x -text
+/autogen.sh -text
+/configure.ac -text
+/modes.xml -text
