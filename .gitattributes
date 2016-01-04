@@ -14,6 +14,8 @@
 /configure.ac -text
 dev/testvoc/inconsistency-summary.sh -text
 dev/testvoc/inconsistency.sh -text
+dev/testvoc/testvoc-summary.arg-cat.txt -text
+dev/testvoc/testvoc-summary.cat-arg.txt -text
 dev/testvoc/testvoc.sh -text
 /modes.xml -text
 t/README.org -text
