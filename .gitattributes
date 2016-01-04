@@ -12,4 +12,7 @@
 /apertium-arg-cat.cat-arg.t1x -text
 /autogen.sh -text
 /configure.ac -text
+dev/testvoc/inconsistency-summary.sh -text
+dev/testvoc/inconsistency.sh -text
+dev/testvoc/testvoc.sh -text
 /modes.xml -text
