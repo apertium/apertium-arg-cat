@@ -1,27 +1,27 @@
-Mon Jan 11 13:26:41 CET 2016
+dt gen 12 19:22:02 CET 2016
 ===============================================
 POS	Total	Clean	With @	With #	Clean %
-vblex	185206		0	0	
-n	12723		0	0	
-np	6535		0	0	
-adv	3599		0	0	
-vbmod	460		0	0	
-pr	370		0	0	
-det	222		0	2	
-vbser	202		0	0	
-num	150		0	0	
-cnjadv	78		0	0	
-vbhaver	77		0	0	
-prn	39		0	2	
-cnjcoo	6		0	0	
-predet	5		0	0	
-cnjsub	4		0	0	
-rel	1		0	0	
-vaux	0		0	0	
-preadv	0		0	0	
-ij	0		0	0	
-guio	0		0	0	
-cm	0		0	0	
-adj	0		0	0	
-abbr	0		0	0	
+vblex	185206	 185206	0	0	100
+n	12723	 12723	0	0	100
+np	6535	 6535	0	0	100
+adv	3599	 3599	0	0	100
+vbmod	460	 460	0	0	100
+pr	370	 370	0	0	100
+det	222	 220	0	2	99.1
+vbser	202	 202	0	0	100
+num	150	 150	0	0	100
+cnjadv	78	 78	0	0	100
+vbhaver	77	 77	0	0	100
+prn	39	 37	0	2	94.87
+cnjcoo	6	 6	0	0	100
+predet	5	 5	0	0	100
+cnjsub	4	 4	0	0	100
+rel	1	 1	0	0	100
+vaux	0	 0	0	0	100
+preadv	0	 0	0	0	100
+ij	0	 0	0	0	100
+guio	0	 0	0	0	100
+cm	0	 0	0	0	100
+adj	0	 0	0	0	100
+abbr	0	 0	0	0	100
 ===============================================

@@ -10,6 +10,14 @@
       <cat-item tags="vbmod.*"/>
       <cat-item tags="vaux.*"/>
     </def-cat>
+
+    <def-cat n="perif">
+      <cat-item tags="vblex.ifi.*"/>
+      <cat-item tags="vbser.ifi.*"/>
+      <cat-item tags="vbhaver.ifi.*"/>
+      <cat-item tags="vbmod.ifi.*"/>
+    </def-cat>
+
     <def-cat n="sent">
       <cat-item tags="sent"/>
     </def-cat>
@@ -19,6 +27,46 @@
     <def-attr n="a_cas">
       <attr-item tags="nom"/>
     </def-attr>
+
+    <def-attr n="a_verb">
+      <attr-item tags="vblex"/>
+      <attr-item tags="vbser"/>
+      <attr-item tags="vbhaver"/>
+      <attr-item tags="vbmod"/>
+      <attr-item tags="vaux"/>
+    </def-attr>
+
+      <def-attr n="temps">
+                        <attr-item tags="inf"/>
+                        <attr-item tags="ger"/>
+                        <attr-item tags="pp"/>
+                        <attr-item tags="pri"/>
+                        <attr-item tags="ifi"/>
+                        <attr-item tags="pii"/>
+                        <attr-item tags="fti"/>
+                        <attr-item tags="cni"/>
+                        <attr-item tags="prs"/>
+                        <attr-item tags="pis"/>
+                        <attr-item tags="fts"/>
+                        <attr-item tags="imp"/>
+                        <attr-item tags="infps"/>
+                        <attr-item tags="pmp"/>
+      </def-attr>
+
+      <def-attr n="nbr">
+         <attr-item tags="sg"/>
+                        <attr-item tags="pl"/>
+                        <attr-item tags="sp"/>
+                        <attr-item tags="ND"/>
+      </def-attr>
+
+      <def-attr n="persona">
+         <attr-item tags="p1"/>
+                        <attr-item tags="p2"/>
+                        <attr-item tags="p3"/>
+      </def-attr>
+
+
   </section-def-attrs>
 
   <section-def-vars>
@@ -26,12 +74,49 @@
   </section-def-vars>
 
   <section-def-macros>
-    <def-macro n="test" npar="1">
-          <let>
-            <var n="number"/>
-            <lit v=""/>
-          </let>
-    </def-macro>
+
+  <def-macro n="f_pretind1" npar="1"><!--Para traducir el pretérito indefinido por la forma perifrástica (dije - vaig dir) y enviar el verbo. Debe ponerse en todas las reglas en las que aparezca un verbo vblex, vbmod o vbser -->
+    <choose>
+      <when>
+        <test>
+          <equal><clip pos="1" side="sl" part="temps"/><lit-tag v="ifi"/></equal>
+        </test>
+        <out>
+          <lu>
+            <get-case-from pos="1"><lit v="anar"/></get-case-from>
+            <lit-tag v="vaux"/>
+            <clip pos="1" side="sl" part="persona"/>
+            <clip pos="1" side="sl" part="nbr"/>
+          </lu>
+          <b/>
+        </out>
+        <choose>
+          <when>
+            <test><equal><case-of pos="1" side="sl" part="lemh"/><lit v="Aa"/></equal></test>
+            <modify-case><clip pos="1" side="tl" part="lemh"/><lit v="aa"/></modify-case>
+          </when>
+        </choose>
+        <out>
+          <lu>
+            <clip pos="1" side="tl" part="lemh"/>
+            <clip pos="1" side="tl" part="a_verb"/>
+            <lit-tag v="inf"/>
+            <clip pos="1" side="tl" part="lemq"/>
+          </lu>
+        </out>
+      </when>
+      <otherwise>
+        <out>
+          <lu>
+            <clip pos="1" side="tl" part="lemh"/>
+            <clip pos="1" side="tl" part="tags"/>
+            <clip pos="1" side="tl" part="lemq"/>
+          </lu>
+        </out>
+      </otherwise>
+    </choose>
+</def-macro>
+
   </section-def-macros>
 
   <section-rules>
@@ -55,13 +140,16 @@
         <pattern-item n="verb"/>
       </pattern>
       <action>
-        <out>
+        <call-macro n="f_pretind1">
+          <with-param pos="1"/>
+        </call-macro>
+<!--    <out>
             <lu>
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="tags"/>
               <clip pos="1" side="tl" part="lemq"/>
             </lu>
-        </out>
+        </out>-->
       </action>
     </rule>
 
