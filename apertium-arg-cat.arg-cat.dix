@@ -947,7 +947,7 @@
 <e><p><l>amodorramiento<s n="n"/><s n="m"/></l><r>ensopiment<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>amollonamiento<s n="n"/><s n="m"/></l><r>amollonament<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>amonestación<s n="n"/><s n="f"/></l><r>amonestació<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>amo<s n="n"/><s n="m"/></l><r>mestressa<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>amo<s n="n"/><s n="f"/></l><r>mestressa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>amo<s n="n"/><s n="m"/></l><r>amo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>amortimiento<s n="n"/><s n="m"/></l><r>amortiment<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>amortización<s n="n"/><s n="f"/></l><r>amortització<s n="n"/><s n="f"/></r></p></e>
@@ -4695,6 +4695,7 @@
 <e><p><l>moneda<s n="n"/><s n="f"/></l><r>moneda<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>monesterio<s n="n"/><s n="m"/></l><r>monestir<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>monitor<s n="n"/><s n="m"/></l><r>monitor<s n="n"/><s n="m"/></r></p></e>
+<!--<e><p><l>monitor<s n="n"/><s n="f"/></l><r>monitor<s n="n"/><s n="f"/></r></p></e>-->
 <e><p><l>monografía<s n="n"/><s n="f"/></l><r>monografia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>monologuista<s n="n"/><s n="mf"/></l><r>monologuista<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>monopolista<s n="n"/><s n="mf"/></l><r>monopolista<s n="n"/><s n="mf"/></r></p></e>
@@ -7076,7 +7077,6 @@
 <e><p><l>alcalde<s n="n"/><s n="f"/></l><r>batlle<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>americano<s n="n"/><s n="f"/></l><r>americà<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>amigo<s n="n"/><s n="f"/></l><r>amic<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>amo<s n="n"/><s n="f"/></l><r>amo<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>amo<s n="n"/><s n="f"/></l><r>mestressa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>andorrano<s n="n"/><s n="f"/></l><r>andorrà<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>anglés<s n="n"/><s n="f"/></l><r>anglès<s n="n"/><s n="f"/></r></p></e>
@@ -7178,7 +7178,6 @@
 <e><p><l>mexicano<s n="n"/><s n="f"/></l><r>mexicà<s n="n"/><s n="f"/></r></p></e>
 <!--<e><p><l>mocet<s n="n"/><s n="f"/></l><r>xic<s n="n"/><s n="f"/></r></p></e>-->
 <e><p><l>monche<s n="n"/><s n="f"/></l><r>monjo<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>monitor<s n="n"/><s n="f"/></l><r>monitor<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>morisco<s n="n"/><s n="f"/></l><r>morisc<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>moro<s n="n"/><s n="f"/></l><r>moro<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>mozo<s n="n"/><s n="f"/></l><r>mosso<s n="n"/><s n="f"/></r></p></e>
@@ -8831,7 +8830,7 @@
 <e><p><l>Ger<s n="np"/><s n="loc"/></l><r>Ger<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Barça<s n="np"/><s n="al"/></l><r>Barça<s n="np"/><s n="al"/></r></p></e>
 <e><p><l>Beatrice<s n="np"/><s n="ant"/></l><r>Beatrice<s n="np"/><s n="ant"/></r></p></e>
-<e><p><l>Sudáfrica<s n="np"/><s n="loc"/></l><r>Sudàfrica<s n="np"/><s n="loc"/></r></p></e>
+<e><p><l>Sudáfrica<s n="np"/><s n="loc"/></l><r>Sud-àfrica<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Castellgalí<s n="np"/><s n="loc"/></l><r>Castellgalí<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Diego<s n="np"/><s n="ant"/></l><r>Diego<s n="np"/><s n="ant"/></r></p></e>
 <e><p><l>Loís<s n="np"/><s n="ant"/></l><r>Loís<s n="np"/><s n="ant"/></r></p></e>
