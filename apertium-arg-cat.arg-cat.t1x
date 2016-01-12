@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transfer>
   <section-def-cats>
+    <def-cat n="num">
+      <cat-item tags="num.*"/>
+    </def-cat>
+
     <def-cat n="nom">
       <cat-item tags="n.*"/>
     </def-cat>
+
     <def-cat n="verb">
       <cat-item tags="vblex.*"/>
       <cat-item tags="vbser.*"/>
@@ -70,10 +75,85 @@
   </section-def-attrs>
 
   <section-def-vars>
-    <def-var n="number"/>
+    <def-var n="numero"/>
+    <def-var n="genero"/>
   </section-def-vars>
 
   <section-def-macros>
+
+    <def-macro n="f_concord1" npar="1">
+      
+      <choose><!--To determine value of variables of gender and
+		  number and propagate to other rules.  Variables are
+		  not used again in this rule -->
+	<when> 
+	  <test>
+	    <equal><clip pos="1" side="tl" part="gen"/><lit-tag v="m"/></equal>
+	  </test>
+	  <let><var n="genero"/><lit-tag v="m"/></let>
+	</when>
+	<when>
+	  <test>
+	    <equal><clip pos="1" side="tl" part="gen"/><lit-tag v="f"/></equal>
+	  </test>
+	  <let><var n="genero"/><lit-tag v="f"/></let>
+	</when>
+      </choose> 
+      <choose>
+	<when> 
+	  <test>
+	    <equal><clip pos="1" side="tl" part="nbr"/><lit-tag v="sg"/></equal>
+	  </test>
+	  <let><var n="numero"/><lit-tag v="sg"/></let>
+	</when>
+	<when> 
+	  <test>
+	    <equal><clip pos="1" side="tl" part="nbr"/><lit-tag v="pl"/></equal>
+	  </test>
+	  <let><var n="numero"/><lit-tag v="pl"/></let>
+	</when>
+      </choose>
+      <choose>
+	<when>
+	  <test> <!-- If word has GD or ND, we try to assign the
+		      gender or number of the previous rule. If there is no
+		      value for the gender or number variable from previous
+		      rules, gender will be masculine and number singular.-->
+	    <equal><clip pos="1" side="tl" part="gen"/><lit-tag v="GD"/></equal>
+	  </test>
+	  <choose> 
+	    <when>
+	      <test>
+		<equal><var n="genero"/><lit-tag v="f"/></equal>
+	      </test>
+	      <let><clip pos="1" side="tl" part="gen"/><lit-tag v="f"/></let>
+	    </when>
+	    <otherwise>
+	      <let><clip pos="1" side="tl" part="gen"/><lit-tag v="m"/></let>
+	    </otherwise>
+	  </choose>
+	</when>
+      </choose>
+      <choose>
+	<when>
+	  <test> 
+	    <equal><clip pos="1" side="tl" part="nbr"/><lit-tag v="ND"/></equal>
+	  </test>
+	  <choose> 
+	    <when>
+	      <test>
+		<equal><var n="numero"/><lit-tag v="pl"/></equal>
+	      </test>
+	      <let><clip pos="1" side="tl" part="nbr"/><lit-tag v="pl"/></let>                   
+	    </when>
+	    <otherwise>
+	      <let><clip pos="1" side="tl" part="nbr"/><lit-tag v="sg"/></let>
+	    </otherwise>
+	  </choose>
+	</when>
+      </choose>    
+    </def-macro>
+
 
   <def-macro n="f_pretind1" npar="1"><!--Para traducir el pretérito indefinido por la forma perifrástica (dije - vaig dir) y enviar el verbo. Debe ponerse en todas las reglas en las que aparezca un verbo vblex, vbmod o vbser -->
     <choose>
@@ -120,11 +200,34 @@
   </section-def-macros>
 
   <section-rules>
+
+    <rule comment="REGLA: NUM">
+      <pattern>
+        <pattern-item n="num"/>
+      </pattern>
+      <action>
+        <call-macro n="f_concord1">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="tags"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+        </out>
+      </action>
+    </rule>
+
+
     <rule comment="REGLA: NOM">
       <pattern>
         <pattern-item n="nom"/>
       </pattern>
       <action>
+        <call-macro n="f_concord1">
+          <with-param pos="1"/>
+        </call-macro>
         <out>
             <lu>
               <clip pos="1" side="tl" part="lemh"/>
