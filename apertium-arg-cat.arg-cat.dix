@@ -473,6 +473,7 @@
 
 <!--<e><p><l>hu<s n="prn"/><s n="pro"/></l><r>ho<s n="prn"/><s n="pro"/></r></p></e>-->
 <e><p><l>lo<s n="prn"/><s n="pro"/><s n="p3"/><s n="nt"/></l><r>ho<s n="prn"/><s n="pro"/><s n="p3"/><s n="nt"/></r></p></e>
+<e><p><l>lo<s n="prn"/><s n="enc"/><s n="p3"/><s n="nt"/></l><r>ho<s n="prn"/><s n="enc"/><s n="p3"/><s n="nt"/></r></p></e>
 
 <e><p><l>le<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/></l><r>li<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/></r></p></e>
 <e><p><l>le<s n="prn"/><s n="enc"/></l><r>le<s n="prn"/><s n="enc"/></r></p></e>
@@ -500,6 +501,10 @@
 <e r="RL"><p><l>vusatros<s n="prn"/><s n="tn"/><s n="p2"/><s n="GD"/></l><r>vosaltres<s n="prn"/><s n="tn"/><s n="p2"/><s n="mf"/></r></p></e>
 <e r="LR"><p><l>vusatros<s n="prn"/><s n="tn"/><s n="p2"/><s n="f"/></l><r>vosaltres<s n="prn"/><s n="tn"/><s n="p2"/><s n="mf"/></r></p></e>
 <e r="LR"><p><l>vusatros<s n="prn"/><s n="tn"/><s n="p2"/><s n="m"/></l><r>vosaltres<s n="prn"/><s n="tn"/><s n="p2"/><s n="mf"/></r></p></e>
+
+<e><p><l>cosa<s n="prn"/><s n="tn"/><s n="nt"/></l><r>res<s n="prn"/><s n="tn"/><s n="nt"/></r></p></e>
+<e><p><l>res<s n="prn"/><s n="tn"/><s n="nt"/></l><r>res<s n="prn"/><s n="tn"/><s n="nt"/></r></p></e>
+
 
 <!-- SECTION: Numerals -->
 
@@ -18331,6 +18336,10 @@
 <e r="RL"><p><l>rocero<s n="adj"/></l><r>trempat<s n="adj"/><s n="sup"/></r></p></e>
 <e r="RL"><p><l>machurriu<s n="adj"/></l><r>atrotinat<s n="adj"/><s n="sup"/></r></p></e>
 
+<e><p><l>feliz<s n="adj"/><s n="mf"/><s n="sg"/></l><r>feliç<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>feliz<s n="adj"/><s n="mf"/><s n="pl"/></l><r>feliç<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
+<e r="RL"><p><l>feliz<s n="adj"/><s n="mf"/><s n="pl"/></l><r>feliç<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
+<e r="RL"><p><l>feliz<s n="adj"/><s n="mf"/><s n="pl"/></l><r>feliç<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
 
 <!-- SECTION: Adverbs -->
 
