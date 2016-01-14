@@ -7,6 +7,15 @@
       <cat-item tags="np.ant"/> <!--check-->
     </def-cat>
 
+    <def-cat n="adjec">
+      <cat-item tags="adj.*"/>
+      <cat-item tags="vblex.pp.*"/>
+    </def-cat>
+
+    <def-cat n="prn">
+      <cat-item tags="prn.*"/>
+    </def-cat>
+
     <def-cat n="det">
       <cat-item tags="det.*"/>
       <cat-item tags="predet.*"/>
@@ -2293,7 +2302,25 @@
 
   <section-rules>
 
-    <rule> <!-- REGLA: NOM -->
+    <rule comment="REGLA: ADJEC">
+      <pattern>
+	<pattern-item n="adjec"/>
+      </pattern>
+      <action>
+	<call-macro n="f_concord1">
+	  <with-param pos="1"/>
+	</call-macro>     
+	<out>  
+	  <lu>
+	    <clip pos="1" side="tl" part="lemh"/>
+	    <clip pos="1" side="tl" part="tags"/>
+	    <clip pos="1" side="tl" part="lemq"/>
+	  </lu>
+	</out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: NOM">
       <pattern>
 	<pattern-item n="nom"/>
       </pattern>
@@ -2309,6 +2336,22 @@
 	  </lu>
 	</out>
       </action>
+    </rule>
+
+    <rule> <!-- REGLA 7: PRONOM -->
+        <pattern>
+            <pattern-item n="prn"/>
+        </pattern>
+        <action>
+            <call-macro n="f_concord1">
+                <with-param pos="1"/>
+            </call-macro>
+            <out>
+                <lu>
+                    <clip pos="1" side="tl" part="whole"/>
+                </lu>
+            </out>
+        </action>
     </rule>
 
     <rule> <!-- REGLA 7: DETERMINANT -->
