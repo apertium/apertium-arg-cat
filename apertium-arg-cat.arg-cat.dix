@@ -472,7 +472,7 @@
 <e><p><l>i<s n="prn"/><s n="pro"/><s n="adv"/></l><r>hi<s n="prn"/><s n="pro"/><s n="adv"/></r></p></e>
 
 <!--<e><p><l>hu<s n="prn"/><s n="pro"/></l><r>ho<s n="prn"/><s n="pro"/></r></p></e>-->
-<e><p><l>lo<s n="prn"/><s n="pro"/></l><r>ho<s n="prn"/><s n="pro"/></r></p></e>
+<e><p><l>lo<s n="prn"/><s n="pro"/><s n="p3"/><s n="nt"/></l><r>ho<s n="prn"/><s n="pro"/><s n="p3"/><s n="nt"/></r></p></e>
 
 <e><p><l>le<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/></l><r>li<s n="prn"/><s n="pro"/><s n="p3"/><s n="mf"/></r></p></e>
 <e><p><l>le<s n="prn"/><s n="enc"/></l><r>le<s n="prn"/><s n="enc"/></r></p></e>
@@ -14620,6 +14620,7 @@
 <e><p><l>bucal<s n="adj"/></l><r>bucal<s n="adj"/></r></p></e>
 <e><p><l>bucolico<s n="adj"/></l><r>bucòlic<s n="adj"/></r></p></e>
 <e><p><l>budista<s n="adj"/></l><r>budista<s n="adj"/></r></p></e>
+<e><p><l>buen<s n="adj"/></l><r>bon<s n="adj"/></r></p></e>
 <e><p><l>bueno<s n="adj"/></l><r>bo<s n="adj"/></r></p></e>
 <e><p><l>burdo<s n="adj"/></l><r>bast<s n="adj"/></r></p></e>
 <e><p><l>burocratico<s n="adj"/></l><r>burocràtic<s n="adj"/></r></p></e>

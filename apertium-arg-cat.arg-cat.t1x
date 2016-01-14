@@ -10,6 +10,10 @@
       <cat-item tags="vblex.pp.*"/>
     </def-cat>
 
+    <def-cat n="haver-pp">
+      <cat-item tags="vbhaver.pp.*"/>
+    </def-cat>
+
     <def-cat n="nom">
       <cat-item tags="n.*"/>
     </def-cat>
@@ -286,6 +290,20 @@
               <clip pos="1" side="tl" part="lemq"/>
             </lu>
         </out>-->
+      </action>
+    </rule>
+
+    <rule comment="REGLA: HAVER-PP">
+      <pattern>
+        <pattern-item n="haver-pp"/>
+      </pattern>
+      <action>
+        <out>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+              <lit-tag v="vbhaver.pp.m.sg"/>
+            </lu>
+        </out>
       </action>
     </rule>
 
