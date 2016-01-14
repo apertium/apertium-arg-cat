@@ -5,6 +5,11 @@
       <cat-item tags="num.*"/>
     </def-cat>
 
+    <def-cat n="adjec">
+      <cat-item tags="adj.*"/>
+      <cat-item tags="vblex.pp.*"/>
+    </def-cat>
+
     <def-cat n="nom">
       <cat-item tags="n.*"/>
     </def-cat>
@@ -58,17 +63,26 @@
                         <attr-item tags="pmp"/>
       </def-attr>
 
+      <def-attr n="gen">
+         <attr-item tags="sg"/>
+         <attr-item tags="m"/>
+         <attr-item tags="mf"/>
+         <attr-item tags="f"/>
+         <attr-item tags="GD"/>
+      </def-attr>
+
+
       <def-attr n="nbr">
          <attr-item tags="sg"/>
-                        <attr-item tags="pl"/>
-                        <attr-item tags="sp"/>
-                        <attr-item tags="ND"/>
+         <attr-item tags="pl"/>
+         <attr-item tags="sp"/>
+         <attr-item tags="ND"/>
       </def-attr>
 
       <def-attr n="persona">
          <attr-item tags="p1"/>
-                        <attr-item tags="p2"/>
-                        <attr-item tags="p3"/>
+         <attr-item tags="p2"/>
+         <attr-item tags="p3"/>
       </def-attr>
 
 
@@ -200,6 +214,25 @@
   </section-def-macros>
 
   <section-rules>
+
+    <rule comment="REGLA: ADJ">
+      <pattern>
+        <pattern-item n="adjec"/>
+      </pattern>
+      <action>
+        <call-macro n="f_concord1">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="tags"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+        </out>
+      </action>
+    </rule>
+
 
     <rule comment="REGLA: NUM">
       <pattern>
