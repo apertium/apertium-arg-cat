@@ -14313,6 +14313,7 @@
 <e><p><l>ampliable<s n="adj"/></l><r>ampliable<s n="adj"/></r></p></e>
 <e><p><l>amplio<s n="adj"/></l><r>ampli<s n="adj"/></r></p></e>
 <e><p><l>amplo<s n="adj"/></l><r>ampli<s n="adj"/></r></p></e>
+<e r="LR"><p><l>amplo<s n="adj"/><s n="sup"/></l><r>ampli<s n="adj"/></r></p></e>
 <e><p><l>anacreontico<s n="adj"/></l><r>anacreòntic<s n="adj"/></r></p></e>
 <e><p><l>anacronico<s n="adj"/></l><r>anacrònic<s n="adj"/></r></p></e>
 <e><p><l>anaerobio<s n="adj"/></l><r>anaerobi<s n="adj"/></r></p></e>
@@ -14523,6 +14524,7 @@
 <e><p><l>bacteriano<s n="adj"/></l><r>bacterià<s n="adj"/></r></p></e>
 <e><p><l>bacteriolochico<s n="adj"/></l><r>bacteriològic<s n="adj"/></r></p></e>
 <e><p><l>baixo<s n="adj"/></l><r>baix<s n="adj"/></r></p></e>
+<e r="LR"><p><l>baixo<s n="adj"/><s n="sup"/></l><r>baix<s n="adj"/></r></p></e>
 <e><p><l>baixomedieval<s n="adj"/></l><r>baixmedieval<s n="adj"/></r></p></e>
 <e><p><l>balear<s n="adj"/></l><r>balear<s n="adj"/></r></p></e>
 <e><p><l>balistico<s n="adj"/></l><r>balístic<s n="adj"/></r></p></e>
@@ -15679,6 +15681,7 @@
 <e><p><l>ficticio<s n="adj"/></l><r>fictici<s n="adj"/></r></p></e>
 <e><p><l>fidel<s n="adj"/></l><r>fidel<s n="adj"/></r></p></e>
 <e><p><l>fiero<s n="adj"/></l><r>fer<s n="adj"/></r></p></e>
+<e r="LR"><p><l>fiero<s n="adj"/><s n="sup"/></l><r>fer<s n="adj"/></r></p></e>
 <e><p><l>fiero<s n="adj"/></l><r>lleig<s n="adj"/></r></p></e>
 <e><p><l>figurativo<s n="adj"/></l><r>figuratiu<s n="adj"/></r></p></e>
 <e><p><l>filial<s n="adj"/></l><r>filial<s n="adj"/></r></p></e>
@@ -15744,7 +15747,7 @@
 <e><p><l>fresco<s n="adj"/></l><r>fresc<s n="adj"/></r></p></e>
 <e><p><l>fricativo<s n="adj"/></l><r>fricatiu<s n="adj"/></r></p></e>
 <e><p><l>frigorifico<s n="adj"/></l><r>frigorífic<s n="adj"/></r></p></e>
-<e><p><l>frío<s n="adj"/></l><r>fred<s n="adj"/></r></p></e>
+<e><p><l>fredo<s n="adj"/></l><r>fred<s n="adj"/></r></p></e>
 <e><p><l>frito<s n="adj"/></l><r>fregit<s n="adj"/></r></p></e>
 <e><p><l>frivolo<s n="adj"/></l><r>frívol<s n="adj"/></r></p></e>
 <e><p><l>frondoso<s n="adj"/></l><r>frondós<s n="adj"/></r></p></e>
@@ -15756,7 +15759,9 @@
 <e><p><l>frustrador<s n="adj"/></l><r>frustrador<s n="adj"/></r></p></e>
 <e><p><l>frustrant<s n="adj"/></l><r>frustrant<s n="adj"/></r></p></e>
 <e><p><l>fuchitivo<s n="adj"/></l><r>fugitiu<s n="adj"/></r></p></e>
-<e><p><l>fuerte<s n="adj"/></l><r>fort<s n="adj"/></r></p></e>
+<e r="LR"><p><l>fuerte<s n="adj"/><s n="mf"/></l><r>fort<s n="adj"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>fuerte<s n="adj"/><s n="m"/></l><r>fort<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>fuerte<s n="adj"/><s n="f"/></l><r>fort<s n="adj"/><s n="f"/></r></p></e>
 <e><p><l>fulgurant<s n="adj"/></l><r>fulgurant<s n="adj"/></r></p></e>
 <e><p><l>fulminant<s n="adj"/></l><r>fulminant<s n="adj"/></r></p></e>
 <e><p><l>fumador<s n="adj"/></l><r>fumador<s n="adj"/></r></p></e>
@@ -15833,7 +15838,7 @@
 <e><p><l>grotesco<s n="adj"/></l><r>grotesc<s n="adj"/></r></p></e>
 <e><p><l>grueso<s n="adj"/></l><r>gruixut<s n="adj"/></r></p></e>
 <e><p><l>gruixudo<s n="adj"/></l><r>gruixut<s n="adj"/></r></p></e>
-<e><p><l>guaire<s n="adj"/></l><r>gaire<s n="adj"/></r></p></e>
+<!--<e><p><l>guaire<s n="adj"/></l><r>gaire<s n="adj"/></r></p></e>-->
 <e><p><l>gubernamental<s n="adj"/></l><r>governamental<s n="adj"/></r></p></e>
 <e><p><l>gubernativo<s n="adj"/></l><r>governatiu<s n="adj"/></r></p></e>
 <e><p><l>guerrero<s n="adj"/></l><r>guerrer<s n="adj"/></r></p></e>
@@ -16264,7 +16269,6 @@
 <e><p><l>insulso<s n="adj"/></l><r>sonso<s n="adj"/></r></p></e>
 <e><p><l>insuperable<s n="adj"/></l><r>insuperable<s n="adj"/></r></p></e>
 <e><p><l>insuportable<s n="adj"/></l><r>insuportable<s n="adj"/></r></p></e>
-<e><p><l>insurrecto<s n="adj"/></l><r>insurrecte<s n="adj"/></r></p></e>
 <e><p><l>intanchible<s n="adj"/></l><r>intangible<s n="adj"/></r></p></e>
 <e><p><l>intecherrimo<s n="adj"/></l><r>integèrrim<s n="adj"/></r></p></e>
 <e><p><l>integrable<s n="adj"/></l><r>integrable<s n="adj"/></r></p></e>
@@ -16404,6 +16408,7 @@
 <e><p><l>itinerant<s n="adj"/></l><r>itinerant<s n="adj"/></r></p></e>
 <e><p><l>ixeco<s n="adj"/></l><r>sec<s n="adj"/></r></p></e>
 <e><p><l>ixuto<s n="adj"/></l><r>eixut<s n="adj"/></r></p></e>
+<e><p><l>ixuto<s n="adj"/><s n="sup"/></l><r>sec<s n="adj"/><s n="sup"/></r></p></e>
 <e><p><l>ixuto<s n="adj"/></l><r>sec<s n="adj"/></r></p></e>
 <e><p><l>jauto<s n="adj"/></l><r>insuls<s n="adj"/></r></p></e>
 <e><p><l>jauto<s n="adj"/></l><r>sonso<s n="adj"/></r></p></e>
@@ -16497,6 +16502,7 @@
 <e><p><l>mallorquinista<s n="adj"/></l><r>mallorquinista<s n="adj"/></r></p></e>
 <e><p><l>malo<s n="adj"/></l><r>dolent<s n="adj"/></r></p></e>
 <e><p><l>malo<s n="adj"/></l><r>roí<s n="adj"/></r></p></e>
+<e><p><l>malo<s n="adj"/><s n="sup"/></l><r>dolent<s n="adj"/><s n="sup"/></r></p></e>
 <e><p><l>malvau<s n="adj"/></l><r>malvat<s n="adj"/></r></p></e>
 <e><p><l>manchego<s n="adj"/></l><r>manxec<s n="adj"/></r></p></e>
 <e><p><l>manco<s n="adj"/></l><r>manxol<s n="adj"/></r></p></e>
@@ -16667,6 +16673,7 @@
 <e><p><l>morboso<s n="adj"/></l><r>morbós<s n="adj"/></r></p></e>
 <e><p><l>moredizo<s n="adj"/></l><r>somort<s n="adj"/></r></p></e>
 <e><p><l>moreno<s n="adj"/></l><r>bru<s n="adj"/></r></p></e>
+<e><p><l>moreno<s n="adj"/><s n="sup"/></l><r>bru<s n="adj"/><s n="sup"/></r></p></e>
 <e><p><l>moreno<s n="adj"/></l><r>morè<s n="adj"/></r></p></e>
 <e><p><l>morfolochico<s n="adj"/></l><r>morfològic<s n="adj"/></r></p></e>
 <e><p><l>morfosintactico<s n="adj"/></l><r>morfosintàctic<s n="adj"/></r></p></e>
@@ -16690,7 +16697,7 @@
 <e><p><l>mudeixar<s n="adj"/></l><r>mudèjar<s n="adj"/></r></p></e>
 <e><p><l>mudo<s n="adj"/></l><r>mut<s n="adj"/></r></p></e>
 <e><p><l>muerto<s n="adj"/></l><r>mort<s n="adj"/></r></p></e>
-<e><p><l>muito<s n="adj"/></l><r>gaire<s n="adj"/></r></p></e>
+<!--<e><p><l>muito<s n="adj"/></l><r>gaire<s n="adj"/></r></p></e>-->
 <e><p><l>mulato<s n="adj"/></l><r>mulat<s n="adj"/></r></p></e>
 <e><p><l>multicolor<s n="adj"/></l><r>multicolor<s n="adj"/></r></p></e>
 <e><p><l>multicultural<s n="adj"/></l><r>multicultural<s n="adj"/></r></p></e>
@@ -16717,7 +16724,7 @@
 <e><p><l>mutuo<s n="adj"/></l><r>mutu<s n="adj"/></r></p></e>
 <e><p><l>nacional<s n="adj"/></l><r>nacional<s n="adj"/></r></p></e>
 <e><p><l>nacionalista<s n="adj"/></l><r>nacionalista<s n="adj"/></r></p></e>
-<e><p><l>nadador<s n="adj"/></l><r>nadador<s n="adj"/></r></p></e>
+<!--<e><p><l>nadador<s n="adj"/></l><r>nadador<s n="adj"/></r></p></e>-->
 <e><p><l>nadador<s n="adj"/></l><r>nedador<s n="adj"/></r></p></e>
 <e><p><l>nadalenco<s n="adj"/></l><r>nadalenc<s n="adj"/></r></p></e>
 <e><p><l>nadivo<s n="adj"/></l><r>nadiu<s n="adj"/></r></p></e>
@@ -17159,6 +17166,7 @@
 <e><p><l>preterito<s n="adj"/></l><r>pretèrit<s n="adj"/></r></p></e>
 <e><p><l>preto<s n="adj"/></l><r>atapeït<s n="adj"/></r></p></e>
 <e><p><l>preto<s n="adj"/></l><r>gasiu<s n="adj"/></r></p></e>
+<e><p><l>preto<s n="adj"/><s n="sup"/></l><r>gasiu<s n="adj"/></r></p></e>
 <e><p><l>prevaricador<s n="adj"/></l><r>prevaricador<s n="adj"/></r></p></e>
 <e><p><l>preveniu<s n="adj"/></l><r>previngut<s n="adj"/></r></p></e>
 <e><p><l>preventivo<s n="adj"/></l><r>preventiu<s n="adj"/></r></p></e>
@@ -17470,7 +17478,7 @@
 <e><p><l>royenco<s n="adj"/></l><r>rogenc<s n="adj"/></r></p></e>
 <e><p><l>royenco<s n="adj"/></l><r>vermellós<s n="adj"/></r></p></e>
 <e><p><l>royisco<s n="adj"/></l><r>vermellós<s n="adj"/></r></p></e>
-<e><p><l>royo<s n="adj"/></l><r>roig<s n="adj"/></r></p></e>
+<!--<e><p><l>royo<s n="adj"/></l><r>roig<s n="adj"/></r></p></e>-->
 <e><p><l>royo<s n="adj"/></l><r>vermell<s n="adj"/></r></p></e>
 <e><p><l>rubio<s n="adj"/></l><r>ros<s n="adj"/></r></p></e>
 <e><p><l>rudimentario<s n="adj"/></l><r>rudimentari<s n="adj"/></r></p></e>
@@ -17549,6 +17557,7 @@
 <e><p><l>senil<s n="adj"/></l><r>senil<s n="adj"/></r></p></e>
 <e><p><l>sensacional<s n="adj"/></l><r>sensacional<s n="adj"/></r></p></e>
 <e><p><l>sensato<s n="adj"/></l><r>assenyat<s n="adj"/></r></p></e>
+<e><p><l>sensato<s n="adj"/><s n="sup"/></l><r>assenyat<s n="adj"/><s n="sup"/></r></p></e>
 <e><p><l>sensato<s n="adj"/></l><r>sensat<s n="adj"/></r></p></e>
 <e><p><l>sensible<s n="adj"/></l><r>sensible<s n="adj"/></r></p></e>
 <e><p><l>sensitivo<s n="adj"/></l><r>sensitiu<s n="adj"/></r></p></e>
@@ -18134,6 +18143,12 @@
 <e r="LR"><p><l>compacto<s n="adj"/><s n="m"/><s n="pl"/></l><r>compacte<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
 <e r="LR"><p><l>compacto<s n="adj"/><s n="f"/><s n="pl"/></l><r>compacte<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
 <e r="RL"><p><l>compacto<s n="adj"/><s n="GD"/><s n="pl"/></l><r>compacte<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+
+<e><p><l>insurrecto<s n="adj"/><s n="m"/><s n="sg"/></l><r>insurrecte<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+<e><p><l>insurrecto<s n="adj"/><s n="f"/><s n="sg"/></l><r>insurrecte<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>insurrecto<s n="adj"/><s n="m"/><s n="pl"/></l><r>insurrecte<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+<e r="LR"><p><l>insurrecto<s n="adj"/><s n="f"/><s n="pl"/></l><r>insurrecte<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+<e r="RL"><p><l>insurrecto<s n="adj"/><s n="GD"/><s n="pl"/></l><r>insurrecte<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
 
 <e><p><l>correcto<s n="adj"/><s n="m"/><s n="sg"/></l><r>correcte<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
 <e><p><l>correcto<s n="adj"/><s n="f"/><s n="sg"/></l><r>correcte<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
