@@ -464,6 +464,50 @@
 <e><p><l>o<s n="det"/><s n="def"/><s n="f"/></l><r>el<s n="det"/><s n="def"/><s n="f"/></r></p></e>
 <!-- <e r="RL"><p><l>o<s n="det"/><s n="def"/><s n="GD"/></l><r>el<s n="det"/><s n="def"/><s n="mf"/></r></p></e> -->
 
+<e><p><l>iste<s n="det"/></l>              <r>aquest<s n="det"/></r></p></e>
+<e r="RL"><p><l>iste<s n="det"/></l>              <r>este<s n="det"/></r></p></e>
+<e r="LR"><p><l>ixe<s n="det"/></l>               <r>aquell<s n="det"/></r></p></e>
+<e r="RL"><p><l>ixe<s n="det"/></l>               <r>aqueix<s n="det"/></r></p></e>
+<e r="RL"><p><l>ixe<s n="det"/></l>               <r>eixe<s n="det"/></r></p></e>
+<e>       <p><l>aquell<s n="det"/></l>             <r>aquell<s n="det"/></r></p></e>
+
+<e><p><l>o<b/>mío<s n="det"/><s n="pos"/></l><r>el<b/>meu<s n="det"/><s n="pos"/></r></p></e>
+<e><p><l>o<b/>tuyo<s n="det"/><s n="pos"/></l><r>el<b/>teu<s n="det"/><s n="pos"/></r></p></e>
+<e><p><l>o<b/>suyo<s n="det"/><s n="pos"/></l><r>el<b/>seu<s n="det"/><s n="pos"/></r></p></e>
+<e><p><l>o<b/>nuestro<s n="det"/><s n="pos"/></l><r>el<b/>nostre<s n="det"/><s n="pos"/></r></p></e>
+<e><p><l>o<b/>vuestro<s n="det"/><s n="pos"/></l><r>el<b/>vostre<s n="det"/><s n="pos"/></r></p></e>
+
+<e r="RL"><p><l>o<b/>suyo<s n="det"/><s n="pos"/><s n="GD"/></l><r>llur<s n="det"/><s n="pos"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>lur<s n="det"/><s n="pos"/><s n="mf"/></l><r>el<b/>seu<s n="det"/><s n="pos"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>mi<s n="det"/><s n="pos"/><s n="mf"/></l><r>el<b/>meu<s n="det"/><s n="pos"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>tu<s n="det"/><s n="pos"/><s n="mf"/></l><r>el<b/>teu<s n="det"/><s n="pos"/><s n="GD"/></r></p></e>
+<e r="LR"><p><l>su<s n="det"/><s n="pos"/><s n="mf"/></l><r>el<b/>seu<s n="det"/><s n="pos"/><s n="GD"/></r></p></e>
+
+<e><p><l>cada<s n="det"/></l><r>cada<s n="det"/></r></p></e>
+
+<e>       <p><l>bell<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></l>            <r>algun<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
+<e>       <p><l>bell<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></l>            <r>algun<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="LR">       <p><l>bell<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></l>            <r>algun<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
+<e r="LR">       <p><l>bell<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></l>            <r>algun<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
+<!-- generate bell forms only in singular -->
+<e r="LR"><p><l>algún<s n="det"/></l><r>algun<s n="det"/></r></p></e>
+
+<e r="LR">       <p><l>qualque<s n="det"/><s n="ind"/><s n="mf"/><s n="sg"/></l>            <r>algun<s n="det"/><s n="ind"/><s n="GD"/><s n="sg"/></r></p></e>
+<e r="LR">       <p><l>qualque<s n="det"/><s n="ind"/><s n="mf"/><s n="pl"/></l>            <r>algun<s n="det"/><s n="ind"/><s n="GD"/><s n="pl"/></r></p></e>
+<e r="RL">       <p><l>qualque<s n="det"/><s n="ind"/><s n="mf"/><s n="sg"/></l>            <r>algun<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
+<e r="RL">       <p><l>qualque<s n="det"/><s n="ind"/><s n="mf"/><s n="pl"/></l>            <r>algun<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>    
+    <!-- using qualques to translate algunos:   algun gos -bell can ; alguns gossos - qualques cans; --> 
+        
+<e r="RL">       <p><l>qualsiquier<s n="det"/><s n="ind"/><s n="mf"/><s n="sp"/></l>         <r>qualsevol<s n="det"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
+<e r="RL">       <p><l>qualsiquier<s n="det"/><s n="ind"/><s n="mf"/><s n="sp"/></l>         <r>qualsevol<s n="det"/><s n="ind"/><s n="mf"/><s n="pl"/></r></p></e>
+<e r="LR">       <p><l>qualsiquier<s n="det"/><s n="ind"/><s n="mf"/><s n="sp"/></l>         <r>qualsevol<s n="det"/><s n="ind"/><s n="mf"/><s n="ND"/></r></p></e>
+    
+<e><p><l>garra<s n="det"/><s n="ind"/></l><r>cap<s n="det"/><s n="ind"/></r></p></e>
+<e r="LR"><p><l>cap<s n="det"/><s n="ind"/></l><r>cap<s n="det"/><s n="ind"/></r></p></e>
+<e r="LR"><p><l>dengún<s n="det"/><s n="ind"/><s n="m"/></l><r>cap<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>dengún<s n="det"/><s n="ind"/><s n="f"/></l><r>cap<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
+
+
 <!-- SECTION: Pronouns -->
 
 <e><p><l>en<s n="prn"/><s n="enc"/><s n="adv"/></l><r>en<s n="prn"/><s n="enc"/><s n="adv"/></r></p></e>
@@ -505,6 +549,45 @@
 <e><p><l>cosa<s n="prn"/><s n="tn"/><s n="nt"/></l><r>res<s n="prn"/><s n="tn"/><s n="nt"/></r></p></e>
 <e><p><l>res<s n="prn"/><s n="tn"/><s n="nt"/></l><r>res<s n="prn"/><s n="tn"/><s n="nt"/></r></p></e>
 
+<e><p><l>iste<s n="prn"/></l>              <r>aquest<s n="prn"/></r></p></e>
+<e r="RL"><p><l>iste<s n="prn"/></l>              <r>este<s n="prn"/></r></p></e>
+<e r="LR"><p><l>ixe<s n="prn"/></l>               <r>aquell<s n="prn"/></r></p></e>
+<e r="RL"><p><l>ixe<s n="prn"/></l>               <r>aqueix<s n="prn"/></r></p></e>
+<e r="RL"><p><l>ixe<s n="prn"/></l>               <r>eixe<s n="prn"/></r></p></e>
+<e>       <p><l>aquell<s n="prn"/></l>             <r>aquell<s n="prn"/></r></p></e>
+
+<e>       <p><l>belún<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></l>            <r>algun<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+<e>       <p><l>belún<s n="prn"/><s n="tn"/><s n="f"/><s n="sg"/></l>            <r>algun<s n="prn"/><s n="tn"/><s n="f"/><s n="sg"/></r></p></e>
+<e>       <p><l>belún<s n="prn"/><s n="tn"/><s n="m"/><s n="pl"/></l>            <r>algun<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+<e>       <p><l>belún<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/></l>            <r>algun<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/></r></p></e>
+<e>       <p><l>belún<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></l>            <r>algú<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></r></p></e>
+<e r="LR">       <p><l>algún<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></l>            <r>algun<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+<e r="LR">       <p><l>algún<s n="prn"/><s n="tn"/><s n="f"/><s n="sg"/></l>            <r>algun<s n="prn"/><s n="tn"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="LR">       <p><l>algún<s n="prn"/><s n="tn"/><s n="m"/><s n="pl"/></l>            <r>algun<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+<e r="LR">       <p><l>algún<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/></l>            <r>algun<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/></r></p></e>
+<e r="LR">       <p><l>algún<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></l>            <r>algú<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></r></p></e>
+<e r="LR">       <p><l>qualcún<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></l>            <r>algun<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+<e r="LR">       <p><l>qualcún<s n="prn"/><s n="tn"/><s n="f"/><s n="sg"/></l>            <r>algun<s n="prn"/><s n="tn"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="LR">       <p><l>qualcún<s n="prn"/><s n="tn"/><s n="m"/><s n="pl"/></l>            <r>algun<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+<e r="LR">       <p><l>qualcún<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/></l>            <r>algun<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/></r></p></e>
+<e r="LR">       <p><l>qualcún<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></l>            <r>algú<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></r></p></e>
+
+<e>       <p><l>pocos<s n="prn"/></l>             <r>pocs<s n="prn"/></r></p></e>
+<e r="LR">       <p><l>poquetz<s n="prn"/></l>             <r>pocs<s n="prn"/></r></p></e>
+<e>       <p><l>muitos<s n="prn"/></l>            <r>molts<s n="prn"/></r></p></e>
+
+<e r="LR"><p><l>qualsiquiera<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></l><r>qualsevol<s n="prn"/><s n="tn"/><s n="mf"/><s n="ND"/></r></p></e>
+<e r="RL"><p><l>qualsiquiera<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></l><r>qualsevol<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></r></p></e>
+<e r="RL"><p><l>qualsiquiera<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></l><r>qualsevol<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></r></p></e>
+<e r="LR"><p><l>quiquiera<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></l>       <r>qualsevol<s n="prn"/><s n="tn"/><s n="mf"/><s n="ND"/></r></p></e>    
+
+<e><p><l>garra<s n="prn"/><s n="tn"/><s n="ind"/></l><r>cap<s n="prn"/><s n="tn"/><s n="ind"/></r></p></e>
+<e r="LR"><p><l>cap<s n="prn"/><s n="ind"/></l><r>cap<s n="prn"/><s n="tn"/><s n="ind"/></r></p></e>
+<e r="LR"><p><l>dengún<s n="prn"/><s n="tn"/><s n="ind"/><s n="m"/></l><r>cap<s n="prn"/><s n="tn"/><s n="ind"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>dengún<s n="prn"/><s n="tn"/><s n="ind"/><s n="f"/></l><r>cap<s n="prn"/><s n="tn"/><s n="ind"/><s n="mf"/></r></p></e>
+
+<e>       <p><l>dengún<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></l><r>ningú<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></r></p></e>
+<e>       <p><l>digú<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></l><r>ningú<s n="prn"/><s n="tn"/><s n="mf"/><s n="sg"/></r></p></e>
 
 <!-- SECTION: Numerals -->
 
@@ -14625,8 +14708,16 @@
 <e><p><l>bucal<s n="adj"/></l><r>bucal<s n="adj"/></r></p></e>
 <e><p><l>bucolico<s n="adj"/></l><r>bucòlic<s n="adj"/></r></p></e>
 <e><p><l>budista<s n="adj"/></l><r>budista<s n="adj"/></r></p></e>
-<e><p><l>buen<s n="adj"/></l><r>bon<s n="adj"/></r></p></e>
-<e><p><l>bueno<s n="adj"/></l><r>bo<s n="adj"/></r></p></e>
+<e><p><l>buen<s n="adj"/><s n="m"/><s n="sg"/></l><r>bon<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>bueno<s n="adj"/><s n="m"/><s n="sg"/></l><r>bo<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+<e><p><l>bueno<s n="adj"/><s n="f"/><s n="sg"/></l>   <r>bon<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+<e><p><l>bueno<s n="adj"/><s n="f"/><s n="pl"/></l>   <r>bon<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
+<e><p><l>bueno<s n="adj"/><s n="m"/><s n="pl"/></l><r>bon<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
+<e><p><l>bueno<s n="adj"/><s n="sup"/><s n="m"/><s n="sg"/></l><r>bon<s n="adj"/><s n="sup"/><s n="m"/><s n="sg"/></r></p></e>
+<e><p><l>bueno<s n="adj"/><s n="sup"/><s n="m"/><s n="pl"/></l><r>bon<s n="adj"/><s n="sup"/><s n="m"/><s n="pl"/></r></p></e>
+<e><p><l>bueno<s n="adj"/><s n="sup"/><s n="f"/><s n="sg"/></l><r>bon<s n="adj"/><s n="sup"/><s n="f"/><s n="sg"/></r></p></e>
+<e><p><l>bueno<s n="adj"/><s n="sup"/><s n="f"/><s n="pl"/></l><r>bon<s n="adj"/><s n="sup"/><s n="f"/><s n="pl"/></r></p></e>
+<e r="RL"><p><l>bueno<s n="adj"/></l>             <r>bo<s n="adj"/></r></p></e>
 <e><p><l>burdo<s n="adj"/></l><r>bast<s n="adj"/></r></p></e>
 <e><p><l>burocratico<s n="adj"/></l><r>burocràtic<s n="adj"/></r></p></e>
 <e><p><l>cabal<s n="adj"/></l><r>total<s n="adj"/></r></p></e>
@@ -15126,7 +15217,7 @@
 <e><p><l>descentralizador<s n="adj"/></l><r>descentralitzador<s n="adj"/></r></p></e>
 <e><p><l>descolocau<s n="adj"/></l><r>descol·locat<s n="adj"/></r></p></e>
 <e><p><l>descomunal<s n="adj"/></l><r>descomunal<s n="adj"/></r></p></e>
-<e><p><l>desconcertau<s n="adj"/></l><r>esmaperdut<s n="adj"/></r></p></e>
+<e r="RL"><p><l>desconcertau<s n="adj"/></l><r>esmaperdut<s n="adj"/></r></p></e>
 <e><p><l>descontento<s n="adj"/></l><r>descontent<s n="adj"/></r></p></e>
 <e><p><l>descriptible<s n="adj"/></l><r>descriptible<s n="adj"/></r></p></e>
 <e><p><l>descriptivo<s n="adj"/></l><r>descriptiu<s n="adj"/></r></p></e>
@@ -15778,8 +15869,11 @@
 <e><p><l>fruchivoro<s n="adj"/></l><r>frugívor<s n="adj"/></r></p></e>
 <e><p><l>fructifero<s n="adj"/></l><r>fructífer<s n="adj"/></r></p></e>
 <e><p><l>fructuoso<s n="adj"/></l><r>fructuós<s n="adj"/></r></p></e>
-<e><p><l>frustrador<s n="adj"/></l><r>frustrador<s n="adj"/></r></p></e>
 <e><p><l>frustrant<s n="adj"/></l><r>frustrant<s n="adj"/></r></p></e>
+<e r="LR"><p><l>frustrador<s n="adj"/><s n="m"/></l><r>frustrant<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR"><p><l>frustrador<s n="adj"/><s n="f"/></l><r>frustrant<s n="adj"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>frustrant<s n="adj"/><s n="mf"/></l><r>frustrador<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>frustrant<s n="adj"/><s n="mf"/></l><r>frustrador<s n="adj"/><s n="f"/></r></p></e>
 <e><p><l>fuchitivo<s n="adj"/></l><r>fugitiu<s n="adj"/></r></p></e>
 <e r="LR"><p><l>fuerte<s n="adj"/><s n="mf"/></l><r>fort<s n="adj"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>fuerte<s n="adj"/><s n="mf"/></l><r>fort<s n="adj"/><s n="m"/></r></p></e>
@@ -16291,7 +16385,7 @@
 <e><p><l>insuficient<s n="adj"/></l><r>insuficient<s n="adj"/></r></p></e>
 <e><p><l>insular<s n="adj"/></l><r>insular<s n="adj"/></r></p></e>
 <e><p><l>insulso<s n="adj"/></l><r>insuls<s n="adj"/></r></p></e>
-<e><p><l>insulso<s n="adj"/></l><r>sonso<s n="adj"/></r></p></e>
+<e r="RL"><p><l>insulso<s n="adj"/></l><r>sonso<s n="adj"/></r></p></e>
 <e><p><l>insuperable<s n="adj"/></l><r>insuperable<s n="adj"/></r></p></e>
 <e><p><l>insuportable<s n="adj"/></l><r>insuportable<s n="adj"/></r></p></e>
 <e><p><l>intanchible<s n="adj"/></l><r>intangible<s n="adj"/></r></p></e>
@@ -16435,8 +16529,8 @@
 <e><p><l>ixuto<s n="adj"/></l><r>eixut<s n="adj"/></r></p></e>
 <e><p><l>ixuto<s n="adj"/><s n="sup"/></l><r>sec<s n="adj"/><s n="sup"/></r></p></e>
 <e><p><l>ixuto<s n="adj"/></l><r>sec<s n="adj"/></r></p></e>
-<e><p><l>jauto<s n="adj"/></l><r>insuls<s n="adj"/></r></p></e>
-<e><p><l>jauto<s n="adj"/></l><r>sonso<s n="adj"/></r></p></e>
+<e r="LR"><p><l>jauto<s n="adj"/></l><r>insuls<s n="adj"/></r></p></e>
+<e r="RL"><p><l>jauto<s n="adj"/></l><r>sonso<s n="adj"/></r></p></e>
 <e><p><l>junior<s n="adj"/></l><r>júnior<s n="adj"/></r></p></e>
 <e><p><l>karstico<s n="adj"/></l><r>càrstic<s n="adj"/></r></p></e>
 <e><p><l>kurdo<s n="adj"/></l><r>kurd<s n="adj"/></r></p></e>
@@ -17059,7 +17153,7 @@
 <e><p><l>peyorativo<s n="adj"/></l><r>pejoratiu<s n="adj"/></r></p></e>
 <e><p><l>piadoso<s n="adj"/></l><r>piadós<s n="adj"/></r></p></e>
 <e><p><l>picardioso<s n="adj"/></l><r>murri<s n="adj"/></r></p></e>
-<e><p><l>picardioso<s n="adj"/></l><r>picardiós<s n="adj"/></r></p></e>
+<e r="RL"><p><l>picardioso<s n="adj"/></l><r>picardiós<s n="adj"/></r></p></e>
 <e><p><l>pictorico<s n="adj"/></l><r>pictòric<s n="adj"/></r></p></e>
 <e><p><l>piloto<s n="adj"/></l><r>pilot<s n="adj"/></r></p></e>
 <e><p><l>pintoresco<s n="adj"/></l><r>pintoresc<s n="adj"/></r></p></e>
@@ -17082,7 +17176,7 @@
 <e><p><l>plastico<s n="adj"/></l><r>plàstic<s n="adj"/></r></p></e>
 <e><p><l>platinau<s n="adj"/></l><r>platinat<s n="adj"/></r></p></e>
 <e><p><l>pleistoceno<s n="adj"/></l><r>plistocè<s n="adj"/></r></p></e>
-<e><p><l>pleistoceno<s n="adj"/></l><r>plistocènic<s n="adj"/></r></p></e>
+<e r="RL"><p><l>pleistoceno<s n="adj"/></l><r>plistocènic<s n="adj"/></r></p></e>
 <e><p><l>pleonastico<s n="adj"/></l><r>pleonàstic<s n="adj"/></r></p></e>
 <e><p><l>plevioso<s n="adj"/></l><r>plujós<s n="adj"/></r></p></e>
 <e><p><l>plomizo<s n="adj"/></l><r>plomís<s n="adj"/></r></p></e>
@@ -17648,8 +17742,8 @@
 <e><p><l>sionista<s n="adj"/></l><r>sionista<s n="adj"/></r></p></e>
 <e><p><l>sirio<s n="adj"/></l><r>sirià<s n="adj"/></r></p></e>
 <e><p><l>sistematico<s n="adj"/></l><r>sistemàtic<s n="adj"/></r></p></e>
-<e><p><l>sito<s n="adj"/></l><r>siti<s n="adj"/></r></p></e>
-<e><p><l>sito<s n="adj"/></l><r>situar<s n="adj"/></r></p></e>
+<e r="RL"><p><l>sito<s n="adj"/></l><r>siti<s n="adj"/></r></p></e>
+<e r="LR"><p><l>sito<s n="adj"/></l><r>situar<s n="vblex"/><s n="pp"/></r></p></e>
 <e><p><l>soberanista<s n="adj"/></l><r>sobiranista<s n="adj"/></r></p></e>
 <e><p><l>soberano<s n="adj"/></l><r>sobirà<s n="adj"/></r></p></e>
 <e><p><l>soberbio<s n="adj"/></l><r>superb<s n="adj"/></r></p></e>
@@ -18030,10 +18124,9 @@
 <e><p><l>verdadero<s n="adj"/></l><r>verdader<s n="adj"/></r></p></e>
 <e><p><l>verdadero<s n="adj"/></l><r>vertader<s n="adj"/></r></p></e>
 <e><p><l>verde<s n="adj"/></l><r>verd<s n="adj"/></r></p></e>
-<e><p><l>verdosenco<s n="adj"/></l><r>verdós<s n="adj"/></r></p></e>
-<e><p><l>verdosenco<s n="adj"/></l><r>verdosenc<s n="adj"/></r></p></e>
 <e><p><l>verdoso<s n="adj"/></l><r>verdós<s n="adj"/></r></p></e>
-<e><p><l>verdoso<s n="adj"/></l><r>verdosenc<s n="adj"/></r></p></e>
+<e r="LR"><p><l>verdosenco<s n="adj"/></l><r>verdós<s n="adj"/></r></p></e>
+<e r="RL"><p><l>verdoso<s n="adj"/></l><r>verdosenc<s n="adj"/></r></p></e>
 <e><p><l>verenoso<s n="adj"/></l><r>metzinós<s n="adj"/></r></p></e>
 <e><p><l>verenoso<s n="adj"/></l><r>verinós<s n="adj"/></r></p></e>
 <e><p><l>vergonyant<s n="adj"/></l><r>vergonyant<s n="adj"/></r></p></e>
@@ -18340,6 +18433,18 @@
 <e r="LR"><p><l>feliz<s n="adj"/><s n="mf"/><s n="pl"/></l><r>feliç<s n="adj"/><s n="GD"/><s n="pl"/></r></p></e>
 <e r="RL"><p><l>feliz<s n="adj"/><s n="mf"/><s n="pl"/></l><r>feliç<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
 <e r="RL"><p><l>feliz<s n="adj"/><s n="mf"/><s n="pl"/></l><r>feliç<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
+
+<e>       <p><l>nuestro<s n="adj"/><s n="pos"/><s n="m"/><s n="sg"/></l><r>nostre<s n="adj"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+<e>       <p><l>nuestro<s n="adj"/><s n="pos"/><s n="f"/><s n="sg"/></l><r>nostre<s n="adj"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>nuestro<s n="adj"/><s n="pos"/><s n="m"/><s n="pl"/></l><r>nostre<s n="adj"/><s n="pos"/><s n="mf"/><s n="pl"/></r></p></e>
+<e r="LR"><p><l>nuestro<s n="adj"/><s n="pos"/><s n="f"/><s n="pl"/></l><r>nostre<s n="adj"/><s n="pos"/><s n="mf"/><s n="pl"/></r></p></e>
+<e r="RL"><p><l>nuestro<s n="adj"/><s n="pos"/><s n="GD"/><s n="pl"/></l><r>nostre<s n="adj"/><s n="pos"/><s n="mf"/><s n="pl"/></r></p></e>
+<e>       <p><l>vuestro<s n="adj"/><s n="pos"/><s n="m"/><s n="sg"/></l><r>vostre<s n="adj"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
+<e>       <p><l>vuestro<s n="adj"/><s n="pos"/><s n="f"/><s n="sg"/></l><r>vostre<s n="adj"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>vuestro<s n="adj"/><s n="pos"/><s n="m"/><s n="pl"/></l><r>vostre<s n="adj"/><s n="pos"/><s n="mf"/><s n="pl"/></r></p></e>
+<e r="LR"><p><l>vuestro<s n="adj"/><s n="pos"/><s n="f"/><s n="pl"/></l><r>vostre<s n="adj"/><s n="pos"/><s n="mf"/><s n="pl"/></r></p></e>
+<e r="RL"><p><l>vuestro<s n="adj"/><s n="pos"/><s n="GD"/><s n="pl"/></l><r>vostre<s n="adj"/><s n="pos"/><s n="mf"/><s n="pl"/></r></p></e>
+
 
 <!-- SECTION: Adverbs -->
 
@@ -19344,9 +19449,7 @@
 <e><p><l>deterministament<s n="adv"/></l><r>deterministament<s n="adv"/></r></p></e>
 <e><p><l>detestablement<s n="adv"/></l><r>detestablement<s n="adv"/></r></p></e>
 <e><p><l>detractorament<s n="adv"/></l><r>detractorament<s n="adv"/></r></p></e>
-<e r="RL"><p><l>detrás<s n="adv"/></l><r>al<b/>darrere<s n="adv"/></r></p></e>
-<e><p><l>detrás<s n="adv"/></l><r>darrere<s n="adv"/></r></p></e>
-<e r="RL"><p><l>detrás<s n="adv"/></l><r>rere<s n="adv"/></r></p></e>
+<e r="LR"><p><l>detrás<s n="adv"/></l><r>darrere<s n="adv"/></r></p></e>
 <e><p><l>devastadorament<s n="adv"/></l><r>devastadorament<s n="adv"/></r></p></e>
 <e><p><l>devoradorament<s n="adv"/></l><r>devoradorament<s n="adv"/></r></p></e>
 <e r="RL"><p><l>dezaga<s n="adv"/></l><r>al<b/>darrere<s n="adv"/></r></p></e>
