@@ -1,6 +1,6 @@
 AC_PREREQ(2.52)
 
-AC_INIT([Apertium Aragonese-Catalan], [0.2.0], [apertium-stuff@lists.sourceforge.net], [apertium-arg-cat], [http://wiki.apertium.org/wiki/Apertium-arg-cat])
+AC_INIT([Apertium Aragonese-Catalan], [0.1.0], [apertium-stuff@lists.sourceforge.net], [apertium-arg-cat], [http://wiki.apertium.org/wiki/Apertium-arg-cat])
 AM_INIT_AUTOMAKE
 
 AC_PROG_LN_S
