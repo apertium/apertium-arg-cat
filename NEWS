@@ -1,0 +1,20 @@
+Jan 16, 2016
+* Initial release (0.1.0), beta
+* Operative bidirectional release.
+* Features:
+   * Uses monolingual packages apertium-cat and apertium-arg (separated monolingual and bilingual data).
+   * Trimming of the monolingual dictionary (in both directions).
+   * Lexical selection support (not used yet).
+   * Monolingual dictionaries:
+	Aragonese (apertium-arg): > 546 paradigms, > 21073 lemmae (of which, 8047 proper nouns), including 1921 multi-words.  
+	Catalan (apertium-cat): > 559 paradigms, > 41143 lemmae (of which, 8341 proper nouns), including 4115 multi-words.
+   * Bilingual dictionary: 24110 entries. Open categories crossed from apertium-spa-arg (ver 0.4.1) and apertium-es-ca. Some closed categories incomplete.
+   * Naïve coverage: 
+	Aragonese: From 87.7% in an.wikipedia to 89.2% in a corpus of narrative texts.
+	Catalan: From 87.6% in Catalan corpus at trunk/apertium-eo-ca/tekstaro/ca.crp.txt to 93.2% at trunk/apertium-es-ca/ca-tagger-data/ca.tagged.txt
+   * Translation performance: Catalan to Aragonese (50 first sentences of ca.crp.txt): WER = 19.37% (PER=17.85%);  WER (unknown removed) = 15.48% (PER=13.96%). Unknown words: 11.86%. Free rides: 32.69%.
+   * Dialectal support: Analysis of Aragonese dialectal forms supported. Valencian forms are analyzed, but not generated.
+* Main pending Issues:
+   * Improve on coverage.
+   * Work on transfer.
+   * Develop lexical selection rules
