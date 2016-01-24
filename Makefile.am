@@ -1,5 +1,5 @@
 ###############################################################################
-## Makefile for Catalan--Galician
+## Makefile for Aragonese-Catalan 
 ###############################################################################
 
 VERSION=0.1.0
@@ -37,14 +37,14 @@ TARGETS_COMMON =		\
 ###############################################################################
 
 # -------------------
-# Catalan analysis:
+# Aragonese analysis:
 # -------------------
 
 $(PREFIX1).automorf.bin: $(AP_SRC1)/$(LANG1).automorf.bin $(PREFIX1).autobil.bin
 	lt-trim $^ $@
 
 # -------------------
-# Catalan generation:
+# Aragonese generation:
 # ---------------------
 
 
@@ -52,14 +52,14 @@ $(PREFIX2).autogen.bin: $(AP_SRC1)/$(LANG1).autogen.bin
 	cp $< $@
 
 # -------------------
-# Galician analysis:
+# Catalan analysis:
 # -------------------
 
 $(PREFIX2).automorf.bin: $(AP_SRC2)/$(LANG2).automorf.bin $(PREFIX2).autobil.bin
 	lt-trim $^ $@
 
 # -------------------
-# Galician generation:
+# Catalan generation:
 # ---------------------
 
 
