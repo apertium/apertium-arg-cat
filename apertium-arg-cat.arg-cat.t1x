@@ -6,7 +6,7 @@
     </def-cat>
 
     <def-cat n="adv">
-      <cat-item tags=".*"/>
+      <cat-item tags="adv.*"/>
     </def-cat>
 
     <def-cat n="predet">
@@ -17,8 +17,16 @@
       <cat-item tags="prn.*"/>
     </def-cat>
 
+    <def-cat n="prnenc">
+      <cat-item tags="prn.enc.*"/>
+    </def-cat>
+
     <def-cat n="det">
       <cat-item tags="det.*"/>
+    </def-cat>
+
+    <def-cat n="adj">
+      <cat-item tags="adj.*"/>
     </def-cat>
 
     <def-cat n="adjec">
@@ -3078,6 +3086,55 @@ closa
       </action>
     </rule>
 
+    <rule comment="REGLA: VERB PRNENC">
+      <pattern>
+	<pattern-item n="verb"/>
+	<pattern-item n="prnenc"/>
+      </pattern>
+      <action>
+          <out>
+            <mlu>
+              <lu>
+                <clip pos="1" side="tl" part="lemh"/>
+                <clip pos="1" side="tl" part="tags"/>
+              </lu>
+              <lu>
+                <clip pos="2" side="tl" part="lem"/>
+                <clip pos="2" side="tl" part="tags"/>
+                <clip pos="1" side="tl" part="lemq"/>
+              </lu>
+            </mlu>
+          </out>
+      </action>
+    </rule>
+
+
+    <rule comment="REGLA: VERB PRNENC PRNENC">
+      <pattern>
+	<pattern-item n="verb"/>
+	<pattern-item n="prnenc"/>
+	<pattern-item n="prnenc"/>
+      </pattern>
+      <action>
+          <out>
+            <mlu>
+              <lu>
+                <clip pos="1" side="tl" part="lemh"/>
+                <clip pos="1" side="tl" part="tags"/>
+              </lu>
+              <lu>
+                <clip pos="2" side="tl" part="lemh"/>
+                <clip pos="2" side="tl" part="tags"/>
+              </lu>
+              <lu>
+                <clip pos="3" side="tl" part="lem"/>
+                <clip pos="3" side="tl" part="tags"/>
+                <clip pos="1" side="tl" part="lemq"/>
+              </lu>
+            </mlu>
+          </out>
+      </action>
+    </rule>
     <rule comment="REGLA: reset variables">
       <pattern>
 	<pattern-item n="sent"/>
