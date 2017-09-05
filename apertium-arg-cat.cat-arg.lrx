@@ -1,15 +1,26 @@
 <rules>
   <!-- 
-    This rule chooses "energía" as the translation of "power" when it is preceded by "wind". 
-    Add your own rules within <rule> here, using the resources below as a guide 
+    Chooses "ciento" as the translation for "cent" when it is of followed by a <num>. 
   -->
 
-  <rule>
-    <match lemma="wind"/>
-    <match lemma="power" tags="n.*">
-      <select lemma="energía" tags="n.*"/>
-    </match>
-  </rule>
+<rule weight="1.0">
+    <match lemma="cent">
+		<select lemma="ciento"/>
+	</match>	
+    <match tags="num.*"/>
+</rule>
+  
+<rule weight="1.0">
+    <match lemma="cent">
+		<select lemma="cient"/>
+	</match>	
+	<or>
+    <match lemma="mil"/>
+	<match lemma="millón"/>
+	</or>
+</rule>
+
+  
 </rules>
 
 <!-- 

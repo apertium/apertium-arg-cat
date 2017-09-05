@@ -687,11 +687,15 @@
 <e r="LR"><p><l>dos<s n="num"/><s n="mf"/></l><r>dos<s n="num"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>dos<s n="num"/><s n="mf"/></l><r>dos<s n="num"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>dos<s n="num"/><s n="mf"/></l><r>dos<s n="num"/><s n="m"/></r></p></e>
+<e><p><l>cient<s n="num"/><s n="mf"/><s n="sp"/></l><r>cent<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e><p><l>ciento<s n="num"/><s n="m"/><s n="sp"/></l><r>cent<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e r="LR"><p><l>ciento<s n="n"/><s n="m"/><s n="sg"/></l><r>cent<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+<e r="LR"><p><l>ciento<s n="num"/><s n="m"/><s n="pl"/></l><r>centenar<s n="num"/><s n="m"/><s n="pl"/></r></p></e>
+
+<e><p><l>centenar<s n="n"/><s n="m"/></l><r>centenar<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>centenar<s n="n"/><s n="m"/></l><r>centenar<s n="n"/><s n="m"/></r></p></e>
 
 <e><p><l>catorce<s n="num"/></l><r>catorze<s n="num"/></r></p></e>
-<e><p><l>ciento<s n="num"/><s n="m"/><s n="sp"/></l><r>cent<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
-<e><p><l>ciento<s n="num"/><s n="m"/><s n="pl"/></l><r>cent<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
-<e><p><l>cient<s n="num"/></l><r>cent<s n="num"/></r></p></e>
 <e><p><l>cincientos<s n="num"/></l><r>cinc-cents<s n="num"/></r></p></e>
 <e><p><l>cinco<s n="num"/></l><r>cinc<s n="num"/></r></p></e>
 <e><p><l>cinquanta<b/>y<b/>cinco<s n="num"/></l><r>cinquanta-cinc<s n="num"/></r></p></e>
@@ -1647,7 +1651,7 @@
 <e><p><l>caballo<s n="n"/><s n="m"/></l><r>cavall<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>cabana<s n="n"/><s n="f"/></l><r>cabana<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>cabana<s n="n"/><s n="f"/></l><r>cabanya<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>cabo<b/>de<b/>semana<s n="n"/><s n="m"/></l><r>cap<b/>de<b/>setmana<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>cabo<g><b/>de<b/>semana</g><s n="n"/><s n="m"/></l><r>cap<g><b/>de<b/>setmana</g><s n="n"/><s n="m"/></r></p></e>
 <e><p><l>cabo<s n="n"/><s n="m"/></l><r>extrem<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>cabos<b/>de<b/>semana<s n="n"/><s n="m"/><s n="pl"/></l><r>caps<b/>de<b/>setmana<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
 <e><p><l>cacau<s n="n"/><s n="m"/></l><r>cacau<s n="n"/><s n="m"/></r></p></e>
@@ -1859,7 +1863,6 @@
 <e><p><l>CEN<s n="n"/><s n="acr"/><s n="f"/></l><r>CEN<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
 <e><p><l>censura<s n="n"/><s n="f"/></l><r>censura<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>centena<s n="n"/><s n="f"/></l><r>centè<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>centenar<s n="n"/><s n="m"/></l><r>centenar<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>centinela<s n="n"/><s n="f"/></l><r>sentinella<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>centralismo<s n="n"/><s n="m"/></l><r>centralisme<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>centralista<s n="n"/><s n="mf"/></l><r>centralista<s n="n"/><s n="mf"/></r></p></e>
@@ -2340,6 +2343,7 @@
 <e><p><l>contracción<s n="n"/><s n="f"/></l><r>contracció<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>contracepción<s n="n"/><s n="f"/></l><r>contracepció<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>contracto<s n="n"/><s n="m"/></l><r>contracte<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>tracto<s n="n"/><s n="m"/></l><r>tracte<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>contradicción<s n="n"/><s n="f"/></l><r>contradicció<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>contraindicación<s n="n"/><s n="f"/></l><r>contraindicació<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>contrainformación<s n="n"/><s n="f"/></l><r>contrainformació<s n="n"/><s n="f"/></r></p></e>
@@ -2522,7 +2526,8 @@
 <e><p><l>cultura<s n="n"/><s n="f"/></l><r>cultura<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>cupula<s n="n"/><s n="f"/></l><r>cúpula<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>curación<s n="n"/><s n="f"/></l><r>curació<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>cura<s n="n"/><s n="f"/></l><r>cura<s n="n"/><s n="f"/></r></p></e>
+<e srl="cura D"><p><l>cura<s n="n"/><s n="f"/></l><r>cura<s n="n"/><s n="f"/></r></p></e>
+<e srl="cudiau"><p><l>cudiau<s n="n"/><s n="m"/></l><r>cura<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>curiosidat<s n="n"/><s n="f"/></l><r>curiositat<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>currín<s n="n"/><s n="m"/></l><r>menovell<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>cursiva<s n="n"/><s n="f"/></l><r>cursiva<s n="n"/><s n="f"/></r></p></e>
@@ -4918,7 +4923,10 @@
 <e><p><l>mortalidat<s n="n"/><s n="f"/></l><r>mortalitat<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>mosaico<s n="n"/><s n="m"/></l><r>mosaic<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>mosca<s n="n"/><s n="f"/></l><r>mosca<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>mosen<s n="n"/><s n="m"/></l><r>capellà<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>capellán<s n="n"/><s n="m"/></l><r>capellà<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>mosen<s n="n"/><s n="m"/></l><r>capellà<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>mosén<s n="n"/><s n="m"/></l><r>capellà<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>cura<s n="n"/><s n="m"/></l><r>capellà<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>mosica<s n="n"/><s n="f"/></l><r>músic<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>mostaza<s n="n"/><s n="f"/></l><r>mostassa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>mostrador<s n="n"/><s n="m"/></l><r>mostrador<s n="n"/><s n="m"/></r></p></e>
@@ -6709,11 +6717,13 @@
 <e><p><l>toxicolochía<s n="n"/><s n="f"/></l><r>toxicologia<s n="n"/><s n="f"/></r></p></e>
 <!--<e><p><l>tozolón<s n="n"/><s n="m"/></l><r>colp<s n="n"/><s n="m"/></r></p></e>-->
 <e r="LR"><p><l>tozolón<s n="n"/><s n="m"/></l><r>cop<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>tozuelo<s n="n"/><s n="m"/></l><r>cap<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>tozuelo<s n="n"/><s n="m"/></l><r>cap<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>cabeza<s n="n"/><s n="f"/></l><r>cap<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>TPG<s n="n"/><s n="acr"/><s n="m"/></l><r>TPG<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
 <e><p><l>tracción<s n="n"/><s n="f"/></l><r>tracció<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>trachedia<s n="n"/><s n="f"/></l><r>tragèdia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>tractamiento<s n="n"/><s n="m"/></l><r>tractament<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>tractau<s n="n"/><s n="m"/></l><r>tractat<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>tractor<s n="n"/><s n="m"/></l><r>tractor<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>tradición<s n="n"/><s n="f"/></l><r>tradició<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>tradición<s n="n"/><s n="f"/></l><r>traïció<s n="n"/><s n="f"/></r></p></e>
@@ -15476,7 +15486,7 @@
 <e><p><l>documental<s n="adj"/></l><r>documental<s n="adj"/></r></p></e>
 <e><p><l>dogmatico<s n="adj"/></l><r>dogmàtic<s n="adj"/></r></p></e>
 <e><p><l>dolent<s n="adj"/></l><r>dolent<s n="adj"/></r></p></e>
-<e><p><l>dolent<s n="adj"/></l><r>roí<s n="adj"/></r></p></e>
+<e r="RL"><p><l>dolent<s n="adj"/></l><r>roí<s n="adj"/></r></p></e>
 <e><p><l>doloroso<s n="adj"/></l><r>dolorós<s n="adj"/></r></p></e>
 <e><p><l>doloso<s n="adj"/></l><r>dolós<s n="adj"/></r></p></e>
 <e><p><l>domestico<s n="adj"/></l><r>domèstic<s n="adj"/></r></p></e>
@@ -17550,7 +17560,8 @@
 <e><p><l>raquitico<s n="adj"/></l><r>raquític<s n="adj"/></r></p></e>
 <e><p><l>raro<s n="adj"/></l><r>rar<s n="adj"/></r></p></e>
 <e><p><l>rasmiudo<s n="adj"/></l><r>coratjós<s n="adj"/></r></p></e>
-<e><p><l>raso<s n="adj"/></l><r>ras<s n="adj"/></r></p></e>
+<e><p><l>raso<s n="adj"/><s n="m"/></l><r>ras<s n="adj"/><s n="m"/></r></p></e>
+<e><p><l>raso<s n="adj"/><s n="f"/></l><r>ras<s n="adj"/><s n="f"/></r></p></e>
 <e><p><l>razonable<s n="adj"/></l><r>raonable<s n="adj"/></r></p></e>
 <e><p><l>reaccionario<s n="adj"/></l><r>reaccionari<s n="adj"/></r></p></e>
 <e><p><l>reactivo<s n="adj"/></l><r>reactiu<s n="adj"/></r></p></e>
@@ -18265,10 +18276,8 @@
 <e><p><l>videotelefonico<s n="adj"/></l><r>videotelefònic<s n="adj"/></r></p></e>
 <e><p><l>viello<s n="adj"/></l><r>vell<s n="adj"/></r></p></e>
 <e><p><l>vigoroso<s n="adj"/></l><r>vigorós<s n="adj"/></r></p></e>
-<e><p><l>vil<s n="adj"/><s n="m"/><s n="sg"/></l><r>vil<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
-<e><p><l>vil<s n="adj"/><s n="m"/><s n="pl"/></l><r>vil<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
-<e><p><l>vil<s n="adj"/><s n="f"/><s n="sg"/></l><r>vil<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
-<e><p><l>vil<s n="adj"/><s n="f"/><s n="pl"/></l><r>vil<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
+<e><p><l>vil<s n="adj"/><s n="mf"/><s n="sg"/></l><r>vil<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
+<e><p><l>vil<s n="adj"/><s n="mf"/><s n="pl"/></l><r>vil<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
 <e><p><l>villano<s n="adj"/></l><r>vilà<s n="adj"/></r></p></e>
 <e><p><l>vinatero<s n="adj"/></l><r>vinater<s n="adj"/></r></p></e>
 <e><p><l>vinculable<s n="adj"/></l><r>vinculable<s n="adj"/></r></p></e>
@@ -24154,6 +24163,8 @@
 <e><p><l>retornar<s n="vblex"/></l><r>retornar<s n="vblex"/></r></p></e>
 <e><p><l>retraducir<s n="vblex"/></l><r>retraduir<s n="vblex"/></r></p></e>
 <e><p><l>retratar<s n="vblex"/></l><r>retratar<s n="vblex"/></r></p></e>
+<e><p><l>tractar<s n="vblex"/></l><r>tractar<s n="vblex"/></r></p></e>
+<e><p><l>tractar<g><b/>de</g><s n="vblex"/></l><r>tractar<g><b/>de</g><s n="vblex"/></r></p></e>
 <e><p><l>retrayer<s n="vblex"/></l><r>retreure<s n="vblex"/></r></p></e>
 <e><p><l>retrobar<s n="vblex"/></l><r>retrobar<s n="vblex"/></r></p></e>
 <e><p><l>reubrir<s n="vblex"/></l><r>reobrir<s n="vblex"/></r></p></e>

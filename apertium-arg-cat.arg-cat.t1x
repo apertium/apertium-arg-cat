@@ -46,6 +46,7 @@
       <cat-item tags="vblex.*"/>
       <cat-item tags="vbser.*"/>
       <cat-item tags="vbmod.*"/>
+      <cat-item tags="vbhaver.*"/>
       <cat-item tags="vaux.*"/>
     </def-cat>
 
