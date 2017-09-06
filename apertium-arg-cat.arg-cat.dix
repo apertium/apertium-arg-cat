@@ -218,6 +218,8 @@
 <e><p><l>no<b/>guaire<s n="preadv"/></l><r>no<b/>gaire<s n="preadv"/></r></p></e> <!--needed?-->
 <e r="RL"><p><l>pro<s n="preadv"/></l>       <r>força<s n="preadv"/></r></p></e>
 <e>       <p><l>pro<s n="preadv"/></l>       <r>bastant<s n="preadv"/></r></p></e>
+<e>       <p><l>pro<s n="adj"/><s n="mf"/></l><r>bastant<s n="adj"/><s n="mf"/></r></p></e>
+<e r="LR">       <p><l>bastant<s n="adj"/><s n="mf"/></l><r>bastant<s n="adj"/><s n="mf"/></r></p></e>
 
 <!-- SECTION: Prepositions -->
 
@@ -3244,7 +3246,7 @@
 <e><p><l>escurimiento<s n="n"/><s n="m"/></l><r>enfosquiment<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>esdevenimiento<s n="n"/><s n="m"/></l><r>esdeveniment<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>esencia<s n="n"/><s n="f"/></l><r>essència<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>defensa<s n="n"/><s n="f"/></l><r>defensa<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>defensa<s n="n"/><s n="f"/></l><r>defensa<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>esfera<s n="n"/><s n="f"/></l><r>esfera<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>esfogue<s n="n"/><s n="m"/></l><r>alleujament<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>esfuerzo<s n="n"/><s n="m"/></l><r>esforç<s n="n"/><s n="m"/></r></p></e>
@@ -6718,7 +6720,7 @@
 <!--<e><p><l>tozolón<s n="n"/><s n="m"/></l><r>colp<s n="n"/><s n="m"/></r></p></e>-->
 <e r="LR"><p><l>tozolón<s n="n"/><s n="m"/></l><r>cop<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>tozuelo<s n="n"/><s n="m"/></l><r>cap<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>cabeza<s n="n"/><s n="f"/></l><r>cap<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>cabeza<s n="n"/><s n="f"/></l><r>cap<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>TPG<s n="n"/><s n="acr"/><s n="m"/></l><r>TPG<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
 <e><p><l>tracción<s n="n"/><s n="f"/></l><r>tracció<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>trachedia<s n="n"/><s n="f"/></l><r>tragèdia<s n="n"/><s n="f"/></r></p></e>
