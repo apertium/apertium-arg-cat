@@ -832,6 +832,25 @@
 
 <!-- SECTION: Nouns -->
 
+<e><p><l>ensenyanza<s n="n"/><s n="f"/></l><r>ensenyament<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>amostranza<s n="n"/><s n="f"/></l><r>ensenyament<s n="n"/><s n="m"/></r></p></e>
+
+
+<e><p><l>segador<s n="n"/></l><r>segador<s n="n"/></r></p></e>
+<e r="RL"><p><l>labrador<s n="n"/></l>          <r>llaurador<s n="n"/></r></p></e>
+<e r="RL"><p><l>labrador<s n="n"/></l>           <r>camperol<s n="n"/></r></p></e>
+<e r="RL"><p><l>labrador<s n="n"/></l>           <r>pagès<s n="n"/></r></p></e>
+<e r="LR" vr="cat"><p><l>labrador<s n="n"/></l>  <r>pagès<s n="n"/></r></p></e>
+<e r="LR" vr="val_gva val_uni"><p><l>labrador<s n="n"/></l><r>camperol<s n="n"/></r></p></e>
+<e>       <p><l>dote<s n="n"/><s n="m"/></l>     <r>dot<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>clin<s n="n"/><s n="m"/></l>                <r>crinera<s n="n"/><s n="f"/></r></p></e>
+
+<e>       <p><l>ret<s n="n"/><s n="m"/></l>                 <r>xarxa<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>chitán<s n="n"/></l><r>gitano<s n="n"/></r></p></e>
+<e>       <p><l>cochín<s n="n"/><s n="m"/></l>               <r>porc<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>cochín<s n="n"/><s n="f"/></l>               <r>porca<s n="n"/><s n="f"/></r></p></e>
+<e r="LR">       <p><l>tocino<s n="n"/><s n="m"/></l>               <r>porc<s n="n"/><s n="m"/></r></p></e>
+<e r="LR">       <p><l>tocino<s n="n"/><s n="f"/></l>               <r>porca<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>abadía<s n="n"/><s n="f"/></l><r>abadia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>abad<s n="n"/><s n="m"/></l><r>abat<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>abalizamiento<s n="n"/><s n="m"/></l><r>abalisament<s n="n"/><s n="m"/></r></p></e>
@@ -1153,7 +1172,8 @@
 <e><p><l>amputación<s n="n"/><s n="f"/></l><r>amputació<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>amuntonamiento<s n="n"/><s n="m"/></l><r>amuntegament<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>analfabetismo<s n="n"/><s n="m"/></l><r>analfabetisme<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>analís<s n="n"/><s n="f"/></l><r>anàlisi<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>analisi<s n="n"/><s n="f"/></l><r>anàlisi<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>analís<s n="n"/><s n="m"/></l><r>anàlisi<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>analista<s n="n"/><s n="mf"/></l><r>analista<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>analochía<s n="n"/><s n="f"/></l><r>analogia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>anamnesi<s n="n"/><s n="f"/></l><r>anamnesi<s n="n"/><s n="f"/></r></p></e>
@@ -1390,7 +1410,7 @@
 <e><p><l>autenticidat<s n="n"/><s n="f"/></l><r>autenticitat<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>autentificación<s n="n"/><s n="f"/></l><r>autenticació<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>autista<s n="n"/><s n="mf"/></l><r>autista<s n="n"/><s n="mf"/></r></p></e>
-<e><p><l>autoanalís<s n="n"/><s n="f"/></l><r>autoanàlisi<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>autoanalisi<s n="n"/><s n="f"/></l><r>autoanàlisi<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>autoavaluación<s n="n"/><s n="f"/></l><r>autoavaluació<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>autobiografía<s n="n"/><s n="f"/></l><r>autobiografia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>autocar<s n="n"/><s n="m"/></l><r>autocar<s n="n"/><s n="m"/></r></p></e>
@@ -1591,6 +1611,7 @@
 <e><p><l>bofetada<s n="n"/><s n="f"/></l><r>bufetada<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>boina<s n="n"/><s n="f"/></l><r>boina<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>boira<s n="n"/><s n="f"/></l><r>boira<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>buixo<s n="n"/><s n="m"/></l><r>boix<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>bola<s n="n"/><s n="f"/></l><r>bola<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>bolchevismo<s n="n"/><s n="m"/></l><r>bolxevisme<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>bolsa<s n="n"/><s n="f"/></l><r>borsa<s n="n"/><s n="f"/></r></p></e>
@@ -1622,6 +1643,7 @@
 <e><p><l>brendador<s n="n"/><s n="m"/></l><r>berenador<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>brigadista<s n="n"/><s n="mf"/></l><r>brigadista<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>broixa<s n="n"/><s n="f"/></l><r>bruixa<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>bruixón<s n="n"/></l><r>bruixot<s n="n"/></r></p></e>
 <e><p><l>broixería<s n="n"/><s n="f"/></l><r>bruixeria<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>broma<s n="n"/><s n="f"/></l><r>broma<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>bromatolochía<s n="n"/><s n="f"/></l><r>bromatologia<s n="n"/><s n="f"/></r></p></e>
@@ -2054,6 +2076,7 @@
 <e><p><l>clau<s n="n"/><s n="f"/></l><r>contrasenya<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>claudicación<s n="n"/><s n="f"/></l><r>claudicació<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>clau<s n="n"/><s n="f"/></l><r>clau<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>clau<s n="n"/><s n="m"/></l><r>clau<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>clausura<s n="n"/><s n="f"/></l><r>clausura<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>clavicula<s n="n"/><s n="f"/></l><r>clavícula<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>clavilla<s n="n"/><s n="f"/></l><r>clavilla<s n="n"/><s n="f"/></r></p></e>
@@ -2235,6 +2258,9 @@
 <e><p><l>condenación<s n="n"/><s n="f"/></l><r>condemnació<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>condenau<s n="n"/><s n="m"/></l><r>condemnat<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>conde<s n="n"/><s n="m"/></l><r>comte<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>conte<s n="n"/><s n="m"/></l><r>comte<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>conte<s n="n"/><s n="f"/></l><r>comte<s n="n"/><s n="f"/></r></p></e>
+<e>       <i>tigre<s n="n"/></i></e>
 <e><p><l>condensación<s n="n"/><s n="f"/></l><r>condensació<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>condescendencia<s n="n"/><s n="f"/></l><r>condescendència<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>condicionamiento<s n="n"/><s n="m"/></l><r>condicionament<s n="n"/><s n="m"/></r></p></e>
@@ -2472,7 +2498,7 @@
 <e><p><l>criminalización<s n="n"/><s n="f"/></l><r>criminalització<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>criminolochía<s n="n"/><s n="f"/></l><r>criminologia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>criollo<s n="n"/><s n="m"/></l><r>crioll<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>criptoanalís<s n="n"/><s n="f"/></l><r>criptoanàlisi<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>criptoanalisi<s n="n"/><s n="f"/></l><r>criptoanàlisi<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>criptografía<s n="n"/><s n="f"/></l><r>criptografia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>criptolochía<s n="n"/><s n="f"/></l><r>criptologia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>crisi<s n="n"/><s n="f"/></l><r>crisi<s n="n"/><s n="f"/></r></p></e>
@@ -3042,7 +3068,7 @@
 <e><p><l>electricidat<s n="n"/><s n="f"/></l><r>electricitat<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>electricista<s n="n"/><s n="mf"/></l><r>electricista<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>electrificación<s n="n"/><s n="f"/></l><r>electrificació<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>electroanalís<s n="n"/><s n="f"/></l><r>electroanàlisi<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>electroanalisi<s n="n"/><s n="f"/></l><r>electroanàlisi<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>electrocución<s n="n"/><s n="f"/></l><r>electrocució<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>electroencefalografía<s n="n"/><s n="f"/></l><r>electroencefalografia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>electroerosión<s n="n"/><s n="f"/></l><r>electroerosió<s n="n"/><s n="f"/></r></p></e>
@@ -3769,6 +3795,8 @@
 <e><p><l>fuerza<s n="n"/><s n="f"/></l><r>força<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>fuesa<s n="n"/><s n="f"/></l><r>fossa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>fuesa<s n="n"/><s n="f"/></l><r>tomba<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>fuina<s n="n"/></l><r>marta<s n="n"/></r></p></e>
+<e><p><l>cardelina<s n="n"/></l><r>cardenera<s n="n"/></r></p></e>
 <e><p><l>fuga<s n="n"/><s n="f"/></l><r>fuga<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>fuga<s n="n"/><s n="f"/></l><r>fugida<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>fujimorista<s n="n"/><s n="mf"/></l><r>fujimorista<s n="n"/><s n="mf"/></r></p></e>
@@ -3939,7 +3967,8 @@
 <e><p><l>hematolochía<s n="n"/><s n="f"/></l><r>hematologia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>hemodialisi<s n="n"/><s n="f"/></l><r>hemodiàlisi<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>heraldo<s n="n"/><s n="m"/></l><r>herald<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>heredero<s n="n"/><s n="m"/></l><r>hereu<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>heredero<s n="n"/><s n="m"/></l><r>hereu<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>hereu<s n="n"/></l>            <r>hereu<s n="n"/></r></p></e>
 <e><p><l>hermetismo<s n="n"/><s n="m"/></l><r>hermetisme<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>heroísmo<s n="n"/><s n="m"/></l><r>heroisme<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>hespitalidat<s n="n"/><s n="f"/></l><r>hospitalitat<s n="n"/><s n="f"/></r></p></e>
@@ -5134,6 +5163,9 @@
 <e><p><l>okupación<s n="n"/><s n="f"/></l><r>okupació<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>oligarquía<s n="n"/><s n="f"/></l><r>oligarquia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>olimpiada<s n="n"/><s n="f"/></l><r>olimpíada<s n="n"/><s n="f"/></r></p></e>
+<e srl="aceite D"><p><l>aceite<s n="n"/><s n="f"/></l><r>oli<s n="n"/><s n="m"/></r></p></e>
+<e srl="olio"><p><l>olio<s n="n"/><s n="m"/></l><r>oli<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>almibar<s n="n"/></l>   <r>almívar<s n="n"/></r></p></e>
 <e><p><l>oliva<s n="n"/><s n="f"/></l><r>oliva<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>olivera<s n="n"/><s n="f"/></l><r>olivera<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>olla<s n="n"/><s n="f"/></l><r>olla<s n="n"/><s n="f"/></r></p></e>
@@ -5274,7 +5306,8 @@
 <e><p><l>paraguayo<s n="n"/><s n="m"/></l><r>paraguaià<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>paralela<s n="n"/><s n="f"/></l><r>paral·lela<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>paralelismo<s n="n"/><s n="m"/></l><r>paral·lelisme<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>paralís<s n="n"/><s n="f"/></l><r>paràlisi<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>paralisi<s n="n"/><s n="f"/></l><r>paràlisi<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>paralís<s n="n"/><s n="m"/></l><r>paràlisi<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>paralización<s n="n"/><s n="f"/></l><r>paralització<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>parametrización<s n="n"/><s n="f"/></l><r>parametrització<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>parametro<s n="n"/><s n="m"/></l><r>paràmetre<s n="n"/><s n="m"/></r></p></e>
@@ -5520,6 +5553,7 @@
 <e><p><l>poema<s n="n"/><s n="m"/></l><r>poema<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>poesía<s n="n"/><s n="f"/></l><r>poesia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>poeta<s n="n"/><s n="mf"/></l><r>poeta<s n="n"/><s n="mf"/></r></p></e>
+<e><p><l>profeta<s n="n"/><s n="mf"/></l><r>profeta<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>polaco<s n="n"/><s n="m"/></l><r>polonès<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>polarización<s n="n"/><s n="f"/></l><r>polarització<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>polarografía<s n="n"/><s n="f"/></l><r>polarografia<s n="n"/><s n="f"/></r></p></e>
@@ -5762,7 +5796,7 @@
 <e><p><l>PSC<s n="n"/><s n="acr"/><s n="m"/></l><r>PSC<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
 <e><p><l>PSE-EE<s n="n"/><s n="acr"/><s n="m"/></l><r>PSE-EE<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
 <e><p><l>PSE<s n="n"/><s n="acr"/><s n="m"/></l><r>PSE<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
-<e><p><l>psicoanalís<s n="n"/><s n="f"/></l><r>psicoanàlisi<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>psicoanalisi<s n="n"/><s n="f"/></l><r>psicoanàlisi<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>psicoanalista<s n="n"/><s n="mf"/></l><r>psicoanalista<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>psicolochía<s n="n"/><s n="f"/></l><r>psicologia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>psicopedagochía<s n="n"/><s n="f"/></l><r>psicopedagogia<s n="n"/><s n="f"/></r></p></e>
@@ -5779,6 +5813,7 @@
 <e><p><l>publicidat<s n="n"/><s n="f"/></l><r>publicitat<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>publicista<s n="n"/><s n="mf"/></l><r>publicista<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>pudor<s n="n"/><s n="f"/></l><r>pudor<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>pudor<s n="n"/><s n="m"/></l><r>pudor<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>pueblo<s n="n"/><s n="m"/></l><r>poble<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>puent<s n="n"/><s n="m"/></l><r>pont<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>puerta<s n="n"/><s n="f"/></l><r>porta<s n="n"/><s n="f"/></r></p></e>
@@ -6252,6 +6287,7 @@
 <e><p><l>santificación<s n="n"/><s n="f"/></l><r>santificació<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>santmigalada<s n="n"/><s n="f"/></l><r>tardor<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>santo<s n="n"/><s n="m"/></l><r>sant<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>martir<s n="n"/><s n="mf"/></l>              <r>màrtir<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>sardina<s n="n"/><s n="f"/></l><r>sardina<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>sargantana<s n="n"/><s n="f"/></l><r>sargantana<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>satisfacción<s n="n"/><s n="f"/></l><r>satisfacció<s n="n"/><s n="f"/></r></p></e>
@@ -6921,7 +6957,7 @@
 <e><p><l>vachina<s n="n"/><s n="f"/></l><r>vagina<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>vacilación<s n="n"/><s n="f"/></l><r>vacil·lació<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>vacunación<s n="n"/><s n="f"/></l><r>vacunació<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>vada<s n="n"/><s n="f"/></l><r>vaga<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>vada<s n="n"/><s n="f"/></l><r>vaga<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>vagancia<s n="n"/><s n="f"/></l><r>vagància<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>vaga<s n="n"/><s n="f"/></l><r>vaga<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>vagoneta<s n="n"/><s n="f"/></l><r>vagoneta<s n="n"/><s n="f"/></r></p></e>
@@ -7097,6 +7133,15 @@
 <e><p><l>zapatista<s n="n"/><s n="mf"/></l><r>zapatista<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>zaragocista<s n="n"/><s n="mf"/></l><r>saragossista<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>zarpa<s n="n"/><s n="f"/></l><r>urpa<s n="n"/><s n="f"/></r></p></e>
+<e vr="val_gva val_uni" r="RL"><p><l>gurrión<s n="n"/></l>          <r>teuladí<s n="n"/></r></p></e>
+<e vr="cat"><p><l>gurrión<s n="n"/></l>       <r>pardal<s n="n"/></r></p></e>
+<e><p><l>esparvero<s n="n"/></l><r>esparver<s n="n"/></r></p></e>
+<e>       <p><l>elefant<s n="n"/></l>            <r>elefant<s n="n"/></r></p></e>
+<e vr="cat"><p><l>fardacho<s n="n"/></l>   <r>llangardaix<s n="n"/></r></p></e>
+<e vr="val_gva val_uni" r="RL"><p><l>fardacho<s n="n"/></l><r>fardatxo<s n="n"/></r></p></e>
+<e>       <p><l>zapo<s n="n"/></l>                <r>gripau<s n="n"/></r></p></e>
+<e>       <p><l>camello<s n="n"/></l>             <r>camell<s n="n"/></r></p></e>
+<e>       <p><l>cullebra<s n="n"/></l>             <r>colobra<s n="n"/></r></p></e>
 <e><p><l>zarracatralla<s n="n"/><s n="f"/></l><r>mainada<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>zarrallería<s n="n"/><s n="f"/></l><r>serralleria<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>zarramiento<s n="n"/><s n="m"/></l><r>tancament<s n="n"/><s n="m"/></r></p></e>
@@ -7116,8 +7161,9 @@
 <e><p><l>zurrera<s n="n"/><s n="f"/></l><r>diarrea<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>ZX<s n="n"/><s n="acr"/><s n="m"/></l><r>ZX<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
 <e><p><l>ziga-zaga<s n="n"/><s n="m"/></l><r>ziga-zaga<s n="n"/><s n="f"/></r></p></e>
-
-
+<e>       <p><l>forastero<s n="n"/></l>           <r>foraster<s n="n"/></r></p></e>
+<e>       <p><l>cunyau<s n="n"/></l>              <r>cunyat<s n="n"/></r></p></e>
+<e>       <p><l>criau<s n="n"/></l>              <r>criat<s n="n"/></r></p></e>
 <e><p><l>orador<s n="n"/><s n="f"/></l><r>orador<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>administrador<s n="n"/><s n="f"/></l><r>administrador<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>agricultor<s n="n"/><s n="f"/></l><r>agricultor<s n="n"/><s n="f"/></r></p></e>
@@ -7464,7 +7510,14 @@
 <e><p><l>voluntario<s n="n"/><s n="f"/></l><r>voluntari<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>yayo<s n="n"/><s n="f"/></l><r>iaio<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>yugoslavo<s n="n"/><s n="f"/></l><r>iugoslau<s n="n"/><s n="f"/></r></p></e>
-
+<e r="LR"><p><l>alfalz<s n="n"/><s n="m"/><s n="sg"/></l>   <r>alfals<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+<e r="LR"><p><l>alfalz<s n="n"/><s n="m"/><s n="pl"/></l>   <r>alfals<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+<e r="RL"><p><l>alfalz<s n="n"/><s n="m"/><s n="ND"/></l>  <r>alfals<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
+<e>       <p><l>lamín<s n="n"/><s n="m"/></l>            <r>llaminadura<s n="n"/><s n="f"/></r></p></e>
+<e r="LR">       <p><l>lamería<s n="n"/><s n="f"/></l>            <r>llaminadura<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>lamín<s n="n"/><s n="m"/></l>            <r>llepoleria<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>lamín<s n="n"/><s n="m"/></l>            <r>llepolia<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>lamín<s n="n"/><s n="m"/></l>  <r>llamí<s n="n"/><s n="m"/></r></p></e>
 
 <!-- SECTION: Proper nouns -->
 
@@ -14356,7 +14409,7 @@
 <e><p><l>Vizcaya<s n="np"/><s n="loc"/></l><r>Biscaia<s n="np"/><s n="loc"/></r></p></e>
 
 <!-- SECTION: Adjectives -->
-
+<e>       <p><l>forastero<s n="adj"/></l>           <r>foraster<s n="adj"/></r></p></e>
 <e><p><l>social<s n="adj"/></l><r>social<s n="adj"/></r></p></e>
 <e><p><l>academico<s n="adj"/></l><r>acadèmic<s n="adj"/></r></p></e>
 <e><p><l>abusivo<s n="adj"/></l><r>abusiu<s n="adj"/></r></p></e>
