@@ -430,7 +430,7 @@
 <e><p><l>d'arreu<b/>de<s n="pr"/></l><r>d'arreu<b/>de<s n="pr"/></r></p></e>
 <e><p><l>chus<s n="pr"/></l><r>sota<s n="pr"/></r></p></e>
 <e><p><l>respective<b/>a<s n="pr"/></l><r>pel<b/>que<b/>fa<b/>a<s n="pr"/></r></p></e>
-<e><p><l>en<b/>intrés<b/>de<s n="pr"/></l><r>en<b/>honor<b/>de<s n="pr"/></r></p></e>
+<e><p><l>en<b/>interés<b/>de<s n="pr"/></l><r>en<b/>honor<b/>de<s n="pr"/></r></p></e>
 <e><p><l>ye<b/>pro<b/>con<s n="pr"/></l><r>n'hi<b/>ha<b/>prou<b/>amb<s n="pr"/></r></p></e>
 <e><p><l>como<s n="pr"/></l><r>com<b/>a<s n="pr"/></r></p></e>
 <e><p><l>como<s n="pr"/></l><r>com<s n="pr"/></r></p></e>
@@ -1749,7 +1749,7 @@
 <e><p><l>can<s n="n"/><s n="m"/></l><r>gos<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>canoa<s n="n"/><s n="f"/></l><r>canoa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>canonización<s n="n"/><s n="f"/></l><r>canonització<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>canta<s n="n"/><s n="f"/></l><r>cançó<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>canta<s n="n"/><s n="f"/></l><r>cançó<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>cantautor<s n="n"/><s n="m"/></l><r>cantautor<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>cantidat<s n="n"/><s n="f"/></l><r>quantitat<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>cantonada<s n="n"/><s n="f"/></l><r>cantonada<s n="n"/><s n="f"/></r></p></e>
@@ -2534,7 +2534,9 @@
 <e><p><l>cubismo<s n="n"/><s n="m"/></l><r>cubisme<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>cubista<s n="n"/><s n="mf"/></l><r>cubista<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>cuca<s n="n"/><s n="f"/></l><r>panerola<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>cucha<s n="n"/><s n="f"/></l><r>esquerra<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>zurda<s n="n"/><s n="f"/></l><r>esquerra<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>cucha<s n="n"/><s n="f"/></l><r>esquerra<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>ezquierda<s n="n"/><s n="f"/></l><r>esquerra<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>cuello<s n="n"/><s n="m"/></l><r>coll<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>cuenca<s n="n"/><s n="f"/></l><r>conca<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>cuentista<s n="n"/><s n="mf"/></l><r>contista<s n="n"/><s n="mf"/></r></p></e>
@@ -3543,7 +3545,6 @@
 <e><p><l>exuberancia<s n="n"/><s n="f"/></l><r>exuberància<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>exudación<s n="n"/><s n="f"/></l><r>exsudació<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>eyaculación<s n="n"/><s n="f"/></l><r>ejaculació<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>ezquierda<s n="n"/><s n="f"/></l><r>esquerra<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>faba<s n="n"/><s n="f"/></l><r>fava<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>fabla<s n="n"/><s n="f"/></l><r>parla<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>fabricación<s n="n"/><s n="f"/></l><r>fabricació<s n="n"/><s n="f"/></r></p></e>
@@ -3929,6 +3930,7 @@
 <e r="LR"><p><l>guardia<s n="n"/><s n="f"/></l><r>guàrdia<s n="n"/><s n="mf"/></r></p></e>
 <e r="RL"><p><l>guardia<s n="n"/><s n="GD"/></l><r>guàrdia<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>guarencia<s n="n"/><s n="f"/></l><r>garantia<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>garantía<s n="n"/><s n="f"/></l><r>garantia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>gubernador<s n="n"/><s n="m"/></l><r>governador<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>gubierno<s n="n"/><s n="m"/></l><r>govern<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>güelo<s n="n"/><s n="m"/></l><r>avi<s n="n"/><s n="m"/></r></p></e>
@@ -4367,7 +4369,7 @@
 <e><p><l>intolerancia<s n="n"/><s n="f"/></l><r>intolerància<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>intoxicación<s n="n"/><s n="f"/></l><r>intoxicació<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>intransichencia<s n="n"/><s n="f"/></l><r>intransigència<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>intrés<s n="n"/><s n="m"/></l><r>interès<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>interés<s n="n"/><s n="m"/></l><r>interès<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>intriga<s n="n"/><s n="f"/></l><r>intriga<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>introducción<s n="n"/><s n="f"/></l><r>introducció<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>intromisión<s n="n"/><s n="f"/></l><r>intromissió<s n="n"/><s n="f"/></r></p></e>
@@ -7157,7 +7159,6 @@
 <e><p><l>zonificación<s n="n"/><s n="f"/></l><r>zonificació<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>zoocheografía<s n="n"/><s n="f"/></l><r>zoogeografia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>zoolochía<s n="n"/><s n="f"/></l><r>zoologia<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>zurda<s n="n"/><s n="f"/></l><r>esquerra<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>zurrera<s n="n"/><s n="f"/></l><r>diarrea<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>ZX<s n="n"/><s n="acr"/><s n="m"/></l><r>ZX<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
 <e><p><l>ziga-zaga<s n="n"/><s n="m"/></l><r>ziga-zaga<s n="n"/><s n="f"/></r></p></e>
