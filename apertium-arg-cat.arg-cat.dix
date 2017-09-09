@@ -491,8 +491,8 @@
 <e r="RL"><p><l>o<s n="det"/><s n="def"/><s n="GD"/></l><r>el<s n="det"/><s n="def"/><s n="mf"/></r></p></e>
 <e r="LR"><p><l>o<s n="det"/><s n="def"/><s n="mf"/></l><r>el<s n="det"/><s n="def"/><s n="GD"/></r></p></e>
 
-<e><p><l>iste<s n="det"/></l>              <r>aquest<s n="det"/></r></p></e>
-<e r="RL"><p><l>iste<s n="det"/></l>              <r>este<s n="det"/></r></p></e>
+<e><p><l>este<s n="det"/></l>              <r>aquest<s n="det"/></r></p></e>
+<e r="RL"><p><l>este<s n="det"/></l>              <r>este<s n="det"/></r></p></e>
 <e r="LR"><p><l>ixe<s n="det"/></l>               <r>aquell<s n="det"/></r></p></e>
 <e r="RL"><p><l>ixe<s n="det"/></l>               <r>aqueix<s n="det"/></r></p></e>
 <e r="RL"><p><l>ixe<s n="det"/></l>               <r>eixe<s n="det"/></r></p></e>
@@ -600,8 +600,8 @@
 <e><p><l>cosa<s n="prn"/><s n="tn"/><s n="nt"/></l><r>res<s n="prn"/><s n="tn"/><s n="nt"/></r></p></e>
 <e><p><l>res<s n="prn"/><s n="tn"/><s n="nt"/></l><r>res<s n="prn"/><s n="tn"/><s n="nt"/></r></p></e>
 
-<e><p><l>iste<s n="prn"/></l>              <r>aquest<s n="prn"/></r></p></e>
-<e r="RL"><p><l>iste<s n="prn"/></l>              <r>este<s n="prn"/></r></p></e>
+<e><p><l>este<s n="prn"/></l>              <r>aquest<s n="prn"/></r></p></e>
+<e r="RL"><p><l>este<s n="prn"/></l>              <r>este<s n="prn"/></r></p></e>
 <e r="LR"><p><l>ixe<s n="prn"/></l>               <r>aquell<s n="prn"/></r></p></e>
 <e r="RL"><p><l>ixe<s n="prn"/></l>               <r>aqueix<s n="prn"/></r></p></e>
 <e r="RL"><p><l>ixe<s n="prn"/></l>               <r>eixe<s n="prn"/></r></p></e>
@@ -639,8 +639,8 @@
 <e r="RL"><p><l>qualsiquiera<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></l><r>qualsevol<s n="prn"/><s n="tn"/><s n="mf"/><s n="pl"/></r></p></e>
 <e r="LR"><p><l>quiquiera<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></l>       <r>qualsevol<s n="prn"/><s n="tn"/><s n="mf"/><s n="ND"/></r></p></e>    
 
-<e>       <p><l>isto<s n="prn"/><s n="tn"/><s n="nt"/></l>              <r>això<s n="prn"/><s n="tn"/><s n="nt"/></r></p></e>
-<e r="RL"><p><l>isto<s n="prn"/><s n="tn"/><s n="nt"/></l>           <r>açò<s n="prn"/><s n="tn"/><s n="nt"/></r></p></e>
+<e>       <p><l>esto<s n="prn"/><s n="tn"/><s n="nt"/></l>              <r>això<s n="prn"/><s n="tn"/><s n="nt"/></r></p></e>
+<e r="RL"><p><l>esto<s n="prn"/><s n="tn"/><s n="nt"/></l>           <r>açò<s n="prn"/><s n="tn"/><s n="nt"/></r></p></e>
 <e r="LR"><p><l>ixo<s n="prn"/><s n="tn"/><s n="nt"/></l>               <r>això<s n="prn"/><s n="tn"/><s n="nt"/></r></p></e>
 <e>       <p><l>aquello<s n="prn"/><s n="tn"/><s n="nt"/></l>           <r>allò<s n="prn"/><s n="tn"/><s n="nt"/></r></p></e>
 <e>       <p><l>atri<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></l>  <r>altri<s n="prn"/><s n="tn"/><s n="mf"/><s n="sp"/></r></p></e>
@@ -5165,7 +5165,7 @@
 <e><p><l>olimpiada<s n="n"/><s n="f"/></l><r>olimpíada<s n="n"/><s n="f"/></r></p></e>
 <e srl="aceite D"><p><l>aceite<s n="n"/><s n="f"/></l><r>oli<s n="n"/><s n="m"/></r></p></e>
 <e srl="olio"><p><l>olio<s n="n"/><s n="m"/></l><r>oli<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>almibar<s n="n"/></l>   <r>almívar<s n="n"/></r></p></e>
+<e><p><l>almibar<s n="n"/><s n="f"/></l>   <r>almívar<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>oliva<s n="n"/><s n="f"/></l><r>oliva<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>olivera<s n="n"/><s n="f"/></l><r>olivera<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>olla<s n="n"/><s n="f"/></l><r>olla<s n="n"/><s n="f"/></r></p></e>
@@ -14409,6 +14409,8 @@
 <e><p><l>Vizcaya<s n="np"/><s n="loc"/></l><r>Biscaia<s n="np"/><s n="loc"/></r></p></e>
 
 <!-- SECTION: Adjectives -->
+
+<e><re>[0-9]+</re><p><l><s n="adj"/></l><r><s n="adj"/></r></p></e>
 <e>       <p><l>forastero<s n="adj"/></l>           <r>foraster<s n="adj"/></r></p></e>
 <e><p><l>social<s n="adj"/></l><r>social<s n="adj"/></r></p></e>
 <e><p><l>academico<s n="adj"/></l><r>acadèmic<s n="adj"/></r></p></e>
