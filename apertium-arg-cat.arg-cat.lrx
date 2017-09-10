@@ -10,7 +10,18 @@
       <select lemma="energía" tags="n.*"/>
     </match>
   </rule>
-</rules>
+
+  <rule>
+    <match lemma="meyo" tags="n.*"/>
+		<select lemma="mitjà" tags="n.*"/>
+	</match>
+    <match lemma="de">
+    <match lemma="comunicación">
+  </rule>
+  
+  
+  
+  </rules>
 
 <!-- 
 Resources: 

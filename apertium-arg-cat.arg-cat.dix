@@ -251,8 +251,8 @@
 <e r="RL"><p><l>sin<s n="pr"/></l><r>sens<s n="pr"/></r></p></e>
 <e><p><l>amás<b/>de<s n="pr"/></l><r>a<b/>banda<b/>de<s n="pr"/></r></p></e>
 <e><p><l>amás<b/>de<s n="pr"/></l><r>a<b/>més<b/>de<s n="pr"/></r></p></e>
-<e><p><l>por<b/>intermeyo<b/>de<s n="pr"/></l><r>per<b/>mitjà<b/>de<s n="pr"/></r></p></e>
-<e><p><l>por<b/>meyo<b/>de<s n="pr"/></l><r>per<b/>mitjà<b/>de<s n="pr"/></r></p></e>
+<e><p><l>por<b/>intermedio<b/>de<s n="pr"/></l><r>per<b/>mitjà<b/>de<s n="pr"/></r></p></e>
+<e><p><l>por<b/>medio<b/>de<s n="pr"/></l><r>per<b/>mitjà<b/>de<s n="pr"/></r></p></e>
 <e r="LR"><p><l>durant<s n="pr"/></l><r>durant<s n="pr"/></r></p></e>
 <e><p><l>entre<s n="pr"/></l><r>durant<s n="pr"/></r></p></e>
 <e><p><l>poco<b/>dimpués<b/>de<s n="pr"/></l><r>poc<b/>després<b/>de<s n="pr"/></r></p></e>
@@ -265,7 +265,7 @@
 <e><p><l>dezaga<b/>de<s n="pr"/></l><r>darrere<b/>de<s n="pr"/></r></p></e>
 <e><p><l>respective<b/>a<s n="pr"/></l><r>referent<b/>a<s n="pr"/></r></p></e>
 <e><p><l>tocant<b/>a<s n="pr"/></l><r>tocant<b/>a<s n="pr"/></r></p></e>
-<e><p><l>chus<b/>capa<b/>de<s n="pr"/></l><r>sota<b/>capa<b/>de<s n="pr"/></r></p></e>
+<e><p><l>baixo<b/>capa<b/>de<s n="pr"/></l><r>sota<b/>capa<b/>de<s n="pr"/></r></p></e>
 <e><p><l>seguntes<s n="pr"/></l><r>d'acord<b/>a<s n="pr"/></r></p></e>
 <e><p><l>seguntes<s n="pr"/></l><r>segons<s n="pr"/></r></p></e>
 <e><p><l>a<b/>consonant<b/>de<s n="pr"/></l><r>d'acord<b/>amb<s n="pr"/></r></p></e>
@@ -301,8 +301,9 @@
 <e><p><l>tenendo<b/>en<b/>cuenta<s n="pr"/></l><r>havent<b/>donat<b/>compte<b/>de<s n="pr"/></r></p></e>
 <e><p><l>en<s n="pr"/></l><r>en<s n="pr"/></r></p></e>
 <e><p><l>a<b/>causa<b/>de<s n="pr"/></l><r>a<b/>causa<b/>de<s n="pr"/></r></p></e>
-<e><p><l>arredol<b/>de<s n="pr"/></l><r>a<b/>l'entorn<b/>de<s n="pr"/></r></p></e>
-<e><p><l>arredol<b/>de<s n="pr"/></l><r>en<b/>l'entorn<b/>de<s n="pr"/></r></p></e>
+<e r="RL"><p><l>arredol<b/>de<s n="pr"/></l><r>a<b/>l'entorn<b/>de<s n="pr"/></r></p></e>
+<e r="RL"><p><l>arredol<b/>de<s n="pr"/></l><r>en<b/>l'entorn<b/>de<s n="pr"/></r></p></e>
+<e><p><l>arredol<b/>de<s n="pr"/></l> <r>al<b/>voltant<b/>de<s n="pr"/></r></p></e>
 <e><p><l>a<b/>costa<b/>de<s n="pr"/></l><r>a<b/>costa<b/>de<s n="pr"/></r></p></e>
 <e><p><l>conforme<b/>a<s n="pr"/></l><r>conforme<b/>a<s n="pr"/></r></p></e>
 <e><p><l>a<b/>resultas<b/>de<s n="pr"/></l><r>arran<b/>de<s n="pr"/></r></p></e>
@@ -333,7 +334,7 @@
 <e><p><l>en<b/>detrimento<b/>de<s n="pr"/></l><r>en<b/>detriment<b/>de<s n="pr"/></r></p></e>
 <e><p><l>pro<b/>de<s n="pr"/></l><r>n'hi<b/>ha<b/>prou<b/>de<s n="pr"/></r></p></e>
 <e><p><l>en<b/>o<b/>sino<b/>de<s n="pr"/></l><r>en<b/>el<b/>si<b/>de<s n="pr"/></r></p></e>
-<e><p><l>por<b/>meyo<b/>de<s n="pr"/></l><r>mitjançant<s n="pr"/></r></p></e>
+<e><p><l>por<b/>medio<b/>de<s n="pr"/></l><r>mitjançant<s n="pr"/></r></p></e>
 <e><p><l>en<b/>refirme<b/>de<s n="pr"/></l><r>en<b/>suport<b/>de<s n="pr"/></r></p></e>
 <e><p><l>chunto<b/>a<s n="pr"/></l><r>al<b/>costat<b/>de<s n="pr"/></r></p></e>
 <e><p><l>debaixo<b/>de<s n="pr"/></l><r>sota<s n="pr"/></r></p></e>
@@ -424,7 +425,7 @@
 <e><p><l>ta<s n="pr"/></l><r>per<b/>a<s n="pr"/></r></p></e>
 <e><p><l>ta<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
 <e><p><l>ta<s n="pr"/></l><r>per<b/>tal<b/>de<s n="pr"/></r></p></e>
-<e><p><l>chus<b/>pena<b/>de<s n="pr"/></l><r>sota<b/>pena<b/>de<s n="pr"/></r></p></e>
+<e><p><l>baixo<b/>pena<b/>de<s n="pr"/></l><r>sota<b/>pena<b/>de<s n="pr"/></r></p></e>
 <e><p><l>a<b/>instancias<b/>de<s n="pr"/></l><r>a<b/>instàncies<b/>de<s n="pr"/></r></p></e>
 <e><p><l>a<b/>mans<b/>de<s n="pr"/></l><r>a<b/>les<b/>mans<b/>de<s n="pr"/></r></p></e>
 <e><p><l>d'arreu<b/>de<s n="pr"/></l><r>d'arreu<b/>de<s n="pr"/></r></p></e>
@@ -447,7 +448,7 @@
 <e><p><l>dentro<b/>de<s n="pr"/></l><r>dins<s n="pr"/></r></p></e>
 <e><p><l>endentro<b/>de<s n="pr"/></l><r>dins<b/>de<s n="pr"/></r></p></e>
 <e><p><l>endentro<b/>de<s n="pr"/></l><r>dins<s n="pr"/></r></p></e>
-<e><p><l>chus<b/>color<b/>de<s n="pr"/></l><r>sota<b/>color<b/>de<s n="pr"/></r></p></e>
+<e><p><l>baixo<b/>color<b/>de<s n="pr"/></l><r>sota<b/>color<b/>de<s n="pr"/></r></p></e>
 <e><p><l>dica<b/>meyaus<b/>de<s n="pr"/></l><r>fins<b/>a<b/>mitjan<s n="pr"/></r></p></e>
 <e><p><l>sabendo<s n="pr"/></l><r>sabent<s n="pr"/></r></p></e>
 <e><p><l>a<b/>lo<b/>piet<b/>de<s n="pr"/></l><r>al<b/>peu<b/>de<s n="pr"/></r></p></e>
@@ -4342,8 +4343,8 @@
 <e><p><l>interficie<s n="n"/><s n="f"/></l><r>interfície<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>interiorización<s n="n"/><s n="f"/></l><r>interiorització<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>interlocución<s n="n"/><s n="f"/></l><r>interlocució<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>intermeyación<s n="n"/><s n="f"/></l><r>intermediació<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>intermeyo<s n="n"/><s n="m"/></l><r>intermedi<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>intermediación<s n="n"/><s n="f"/></l><r>intermediació<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>intermedio<s n="n"/><s n="m"/></l><r>intermedi<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>intermodulación<s n="n"/><s n="f"/></l><r>intermodulació<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>internacionalización<s n="n"/><s n="f"/></l><r>internacionalització<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>internamiento<s n="n"/><s n="m"/></l><r>internament<s n="n"/><s n="m"/></r></p></e>
@@ -4815,6 +4816,7 @@
 <e><p><l>meyana<s n="n"/><s n="f"/></l><r>mediana<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>meyana<s n="n"/><s n="f"/></l><r>mitjana<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>meya<s n="n"/><s n="f"/></l><r>mitjana<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>meyas<s n="n"/><s n="f"/><s n="pl"/></l><r>mitges<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
 <e><p><l>meyodiada<s n="n"/><s n="f"/></l><r>migdiada<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>meyodía<s n="n"/><s n="m"/></l><r>migdia<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>meyodía<s n="n"/><s n="m"/></l><r>migjorn<s n="n"/><s n="m"/></r></p></e>
@@ -8744,6 +8746,7 @@
 <e><p><l>Freixenet<s n="np"/><s n="al"/></l><r>Freixenet<s n="np"/><s n="al"/></r></p></e>
 <e><p><l>Liria<s n="np"/><s n="loc"/></l><r>Llíria<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Foz<s n="np"/><s n="ant"/></l><r>Foz<s n="np"/><s n="ant"/></r></p></e>
+<e><p><l>Archentina<s n="np"/><s n="loc"/></l><r>Argentina<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Suecia<s n="np"/><s n="loc"/></l><r>Suècia<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Ucraína<s n="np"/><s n="loc"/></l><r>Ucraïna<s n="np"/><s n="loc"/></r></p></e>
 <e><p><l>Ucrania<s n="np"/><s n="loc"/></l><r>Ucraïna<s n="np"/><s n="loc"/></r></p></e>
@@ -16607,7 +16610,7 @@
 <e><p><l>interlingüistico<s n="adj"/></l><r>interlingüístic<s n="adj"/></r></p></e>
 <e><p><l>interlocutorio<s n="adj"/></l><r>interlocutori<s n="adj"/></r></p></e>
 <e><p><l>intermediario<s n="adj"/></l><r>intermediari<s n="adj"/></r></p></e>
-<e><p><l>intermeyo<s n="adj"/></l><r>intermedi<s n="adj"/></r></p></e>
+<e><p><l>intermedio<s n="adj"/></l><r>intermedi<s n="adj"/></r></p></e>
 <e><p><l>interminable<s n="adj"/></l><r>interminable<s n="adj"/></r></p></e>
 <e><p><l>interministerial<s n="adj"/></l><r>interministerial<s n="adj"/></r></p></e>
 <e><p><l>intermitent<s n="adj"/></l><r>intermitent<s n="adj"/></r></p></e>
