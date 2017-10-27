@@ -1064,7 +1064,7 @@
 <e><p><l>alargamiento<s n="n"/><s n="m"/></l><r>allargament<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>alarmista<s n="n"/><s n="mf"/></l><r>alarmista<s n="n"/><s n="mf"/></r></p></e>
 <e><p><l>alazet<s n="n"/><s n="m"/></l><r>fonament<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>albaca<s n="n"/><s n="f"/></l><r>alfàbega<s n="n"/><s n="f"/></r></p></e>
+<e r="RL"><p><l>albaca<s n="n"/><s n="f"/></l><r>alfàbega<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>albaca<s n="n"/><s n="f"/></l><r>alfàbrega<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>alba<s n="n"/><s n="f"/></l><r>alba<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>alberche<s n="n"/><s n="m"/></l><r>albercoc<s n="n"/><s n="m"/></r></p></e>
@@ -1573,7 +1573,7 @@
 <e><p><l>billar<s n="n"/><s n="m"/></l><r>billar<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>billet<s n="n"/><s n="m"/></l><r>bitllet<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>billón<s n="n"/><s n="m"/></l><r>bilió<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>billota<s n="n"/><s n="f"/></l><r>gla<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>billota<s n="n"/><s n="f"/></l><r>gla<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>binomio<s n="n"/><s n="m"/></l><r>binomi<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>bioacumulación<s n="n"/><s n="f"/></l><r>bioacumulació<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>biocheografía<s n="n"/><s n="f"/></l><r>biogeografia<s n="n"/><s n="f"/></r></p></e>
@@ -6669,7 +6669,7 @@
 <e><p><l>teleolochía<s n="n"/><s n="f"/></l><r>teleologia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>teleoperación<s n="n"/><s n="f"/></l><r>teleoperació<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>telesiella<s n="n"/><s n="f"/></l><r>telecadira<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>telesiella<s n="n"/><s n="f"/></l><r>telesella<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>telesiella<s n="n"/><s n="f"/></l><r>telesella<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>televisión<s n="n"/><s n="f"/></l><r>televisió<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>televisor<s n="n"/><s n="m"/></l><r>televisor<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>tella<s n="n"/><s n="f"/></l><r>teula<s n="n"/><s n="f"/></r></p></e>
@@ -15763,7 +15763,7 @@
 <e><p><l>estacional<s n="adj"/></l><r>estacional<s n="adj"/></r></p></e>
 <e><p><l>estacionario<s n="adj"/></l><r>estacionari<s n="adj"/></r></p></e>
 <e><p><l>estalinista<s n="adj"/></l><r>estalinista<s n="adj"/></r></p></e>
-<e><p><l>estandar<s n="adj"/></l><r>estàndard<s n="adj"/></r></p></e>
+<e><p><l>estandard<s n="adj"/></l><r>estàndard<s n="adj"/></r></p></e>
 <e><p><l>estatal<s n="adj"/></l><r>estatal<s n="adj"/></r></p></e>
 <e><p><l>estatico<s n="adj"/></l><r>estàtic<s n="adj"/></r></p></e>
 <e><p><l>estatistico<s n="adj"/></l><r>estadístic<s n="adj"/></r></p></e>
@@ -18310,7 +18310,8 @@
 <e><p><l>verdoso<s n="adj"/></l><r>verdós<s n="adj"/></r></p></e>
 <e r="LR"><p><l>verdosenco<s n="adj"/></l><r>verdós<s n="adj"/></r></p></e>
 <e r="RL"><p><l>verdoso<s n="adj"/></l><r>verdosenc<s n="adj"/></r></p></e>
-<e><p><l>verenoso<s n="adj"/></l><r>metzinós<s n="adj"/></r></p></e>
+<e r="RL"><p><l>verenoso<s n="adj"/><s n="m"/></l><r>metzinós<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>verenoso<s n="adj"/><s n="f"/></l><r>metzinós<s n="adj"/><s n="f"/></r></p></e>
 <e><p><l>verenoso<s n="adj"/></l><r>verinós<s n="adj"/></r></p></e>
 <e><p><l>vergonyant<s n="adj"/></l><r>vergonyant<s n="adj"/></r></p></e>
 <e><p><l>vergüenyoso<s n="adj"/></l><r>vergonyós<s n="adj"/></r></p></e>
@@ -19302,7 +19303,7 @@
 <e><p><l>commutablement<s n="adv"/></l><r>commutablement<s n="adv"/></r></p></e>
 <e><p><l>commutativament<s n="adv"/></l><r>commutativament<s n="adv"/></r></p></e>
 <e><p><l>comodament<s n="adv"/></l><r>còmodament<s n="adv"/></r></p></e>
-<e><p><l>cómo<s n="adv"/></l><r>com<s n="adv"/></r></p></e>
+<e><p><l>cómo<s n="adv"/><s n="itg"/></l><r>com<s n="adv"/><s n="itg"/></r></p></e>
 <e><p><l>como<s n="rel"/><s n="adv"/></l><r>com<s n="rel"/><s n="adv"/></r></p></e>
 <e><p><l>compactament<s n="adv"/></l><r>compactament<s n="adv"/></r></p></e>
 <e><p><l>comparablement<s n="adv"/></l><r>comparablement<s n="adv"/></r></p></e>
