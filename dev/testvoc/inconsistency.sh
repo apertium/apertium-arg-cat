@@ -1,4 +1,4 @@
-TMPDIR=/tmp
+TMPDIR=tmp
 
 if [[ $1 = "cat-arg" ]]; then
 
