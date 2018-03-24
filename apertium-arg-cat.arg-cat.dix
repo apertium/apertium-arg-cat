@@ -350,7 +350,7 @@
 <e>       <p><l>aquoso<s n="adj"/></l>                 <r>aquós<s n="adj"/></r></p></e>
 <e>       <p><l>aqüifero<s n="adj"/></l>               <r>aqüífer<s n="adj"/></r></p></e>
 <e>       <p><l>arabe<s n="adj"/></l>                  <r>àrab<s n="adj"/></r></p></e>
-<e>       <p><l>aragonés<s n="adj"/></l>               <r>aragonès<s n="adj"/></r></p></e>
+<e>       <p><l>aragonés<s n="adj"/></l>               <r>aragonès<s n="adj"/></r></p></e><e>       <p><l>burchés<s n="adj"/></l>          <r>burgès<s n="adj"/></r></p></e>
 <e>       <p><l>arbitral<s n="adj"/></l>               <r>arbitral<s n="adj"/></r></p></e>
 <e>       <p><l>arbitrario<s n="adj"/></l>             <r>arbitrari<s n="adj"/></r></p></e>
 <e>       <p><l>arborio<s n="adj"/></l>                <r>arbori<s n="adj"/></r></p></e>
@@ -2605,7 +2605,6 @@
 <e>       <p><l>manso<s n="adj"/></l>                  <r>mans<s n="adj"/></r></p></e>
 <e>       <p><l>manual<s n="adj"/></l>                 <r>manual<s n="adj"/></r></p></e>
 <e>       <p><l>manuscrito<s n="adj"/></l>             <r>manuscrit<s n="adj"/></r></p></e>
-<e>       <p><l>manyo<s n="adj"/></l>                  <r>aragonès<s n="adj"/></r></p></e>
 <e>       <p><l>maoísta<s n="adj"/></l>                <r>maoista<s n="adj"/></r></p></e>
 <e>       <p><l>marabilloso<s n="adj"/></l>            <r>meravellós<s n="adj"/></r></p></e>
 <e>       <p><l>marcau<s n="adj"/></l>                 <r>marcat<s n="adj"/></r></p></e>
@@ -9358,7 +9357,7 @@
 <e>       <p><l>buenpasar<s n="n"/><s n="m"/></l>      <r>benestar<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>buixo<s n="n"/><s n="m"/></l>          <r>boix<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>bulligón<s n="n"/><s n="m"/></l>       <r>embalum<s n="n"/><s n="m"/></r></p></e>
-<e>       <p><l>burguesía<s n="n"/><s n="f"/></l>      <r>burgesia<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>burchesía<s n="n"/><s n="f"/></l>      <r>burgesia<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>burocracia<s n="n"/><s n="f"/></l>     <r>burocràcia<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>burocratización<s n="n"/><s n="f"/></l><r>burocratització<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>bursa<s n="n"/><s n="f"/></l>          <r>borsa<s n="n"/><s n="f"/></r></p></e>
@@ -12439,8 +12438,10 @@
 <e>       <p><l>mantenimiento<s n="n"/><s n="m"/></l>  <r>manteniment<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>manyana<s n="n"/><s n="f"/></l>        <r>matí<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>manyanada<s n="n"/><s n="f"/></l>      <r>matinada<s n="n"/><s n="f"/></r></p></e>
-<e>       <p><l>manyo<s n="n"/><s n="m"/></l>          <r>aragonès<s n="n"/><s n="m"/></r></p></e>
-<e>       <p><l>manyo<s n="n"/><s n="f"/></l>          <r>aragonès<s n="n"/><s n="f"/></r></p></e>
+<e r="LR">       <p><l>manyo<s n="n"/><s n="m"/></l>          <r>saragossà<s n="n"/><s n="m"/></r></p></e>
+<e r="LR">       <p><l>manyo<s n="n"/><s n="f"/></l>          <r>saragossà<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>burchés<s n="n"/><s n="m"/></l>          <r>burgès<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>burchés<s n="n"/><s n="f"/></l>          <r>burgès<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>mapa<s n="n"/><s n="m"/></l>           <r>mapa<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>maqueta<s n="n"/><s n="f"/></l>        <r>maqueta<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>maquetación<s n="n"/><s n="f"/></l>    <r>maquetació<s n="n"/><s n="f"/></r></p></e>
@@ -14951,7 +14952,7 @@
 <e>       <p><l>Adrián<s n="np"/><s n="ant"/></l>      <r>Adrián<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>Adrover<s n="np"/><s n="ant"/></l>     <r>Adrover<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>Adsubia<s n="np"/><s n="loc"/></l>     <r>l'Atzúvia<s n="np"/><s n="loc"/></r></p></e>
-<e>       <p><l>Adzaneta<b/>de<b/>Albaida<s n="np"/></l><r>Adzaneta<b/>d'Albaida<s n="np"/></r></p></e>
+<e>       <p><l>Adzaneta<b/>d'Albaida<s n="np"/></l><r>Adzaneta<b/>d'Albaida<s n="np"/></r></p></e>
 <e>       <p><l>Adzaneta<s n="np"/><s n="loc"/></l>    <r>Atzeneta<b/>del<b/>Maestrat<s n="np"/><s n="loc"/></r></p></e>
 <e>       <p><l>Adán<s n="np"/><s n="ant"/></l>        <r>Adán<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>Adén<s n="np"/><s n="loc"/></l>        <r>Aden<s n="np"/><s n="loc"/></r></p></e>
@@ -15880,7 +15881,7 @@
 <e>       <p><l>Benejama<s n="np"/><s n="loc"/></l>    <r>Beneixama<s n="np"/><s n="loc"/></r></p></e>
 <e>       <p><l>Benejússer<s n="np"/><s n="loc"/></l>  <r>Benejússer<s n="np"/><s n="loc"/></r></p></e>
 <e>       <p><l>Benejúzar<s n="np"/><s n="loc"/></l>   <r>Benejússer<s n="np"/><s n="loc"/></r></p></e>
-<e>       <p><l>Benet<s n="np"/><s n="ant"/></l>       <r>Benet<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Benedet<s n="np"/><s n="ant"/></l>       <r>Benet<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>Benetton<s n="np"/><s n="al"/></l>     <r>Benetton<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Benetúser<s n="np"/><s n="loc"/></l>   <r>Benetússer<s n="np"/><s n="loc"/></r></p></e>
 <e>       <p><l>Benetússer<s n="np"/><s n="loc"/></l>  <r>Benetússer<s n="np"/><s n="loc"/></r></p></e>
@@ -16729,7 +16730,6 @@
 <e>       <p><l>Commonwealth<s n="np"/><s n="loc"/></l><r>Commonwealth<s n="np"/><s n="loc"/></r></p></e>
 <e>       <p><l>Comoras<s n="np"/><s n="loc"/></l>     <r>Comores<s n="np"/><s n="loc"/></r></p></e>
 <e>       <p><l>Comores<s n="np"/><s n="loc"/></l>     <r>Comores<s n="np"/><s n="loc"/></r></p></e>
-<e>       <p><l>Complejo<b/>Ática<s n="np"/><s n="al"/></l><r>Complejo<b/>Ática<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Conakry<s n="np"/><s n="loc"/></l>     <r>Conakry<s n="np"/><s n="loc"/></r></p></e>
 <e>       <p><l>Conangles<s n="np"/><s n="loc"/></l>   <r>Conangles<s n="np"/><s n="loc"/></r></p></e>
 <e>       <p><l>Conca<b/>Dellà<s n="np"/><s n="loc"/></l><r>Conca<b/>Dellà<s n="np"/><s n="loc"/></r></p></e>
@@ -16994,7 +16994,6 @@
 <e>       <p><l>Ecclestone<s n="np"/><s n="ant"/></l>  <r>Ecclestone<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>Echeverri<s n="np"/><s n="ant"/></l>   <r>Echeverri<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>Echeverria<s n="np"/><s n="ant"/></l>  <r>Echeverria<s n="np"/><s n="ant"/></r></p></e>
-<e>       <p><l>EcoUniversidad<s n="np"/><s n="al"/></l><r>EcoUniversitat<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Eddy<s n="np"/><s n="ant"/></l>        <r>Eddy<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>Edetania<s n="np"/><s n="al"/></l>     <r>Edetania<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Edgar<s n="np"/><s n="ant"/></l>       <r>Edgar<s n="np"/><s n="ant"/></r></p></e>
@@ -17821,7 +17820,7 @@
 <e>       <p><l>Hervas<s n="np"/><s n="ant"/></l>      <r>Hervas<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>Hervás<s n="np"/><s n="loc"/></l>      <r>Hervás<s n="np"/><s n="loc"/></r></p></e>
 <e>       <p><l>Herzegovina<s n="np"/><s n="loc"/></l> <r>Hercegovina<s n="np"/><s n="loc"/></r></p></e>
-<e>       <p><l>Hezbol·lah<s n="np"/><s n="al"/></l>   <r>Hezbol·lah<s n="np"/><s n="al"/></r></p></e>
+<e>       <p><l>Hezbollah<s n="np"/><s n="al"/></l>   <r>Hezbol·lah<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Hidalgo<s n="np"/><s n="loc"/></l>     <r>Hidalgo<s n="np"/><s n="loc"/></r></p></e>
 <e>       <p><l>Higuaín<s n="np"/><s n="ant"/></l>     <r>Higuaín<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>Higuero<s n="np"/><s n="ant"/></l>     <r>Higuero<s n="np"/><s n="ant"/></r></p></e>
@@ -18136,7 +18135,7 @@
 <e>       <p><l>Juanma<s n="np"/><s n="ant"/></l>      <r>Juanma<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>Judit<s n="np"/><s n="ant"/></l>       <r>Judit<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>Judith<s n="np"/><s n="ant"/></l>      <r>Judith<s n="np"/><s n="ant"/></r></p></e>
-<e>       <p><l>Juegos<b/>Paralímpicos<s n="np"/><s n="al"/></l><r>Jocs<b/>Paralímpics<s n="np"/><s n="al"/></r></p></e>
+<e>       <p><l>Chuegos<b/>Paralimpicos<s n="np"/><s n="al"/></l><r>Jocs<b/>Paralímpics<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Jugnot<s n="np"/><s n="ant"/></l>      <r>Jugnot<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>Juià<s n="np"/><s n="loc"/></l>        <r>Juià<s n="np"/><s n="loc"/></r></p></e>
 <e>       <p><l>Julen<s n="np"/><s n="ant"/></l>       <r>Julen<s n="np"/><s n="ant"/></r></p></e>
@@ -18211,6 +18210,7 @@
 <e>       <p><l>Kerbala<s n="np"/><s n="loc"/></l>     <r>Kerbala<s n="np"/><s n="loc"/></r></p></e>
 <e>       <p><l>Kerry<s n="np"/><s n="ant"/></l>       <r>Kerry<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>Kerzhakov<s n="np"/><s n="ant"/></l>   <r>Kerzhakov<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>Gorbachov<s n="np"/><s n="ant"/></l>   <r>Gorbachov<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>Kevin<s n="np"/><s n="ant"/></l>       <r>Kevin<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>Khartum<s n="np"/><s n="loc"/></l>     <r>Khartum<s n="np"/><s n="loc"/></r></p></e>
 <e>       <p><l>Ki-moon<s n="np"/><s n="ant"/></l>     <r>Ki-moon<s n="np"/><s n="ant"/></r></p></e>
@@ -19635,7 +19635,6 @@
 <e>       <p><l>Polinyà<b/>de<b/>Xúquer<s n="np"/><s n="loc"/></l><r>Polinyà<b/>de<b/>Xúquer<s n="np"/><s n="loc"/></r></p></e>
 <e>       <p><l>Polinyà<b/>del<b/>Vallès<s n="np"/><s n="loc"/></l><r>Polinyà<b/>del<b/>Vallès<s n="np"/><s n="loc"/></r></p></e>
 <e>       <p><l>Politkovskaya<s n="np"/><s n="ant"/></l><r>Politkòvskaia<s n="np"/><s n="ant"/></r></p></e>
-<e>       <p><l>Politkóvskaya<s n="np"/><s n="ant"/></l><r>Politkòvskaya<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>Poliñá<b/>del<b/>Júcar<s n="np"/><s n="loc"/></l><r>Polinyà<b/>de<b/>Xúquer<s n="np"/><s n="loc"/></r></p></e>
 <e>       <p><l>Pollença<s n="np"/><s n="loc"/></l>    <r>Pollença<s n="np"/><s n="loc"/></r></p></e>
 <e>       <p><l>Polo<s n="np"/><s n="ant"/></l>        <r>Polo<s n="np"/><s n="ant"/></r></p></e>
@@ -19781,7 +19780,7 @@
 <e>       <p><l>Quesada<s n="np"/><s n="al"/></l>      <r>Quesada<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Quevedo<s n="np"/><s n="ant"/></l>     <r>Quevedo<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>Quico<s n="np"/><s n="ant"/></l>       <r>Quico<s n="np"/><s n="ant"/></r></p></e>
-<e>       <p><l>Quijote<s n="np"/><s n="al"/></l>      <r>Quixot<s n="np"/><s n="al"/></r></p></e>
+<e>       <p><l>Quixot<s n="np"/><s n="al"/></l>      <r>Quixot<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Quiles<s n="np"/><s n="ant"/></l>      <r>Quiles<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>Quilis<s n="np"/><s n="ant"/></l>      <r>Quilis<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>Quim<s n="np"/><s n="ant"/></l>        <r>Quim<s n="np"/><s n="ant"/></r></p></e>
@@ -21430,7 +21429,8 @@
 <e>       <p><l>da<b/>Silva<s n="np"/><s n="ant"/></l> <r>da<b/>Silva<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>don<b/>Juan<s n="np"/><s n="ant"/></l> <r>don<b/>Joan<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>don<b/>Juan<b/>Tenorio<s n="np"/><s n="ant"/></l><r>don<b/>Juan<b/>Tenorio<s n="np"/><s n="ant"/></r></p></e>
-<e>       <p><l>don<b/>Quijote<s n="np"/><s n="ant"/></l><r>el<b/>Quixot<s n="np"/><s n="ant"/></r></p></e>
+<e>       <p><l>lo<b/>Quixot<s n="np"/><s n="ant"/></l><r>el<b/>Quixot<s n="np"/><s n="ant"/></r></p></e>
+<e r="LR">       <p><l>don<b/>Quixot<s n="np"/><s n="ant"/></l><r>el<b/>Quixot<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>eLearn<b/>Center<s n="np"/><s n="al"/></l><r>eLearn<b/>Center<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>el<b/>Bruc<s n="np"/><s n="loc"/></l>  <r>el<b/>Bruc<s n="np"/><s n="loc"/></r></p></e>
 <e>       <p><l>el<b/>Brull<s n="np"/><s n="loc"/></l> <r>el<b/>Brull<s n="np"/><s n="loc"/></r></p></e>
@@ -21485,7 +21485,7 @@
 <e>       <p><l>el<b/>Prat<s n="np"/><s n="loc"/></l>  <r>el<b/>Prat<s n="np"/><s n="loc"/></r></p></e>
 <e>       <p><l>el<b/>Prat<b/>de<b/>Llobregat<s n="np"/><s n="loc"/></l><r>el<b/>Prat<b/>de<b/>Llobregat<s n="np"/><s n="loc"/></r></p></e>
 <e>       <p><l>el<b/>Puig<s n="np"/><s n="loc"/></l>  <r>el<b/>Puig<s n="np"/><s n="loc"/></r></p></e>
-<e>       <p><l>el<b/>Punt<s n="np"/><s n="al"/></l>   <r>el<b/>Punt<s n="np"/><s n="al"/></r></p></e>
+<e>       <p><l>El<b/>Punt<s n="np"/><s n="al"/></l>   <r>el<b/>Punt<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>el<b/>Real<b/>de<b/>Gandía<s n="np"/><s n="loc"/></l><r>el<b/>Real<b/>de<b/>Gandia<s n="np"/><s n="loc"/></r></p></e>
 <e>       <p><l>el<b/>Rourell<s n="np"/><s n="loc"/></l><r>el<b/>Rourell<s n="np"/><s n="loc"/></r></p></e>
 <e>       <p><l>el<b/>Ràfol<b/>d'Almúnia<s n="np"/><s n="loc"/></l><r>el<b/>Ràfol<b/>d'Almúnia<s n="np"/><s n="loc"/></r></p></e>
@@ -21569,7 +21569,7 @@
 <e>       <p><l>la<b/>Bisbal<b/>d'Empordà<s n="np"/><s n="loc"/></l><r>la<b/>Bisbal<b/>d'Empordà<s n="np"/><s n="loc"/></r></p></e>
 <e>       <p><l>la<b/>Bisbal<b/>de<b/>Falset<s n="np"/><s n="loc"/></l><r>la<b/>Bisbal<b/>de<b/>Falset<s n="np"/><s n="loc"/></r></p></e>
 <e>       <p><l>la<b/>Bisbal<b/>del<b/>Penedès<s n="np"/><s n="loc"/></l><r>la<b/>Bisbal<b/>del<b/>Penedès<s n="np"/><s n="loc"/></r></p></e>
-<e>       <p><l>la<b/>Caixa<s n="np"/><s n="al"/></l>  <r>la<b/>Caixa<s n="np"/><s n="al"/></r></p></e>
+<e>       <p><l>La<b/>Caixa<s n="np"/><s n="al"/></l>  <r>la<b/>Caixa<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>la<b/>Canal<b/>de<b/>Navarrés<s n="np"/><s n="loc"/></l><r>la<b/>Canal<b/>de<b/>Navarrés<s n="np"/><s n="loc"/></r></p></e>
 <e>       <p><l>la<b/>Canonja<s n="np"/><s n="loc"/></l><r>la<b/>Canonja<s n="np"/><s n="loc"/></r></p></e>
 <e>       <p><l>la<b/>Canyada<s n="np"/><s n="loc"/></l><r>la<b/>Canyada<s n="np"/><s n="loc"/></r></p></e>
@@ -21718,7 +21718,6 @@
 <e>       <p><l>les<b/>Useres<s n="np"/><s n="loc"/></l><r>les<b/>Useres<s n="np"/><s n="loc"/></r></p></e>
 <e>       <p><l>los<b/>Alcázares<s n="np"/><s n="loc"/></l><r>los<b/>Alcázares<s n="np"/><s n="loc"/></r></p></e>
 <e>       <p><l>multiplex<s n="np"/><s n="al"/></l>    <r>multiplex<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>patronato<b/>San<b/>Miguel<s n="np"/><s n="al"/></l><r>patronat<b/>Sant<b/>Miquel<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>pdf<s n="np"/><s n="al"/></l>          <r>pdf<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>sa<b/>Pobla<s n="np"/><s n="loc"/></l> <r>sa<b/>Pobla<s n="np"/><s n="loc"/></r></p></e>
 <e>       <p><l>Ses<b/>Salines<s n="np"/><s n="loc"/></l><r>Ses<b/>Salines<s n="np"/><s n="loc"/></r></p></e>
@@ -21732,6 +21731,7 @@
 <e>       <p><l>Àneu<s n="np"/><s n="loc"/></l>        <r>Àneu<s n="np"/><s n="loc"/></r></p></e>
 <e>       <p><l>Àngela<s n="np"/><s n="ant"/></l>      <r>Àngela<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>África<s n="np"/><s n="loc"/></l>      <r>Àfrica<s n="np"/><s n="loc"/></r></p></e>
+<e>       <p><l>Avila<s n="np"/><s n="loc"/></l>      <r>Àvila<s n="np"/><s n="loc"/></r></p></e>
 <e>       <p><l>Águilas<s n="np"/><s n="loc"/></l>     <r>Águilas<s n="np"/><s n="loc"/></r></p></e>
 <e>       <p><l>Álava<s n="np"/><s n="loc"/></l>       <r>Àlaba<s n="np"/><s n="loc"/></r></p></e>
 <e>       <p><l>Álex<s n="np"/><s n="ant"/></l>        <r>Álex<s n="np"/><s n="ant"/></r></p></e>
