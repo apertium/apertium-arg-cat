@@ -1614,7 +1614,7 @@
 <e>       <p><l>experimental<s n="adj"/></l>           <r>experimental<s n="adj"/></r></p></e>
 <e>       <p><l>experto<s n="adj"/></l>                <r>expert<s n="adj"/></r></p></e>
 <e>       <p><l>expiatorio<s n="adj"/></l>             <r>expiatori<s n="adj"/></r></p></e>
-<e>       <p><l>expierto<s n="adj"/></l>               <r>expert<s n="adj"/></r></p></e>
+<e>       <p><l>experto<s n="adj"/></l>               <r>expert<s n="adj"/></r></p></e>
 <e>       <p><l>explicable<s n="adj"/></l>             <r>explicable<s n="adj"/></r></p></e>
 <e>       <p><l>explicativo<s n="adj"/></l>            <r>explicatiu<s n="adj"/></r></p></e>
 <e>       <p><l>explicito<s n="adj"/></l>              <r>explícit<s n="adj"/></r></p></e>
@@ -1721,7 +1721,7 @@
 <e>       <p><l>ferroviario<s n="adj"/></l>            <r>ferroviari<s n="adj"/></r></p></e>
 <e>       <p><l>fertil<s n="adj"/></l>                 <r>fèrtil<s n="adj"/></r></p></e>
 <e>       <p><l>fertilizant<s n="adj"/></l>            <r>fertilitzant<s n="adj"/></r></p></e>
-<e>       <p><l>fervent<s n="adj"/></l>                <r>fervent<s n="adj"/></r></p></e>
+<e>       <p><l>fervient<s n="adj"/></l>                <r>fervent<s n="adj"/></r></p></e>
 <e>       <p><l>fervoroso<s n="adj"/></l>              <r>fervorós<s n="adj"/></r></p></e>
 <e>       <p><l>fesable<s n="adj"/></l>                <r>factible<s n="adj"/></r></p></e>
 <e>       <p><l>festivo<s n="adj"/></l>                <r>festiu<s n="adj"/></r></p></e>
@@ -2239,7 +2239,6 @@
 <e>       <p><l>inexcusable<s n="adj"/></l>            <r>inexcusable<s n="adj"/></r></p></e>
 <e>       <p><l>inexorable<s n="adj"/></l>             <r>inexorable<s n="adj"/></r></p></e>
 <e>       <p><l>inexperto<s n="adj"/></l>              <r>inexpert<s n="adj"/></r></p></e>
-<e>       <p><l>inexpierto<s n="adj"/></l>             <r>inexpert<s n="adj"/></r></p></e>
 <e>       <p><l>inexplicable<s n="adj"/></l>           <r>inexplicable<s n="adj"/></r></p></e>
 <e>       <p><l>infame<s n="adj"/></l>                 <r>infame<s n="adj"/></r></p></e>
 <e>       <p><l>infantil<s n="adj"/></l>               <r>infantil<s n="adj"/></r></p></e>
@@ -2355,7 +2354,9 @@
 <e>       <p><l>integral<s n="adj"/></l>               <r>integral<s n="adj"/></r></p></e>
 <e>       <p><l>integrativo<s n="adj"/></l>            <r>integratiu<s n="adj"/></r></p></e>
 <e>       <p><l>integrista<s n="adj"/></l>             <r>integrista<s n="adj"/></r></p></e>
-<e>       <p><l>integro<s n="adj"/></l>                <r>íntegre<s n="adj"/></r></p></e>
+<e r="LR"><p><l>integro<s n="adj"/><s n="m"/><s n="pl"/></l><r>íntegre<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+<e r="LR"><p><l>integro<s n="adj"/><s n="f"/><s n="pl"/></l><r>íntegre<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
+<e r="RL"><p><l>integro<s n="adj"/><s n="GD"/><s n="pl"/></l><r>intacte<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
 <e>       <p><l>intelectual<s n="adj"/></l>            <r>intel·lectual<s n="adj"/></r></p></e>
 <e>       <p><l>intelichent<s n="adj"/></l>            <r>intel·ligent<s n="adj"/></r></p></e>
 <e>       <p><l>intelichible<s n="adj"/></l>           <r>intel·ligible<s n="adj"/></r></p></e>
@@ -2819,8 +2820,6 @@
 <!--<e><p><l>nadador<s n="adj"/></l><r>nadador<s n="adj"/></r></p></e>-->
 <e>       <p><l>nadador<s n="adj"/></l>                <r>nedador<s n="adj"/></r></p></e>
 <e>       <p><l>nadalenco<s n="adj"/></l>              <r>nadalenc<s n="adj"/></r></p></e>
-<e>       <p><l>nadivo<s n="adj"/></l>                 <r>nadiu<s n="adj"/></r></p></e>
-<e>       <p><l>nadivo<s n="adj"/></l>                 <r>natiu<s n="adj"/></r></p></e>
 <e>       <p><l>naixient<s n="adj"/></l>               <r>naixent<s n="adj"/></r></p></e>
 <e>       <p><l>napolitano<s n="adj"/></l>             <r>napolità<s n="adj"/></r></p></e>
 <e>       <p><l>narcisista<s n="adj"/></l>             <r>narcisista<s n="adj"/></r></p></e>
@@ -3620,7 +3619,7 @@
 <e>       <p><l>royisco<s n="adj"/></l>                <r>vermellós<s n="adj"/></r></p></e>
 <!--<e><p><l>royo<s n="adj"/></l><r>roig<s n="adj"/></r></p></e>-->
 <e>       <p><l>royo<s n="adj"/></l>                   <r>vermell<s n="adj"/></r></p></e>
-<e>       <p><l>rubio<s n="adj"/></l>                  <r>ros<s n="adj"/></r></p></e>
+<e>       <p><l>royo<s n="adj"/></l>                  <r>ros<s n="adj"/></r></p></e>
 <e>       <p><l>rudimentario<s n="adj"/></l>           <r>rudimentari<s n="adj"/></r></p></e>
 <e>       <p><l>rudioso<s n="adj"/></l>                <r>sorollós<s n="adj"/></r></p></e>
 <e r="RL"><p><l>rudioso<s n="adj"/></l>                <r>sorollós<s n="adj"/><s n="sup"/></r></p></e>
@@ -4009,8 +4008,9 @@
 <e>       <p><l>tovo<s n="adj"/></l>                   <r>tou<s n="adj"/></r></p></e>
 <e>       <p><l>toxico<s n="adj"/></l>                 <r>tòxic<s n="adj"/></r></p></e>
 <e>       <p><l>toxicomano<s n="adj"/></l>             <r>toxicòman<s n="adj"/></r></p></e>
+<e r="LR">       <p><l>tozudo<s n="adj"/></l>               <r>tossut<s n="adj"/></r></p></e>
 <e>       <p><l>tozoludo<s n="adj"/></l>               <r>tossut<s n="adj"/></r></p></e>
-<e>       <p><l>tozolón<s n="adj"/></l>                <r>tossut<s n="adj"/></r></p></e>
+<e r="LR">       <p><l>tozolón<s n="adj"/></l>                <r>tossut<s n="adj"/></r></p></e>
 <e>       <p><l>trachico<s n="adj"/></l>               <r>tràgic<s n="adj"/></r></p></e>
 <e>       <p><l>tradicional<s n="adj"/></l>            <r>tradicional<s n="adj"/></r></p></e>
 <e>       <p><l>traducible<s n="adj"/></l>             <r>traduïble<s n="adj"/></r></p></e>
@@ -5786,7 +5786,7 @@
 <e>       <p><l>ferroviariament<s n="adv"/></l>        <r>ferroviàriament<s n="adv"/></r></p></e>
 <e>       <p><l>fertilizantment<s n="adv"/></l>        <r>fertilitzantment<s n="adv"/></r></p></e>
 <e>       <p><l>fertilment<s n="adv"/></l>             <r>fèrtilment<s n="adv"/></r></p></e>
-<e>       <p><l>ferventment<s n="adv"/></l>            <r>ferventment<s n="adv"/></r></p></e>
+<e>       <p><l>fervientment<s n="adv"/></l>            <r>ferventment<s n="adv"/></r></p></e>
 <e>       <p><l>fervorosament<s n="adv"/></l>          <r>fervorosament<s n="adv"/></r></p></e>
 <e>       <p><l>fesablement<s n="adv"/></l>            <r>factiblement<s n="adv"/></r></p></e>
 <e>       <p><l>festivament<s n="adv"/></l>            <r>festivament<s n="adv"/></r></p></e>
@@ -6777,7 +6777,7 @@
 <e>       <p><l>mutuament<s n="adv"/></l>              <r>mútuament<s n="adv"/></r></p></e>
 <e>       <p><l>nacionalment<s n="adv"/></l>           <r>nacionalment<s n="adv"/></r></p></e>
 <e>       <p><l>nadalencament<s n="adv"/></l>          <r>nadalencament<s n="adv"/></r></p></e>
-<e>       <p><l>nadivament<s n="adv"/></l>             <r>nadivament<s n="adv"/></r></p></e>
+<e>       <p><l>nativament<s n="adv"/></l>             <r>nadiuament<s n="adv"/></r></p></e>
 <e>       <p><l>naixientment<s n="adv"/></l>           <r>naixentment<s n="adv"/></r></p></e>
 <e>       <p><l>narcisistament<s n="adv"/></l>         <r>narcisistament<s n="adv"/></r></p></e>
 <e>       <p><l>narrativament<s n="adv"/></l>          <r>narrativament<s n="adv"/></r></p></e>
@@ -11239,8 +11239,8 @@
 <e>       <p><l>experiencia<s n="n"/><s n="f"/></l>    <r>experiència<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>experimentación<s n="n"/><s n="f"/></l><r>experimentació<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>expiación<s n="n"/><s n="f"/></l>      <r>expiació<s n="n"/><s n="f"/></r></p></e>
-<e>       <p><l>expierto<s n="n"/><s n="m"/></l>       <r>expert<s n="n"/><s n="m"/></r></p></e>
-<e>       <p><l>expierto<s n="n"/><s n="f"/></l>       <r>expert<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>experto<s n="n"/><s n="m"/></l>       <r>expert<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>experto<s n="n"/><s n="f"/></l>       <r>expert<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>expiración<s n="n"/><s n="f"/></l>     <r>expiració<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>explanada<s n="n"/><s n="f"/></l>      <r>esplanada<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>explicación<s n="n"/><s n="f"/></l>    <r>explicació<s n="n"/><s n="f"/></r></p></e>
@@ -14229,7 +14229,9 @@
 <e>       <p><l>sol<s n="n"/><s n="m"/></l>            <r>sol<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>solar<s n="n"/><s n="m"/></l>          <r>solar<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>soldadura<s n="n"/><s n="f"/></l>      <r>soldadura<s n="n"/><s n="f"/></r></p></e>
-<e>       <p><l>soldau<s n="n"/><s n="mf"/></l>        <r>soldat<s n="n"/><s n="mf"/></r></p></e>
+<e r="RL"><p><l>soldau<s n="n"/><s n="mf"/></l><r>soldat<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>soldau<s n="n"/><s n="mf"/></l><r>soldat<s n="n"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>soldau<s n="n"/><s n="mf"/></l><r>soldat<s n="n"/><s n="GD"/></r></p></e>
 <e>       <p><l>soledat<s n="n"/><s n="f"/></l>        <r>solitud<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>solemnidat<s n="n"/><s n="f"/></l>     <r>solemnitat<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>solicitación<s n="n"/><s n="f"/></l>   <r>sol·licitació<s n="n"/><s n="f"/></r></p></e>
