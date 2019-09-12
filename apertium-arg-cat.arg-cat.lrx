@@ -12,11 +12,11 @@
   </rule>
 
   <rule>
-    <match lemma="meyo" tags="n.*"/>
+    <match lemma="meyo" tags="n.*">
 		<select lemma="mitjà" tags="n.*"/>
 	</match>
-    <match lemma="de">
-    <match lemma="comunicación">
+    <match lemma="de"/>
+    <match lemma="comunicación"/>
   </rule>
   
   
