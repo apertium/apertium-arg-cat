@@ -143,13 +143,13 @@ $(PREFIX2).rlx.bin: $(AP_SRC2)/apertium-$(LANG2).$(LANG2).rlx
 	cp $< $@
 
 .deps/$(PREFIX1).cat.dix: .deps/$(PREFIX1).dix
-	python genvrdix.py cat $< >$@
+	apertium-genvrdix cat $< >$@
 
 .deps/$(PREFIX1).val_gva.dix: .deps/$(PREFIX1).dix
-	python genvrdix.py val_gva $< >$@
+	apertium-genvrdix val_gva $< >$@
 
 .deps/$(PREFIX1).val_uni.dix: .deps/$(PREFIX1).dix
-	python genvrdix.py val_uni $< >$@
+	apertium-genvrdix val_uni $< >$@
 	
 $(PREFIX1C).autobil.bin: .deps/$(PREFIX1).cat.dix
 	apertium-validate-dictionary $<
