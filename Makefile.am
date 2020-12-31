@@ -2,7 +2,6 @@
 ## Makefile for Aragonese-Catalan 
 ###############################################################################
 
-VERSION=0.1.0
 LANG1=arg
 LANG2=cat
 
@@ -240,4 +239,3 @@ test: all
 	@echo "house" > .test-ref
 	@diff .test-ref .test-mt
 	@rm .test-ref .test-mt
-
