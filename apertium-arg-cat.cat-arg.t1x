@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!-- -*- nxml -*- -->
 <transfer>
   <section-def-cats>
@@ -75,6 +75,7 @@
       <attr-item tags="adj.sup"/>
       <attr-item tags="adj.itg"/>
       <attr-item tags="adj.pos"/>
+      <attr-item tags="adj.ord"/>
       <attr-item tags="adj"/>
       <attr-item tags="vblex.pp"/>
       <attr-item tags="vblex.v2.pp"/>

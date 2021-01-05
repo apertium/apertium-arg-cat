@@ -73,6 +73,7 @@
     <sdef n="sup" /> 
     <sdef n="num" /> 
     <sdef n="ij" /> 
+    <sdef n="ord" /> 
     <sdef n="sent" /> 
     <sdef n="cm" /> 
     <sdef n="lpar" /> 
@@ -1046,7 +1047,8 @@
 <e>       <p><l>debil<s n="adj"/></l>                  <r>feble<s n="adj"/></r></p></e>
 <e>       <p><l>debiu<s n="adj"/></l>                  <r>degut<s n="adj"/></r></p></e>
 <e>       <p><l>decadent<s n="adj"/></l>               <r>decadent<s n="adj"/></r></p></e>
-<e>       <p><l>deceno<s n="adj"/></l>                 <r>dècim<s n="adj"/></r></p></e>
+<e r="LR">       <p><l>decimo<s n="adj"/></l>                 <r>dècim<s n="adj"/></r></p></e>
+<e r="RL">       <p><l>deceno<s n="adj"/></l>                 <r>dècim<s n="adj"/></r></p></e>
 <e>       <p><l>deceno<s n="adj"/></l>                 <r>desè<s n="adj"/></r></p></e>
 <e>       <p><l>decent<s n="adj"/></l>                 <r>decent<s n="adj"/></r></p></e>
 <e>       <p><l>decidiu<s n="adj"/></l>                <r>decidit<s n="adj"/></r></p></e>
@@ -2896,7 +2898,8 @@
 <e>       <p><l>nuboso<s n="adj"/></l>                 <r>nuvolós<s n="adj"/></r></p></e>
 <e>       <p><l>nuclear<s n="adj"/></l>                <r>nuclear<s n="adj"/></r></p></e>
 <e>       <p><l>nucleico<s n="adj"/></l>               <r>nucleic<s n="adj"/></r></p></e>
-<e>       <p><l>nueno<s n="adj"/></l>                  <r>novè<s n="adj"/></r></p></e>
+<e r="LR">       <p><l>nueno<s n="adj"/></l>                  <r>novè<s n="adj"/></r></p></e>
+<e>       <p><l>noveno<s n="adj"/></l>                  <r>novè<s n="adj"/></r></p></e>
 <e>       <p><l>nuestro<s n="adj"/><s n="pos"/><s n="m"/><s n="sg"/></l><r>nostre<s n="adj"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
 <e>       <p><l>nuestro<s n="adj"/><s n="pos"/><s n="f"/><s n="sg"/></l><r>nostre<s n="adj"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
 <e r="LR"><p><l>nuestro<s n="adj"/><s n="pos"/><s n="m"/><s n="pl"/></l><r>nostre<s n="adj"/><s n="pos"/><s n="mf"/><s n="pl"/></r></p></e>
@@ -3300,9 +3303,9 @@
 <e>       <p><l>prezoso<s n="adj"/></l>                <r>mandrós<s n="adj"/></r></p></e>
 <e r="RL"><p><l>prezoso<s n="adj"/></l>                <r>mandrós<s n="adj"/><s n="sup"/></r></p></e>
 <e>       <p><l>primario<s n="adj"/></l>               <r>primari<s n="adj"/></r></p></e>
-<e r="LR"><p><l>primer<s n="adj"/><s n="mf"/></l>      <r>primer<s n="adj"/><s n="GD"/></r></p></e>
-<e>       <p><l>primer<s n="adj"/><s n="f"/></l>       <r>primer<s n="adj"/><s n="f"/></r></p></e>
-<e>       <p><l>primer<s n="adj"/><s n="m"/></l>       <r>primer<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>primer<s n="adj"/><s n="ord"/><s n="mf"/></l>      <r>primer<s n="adj"/><s n="ord"/><s n="GD"/></r></p></e>
+<e>       <p><l>primer<s n="adj"/><s n="ord"/><s n="f"/></l>       <r>primer<s n="adj"/><s n="ord"/><s n="f"/></r></p></e>
+<e>       <p><l>primer<s n="adj"/><s n="ord"/><s n="m"/></l>       <r>primer<s n="adj"/><s n="ord"/><s n="m"/></r></p></e>
 <e>       <p><l>primerenco<s n="adj"/></l>             <r>primerenc<s n="adj"/></r></p></e>
 <e>       <p><l>primichenio<s n="adj"/></l>            <r>primigeni<s n="adj"/></r></p></e>
 <e>       <p><l>primitivo<s n="adj"/></l>              <r>primitiu<s n="adj"/></r></p></e>
@@ -3420,14 +3423,16 @@
 <e>       <p><l>quantitativo<s n="adj"/></l>           <r>quantitatiu<s n="adj"/></r></p></e>
 <e>       <p><l>quasiobchectivo<s n="adj"/></l>        <r>quasiobjectiu<s n="adj"/></r></p></e>
 <e>       <p><l>quaternario<s n="adj"/></l>            <r>quaternari<s n="adj"/></r></p></e>
-<e>       <p><l>quatreno<s n="adj"/></l>               <r>quart<s n="adj"/></r></p></e>
+<e>       <p><l>quarto<s n="adj"/></l>               <r>quart<s n="adj"/></r></p></e>
+<e r="LR">       <p><l>quatreno<s n="adj"/></l>               <r>quart<s n="adj"/></r></p></e>
 <e>       <p><l>queixoso<s n="adj"/></l>               <r>queixós<s n="adj"/></r></p></e>
 <e r="RL"><p><l>queixoso<s n="adj"/></l>               <r>queixós<s n="adj"/><s n="sup"/></r></p></e>
 <e>       <p><l>queriu<s n="adj"/></l>                 <r>benvolgut<s n="adj"/></r></p></e>
 <e>       <p><l>quieto<s n="adj"/></l>                 <r>quiet<s n="adj"/></r></p></e>
 <e>       <p><l>quimico<s n="adj"/></l>                <r>químic<s n="adj"/></r></p></e>
 <e>       <p><l>quincenal<s n="adj"/></l>              <r>quinzenal<s n="adj"/></r></p></e>
-<e>       <p><l>quinto<s n="adj"/></l>                 <r>cinquè<s n="adj"/></r></p></e>
+<e r="LR">       <p><l>quinto<s n="adj"/></l>                 <r>cinquè<s n="adj"/></r></p></e>
+<e>       <p><l>cinqueno<s n="adj"/></l>                 <r>cinquè<s n="adj"/></r></p></e>
 <e>       <p><l>quánto<s n="adj"/></l>                 <r>quant<s n="adj"/></r></p></e>
 <e>       <p><l>racial<s n="adj"/></l>                 <r>racial<s n="adj"/></r></p></e>
 <e>       <p><l>racional<s n="adj"/></l>               <r>racional<s n="adj"/></r></p></e>
@@ -3733,7 +3738,8 @@
 <e>       <p><l>severo<s n="adj"/></l>                 <r>sever<s n="adj"/></r></p></e>
 <e>       <p><l>sevillano<s n="adj"/></l>              <r>sevillà<s n="adj"/></r></p></e>
 <e>       <p><l>sexista<s n="adj"/></l>                <r>sexista<s n="adj"/></r></p></e>
-<e>       <p><l>sexto<s n="adj"/></l>                  <r>sisè<s n="adj"/></r></p></e>
+<e r="LR">       <p><l>sexto<s n="adj"/></l>                  <r>sisè<s n="adj"/></r></p></e>
+<e>       <p><l>seiseno<s n="adj"/></l>                 <r>sisè<s n="adj"/></r></p></e>
 <e>       <p><l>sexual<s n="adj"/></l>                 <r>sexual<s n="adj"/></r></p></e>
 <e>       <p><l>sichiloso<s n="adj"/></l>              <r>sigil·lós<s n="adj"/></r></p></e>
 <e>       <p><l>siciliano<s n="adj"/></l>              <r>sicilià<s n="adj"/></r></p></e>
@@ -4083,9 +4089,7 @@
 <e>       <p><l>ufanoso<s n="adj"/></l>                <r>ufanós<s n="adj"/></r></p></e>
 <e>       <p><l>uiteno<s n="adj"/></l>                 <r>vuitè<s n="adj"/></r></p></e>
 <e>       <p><l>ulterior<s n="adj"/></l>               <r>ulterior<s n="adj"/></r></p></e>
-<e>       <p><l>ultimo<s n="adj"/></l>                 <r>últim<s n="adj"/></r></p></e>
-<e>       <p><l>ultimo<s n="adj"/></l>                 <r>darrer<s n="adj"/></r></p></e>
-<e>       <p><l>ultimo<s n="adj"/></l>                 <r>últim<s n="adj"/></r></p></e>
+<e r="LR">       <p><l>ultimo<s n="adj"/></l>                 <r>últim<s n="adj"/></r></p></e>
 <e>       <p><l>ultra<s n="adj"/></l>                  <r>ultra<s n="adj"/></r></p></e>
 <e>       <p><l>ultranacionalista<s n="adj"/></l>      <r>ultranacionalista<s n="adj"/></r></p></e>
 <e>       <p><l>umbilical<s n="adj"/></l>              <r>umbilical<s n="adj"/></r></p></e>
@@ -4255,12 +4259,11 @@
 <e>       <p><l>yemení<s n="adj"/></l>                 <r>iemenita<s n="adj"/></r></p></e>
 <e>       <p><l>yermo<s n="adj"/></l>                  <r>erm<s n="adj"/></r></p></e>
 <e>       <p><l>yugoslavo<s n="adj"/></l>              <r>iugoslau<s n="adj"/></r></p></e>
-<e r="LR"><p><l>zaguer<s n="adj"/><s n="mf"/></l>      <r>darrer<s n="adj"/><s n="GD"/></r></p></e>
-<e>       <p><l>zaguer<s n="adj"/><s n="f"/></l>       <r>darrer<s n="adj"/><s n="f"/></r></p></e>
-<e>       <p><l>zaguer<s n="adj"/><s n="m"/></l>       <r>darrer<s n="adj"/><s n="m"/></r></p></e>
-<e r="LR"><p><l>zaguer<s n="adj"/><s n="mf"/></l>      <r>últim<s n="adj"/><s n="GD"/></r></p></e>
-<e>       <p><l>zaguer<s n="adj"/><s n="f"/></l>       <r>últim<s n="adj"/><s n="f"/></r></p></e>
-<e>       <p><l>zaguer<s n="adj"/><s n="m"/></l>       <r>últim<s n="adj"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>zaguer<s n="adj"/><s n="ord"/><s n="mf"/></l>      <r>darrer<s n="adj"/><s n="GD"/></r></p></e>
+<e>       <p><l>zaguer<s n="adj"/><s n="ord"/><s n="f"/></l>       <r>darrer<s n="adj"/><s n="f"/></r></p></e>
+<e>       <p><l>zaguer<s n="adj"/><s n="ord"/><s n="m"/></l>       <r>darrer<s n="adj"/><s n="m"/></r></p></e>
+<e r="RL">       <p><l>zaguer<s n="adj"/><s n="ord"/><s n="f"/></l>       <r>últim<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL">       <p><l>zaguer<s n="adj"/><s n="ord"/><s n="m"/></l>       <r>últim<s n="adj"/><s n="m"/></r></p></e>
 <e>       <p><l>zapatista<s n="adj"/></l>              <r>zapatista<s n="adj"/></r></p></e>
 <e>       <p><l>zaragocista<s n="adj"/></l>            <r>saragossista<s n="adj"/></r></p></e>
 <e>       <p><l>zaragozano<s n="adj"/></l>             <r>saragossà<s n="adj"/></r></p></e>
@@ -10719,6 +10722,16 @@
 <e>       <p><l>dossier<s n="n"/><s n="m"/></l>        <r>dossier<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>dotación<s n="n"/><s n="f"/></l>       <r>dotació<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>dote<s n="n"/><s n="m"/></l>           <r>dot<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>dotzeno<s n="adj"/></l>                 <r>dotzè<s n="adj"/></r></p></e>
+<e>       <p><l>tretzeno<s n="adj"/></l>                 <r>tretzè<s n="adj"/></r></p></e>
+<e>       <p><l>catorceno<s n="adj"/></l>                 <r>catorzè<s n="adj"/></r></p></e>
+<e>       <p><l>quinceno<s n="adj"/></l>                 <r>quinzè<s n="adj"/></r></p></e>
+<e>       <p><l>setzeno<s n="adj"/></l>                 <r>setzè<s n="adj"/></r></p></e>
+<e r="LR">       <p><l>deciseiseno<s n="adj"/></l>                 <r>setzè<s n="adj"/></r></p></e>
+<e>       <p><l>deciseteno<s n="adj"/></l>                 <r>dissetè<s n="adj"/></r></p></e>
+<e>       <p><l>deciuiteno<s n="adj"/></l>                 <r>divuitè<s n="adj"/></r></p></e>
+<e>       <p><l>decinoveno<s n="adj"/></l>                 <r>dinovè<s n="adj"/></r></p></e>
+<e>       <p><l>vinteno<s n="adj"/></l>                 <r>vintè<s n="adj"/></r></p></e>
 <e>       <p><l>dotzena<s n="n"/><s n="f"/></l>        <r>dotzena<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>drama<s n="n"/><s n="m"/></l>          <r>drama<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>dramatismo<s n="n"/><s n="m"/></l>     <r>dramatisme<s n="n"/><s n="m"/></r></p></e>
@@ -22043,10 +22056,8 @@
 <e>       <p><l>bell<b/>poquet<b/>mas<b/>de<s n="pr"/></l><r>una<b/>mica<b/>més<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>bella<b/>mica<b/>de<s n="pr"/></l>     <r>una<b/>mica<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>brenca<b/>de<s n="pr"/></l>            <r>gens<b/>de<s n="pr"/></r></p></e>
-<e>       <p><l>cara<s n="pr"/></l>                    <r>cap<b/>a<s n="pr"/></r></p></e>
-<e>       <p><l>cara<s n="pr"/></l>                    <r>envers<s n="pr"/></r></p></e>
-<e>       <p><l>cara<b/>ta<s n="pr"/></l>              <r>cap<b/>a<s n="pr"/></r></p></e>
-<e>       <p><l>cara<b/>ta<s n="pr"/></l>              <r>envers<s n="pr"/></r></p></e>
+<e r="LR">       <p><l>cara<s n="pr"/></l>                    <r>cap<b/>a<s n="pr"/></r></p></e>
+<e r="LR">       <p><l>cara<b/>ta<s n="pr"/></l>              <r>cap<b/>a<s n="pr"/></r></p></e>
 <e>       <p><l>chunto<b/>a<s n="pr"/></l>             <r>al<b/>costat<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>chunto<b/>con<s n="pr"/></l>           <r>juntament<b/>amb<s n="pr"/></r></p></e>
 <e>       <p><l>chus<s n="pr"/></l>                    <r>sota<s n="pr"/></r></p></e>
@@ -22139,8 +22150,10 @@
 <e>       <p><l>mils<b/>y<b/>mils<b/>de<s n="pr"/></l> <r>milers<b/>i<b/>milers<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>ni<b/>zarrapita<b/>ni<b/>brenca<b/>ni<b/>meya<b/>de<s n="pr"/></l><r>cap<b/>mena<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>pa<s n="pr"/></l>                      <r>per<b/>a<s n="pr"/></r></p></e>
-<e>       <p><l>pa<s n="pr"/></l>                      <r>per<s n="pr"/></r></p></e>
-<e>       <p><l>pa<s n="pr"/></l>                      <r>per<b/>tal<b/>de<s n="pr"/></r></p></e>
+<e>       <p><l>por<s n="pr"/></l>                      <r>per<s n="pr"/></r></p></e>
+<e r="LR">       <p><l>ta<s n="pr"/></l>                      <r>cap<b/>a<s n="pr"/></r></p></e>
+<!-- <e r="LR">       <p><l>ta<s n="pr"/></l>                      <r>per<b/>a<s n="pr"/></r></p></e> -->
+<e r="RL">       <p><l>pa<s n="pr"/></l>                      <r>per<b/>tal<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>poco<b/>dimpués<b/>de<s n="pr"/></l>   <r>poc<b/>després<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>por<s n="pr"/></l>                     <r>per<s n="pr"/></r></p></e>
 <e>       <p><l>por<b/>alto<b/>de<s n="pr"/></l>       <r>per<b/>sobre<b/>de<s n="pr"/></r></p></e>
@@ -22153,9 +22166,7 @@
 <e>       <p><l>por<b/>medio<b/>de<s n="pr"/></l>      <r>mitjançant<s n="pr"/></r></p></e>
 <e>       <p><l>por<b/>miedo<b/>a<s n="pr"/></l>       <r>per<b/>por<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>por<b/>o<b/>que<b/>concierne<b/>a<s n="pr"/></l><r>pel<b/>que<b/>concerneix<s n="pr"/></r></p></e>
-<e>       <p><l>por<b/>tal<b/>de<s n="pr"/></l>        <r>per<b/>a<s n="pr"/></r></p></e>
-<e>       <p><l>por<b/>tal<b/>de<s n="pr"/></l>        <r>per<s n="pr"/></r></p></e>
-<e>       <p><l>por<b/>tal<b/>de<s n="pr"/></l>        <r>per<b/>tal<b/>de<s n="pr"/></r></p></e>
+<e r="LR">       <p><l>por<b/>tal<b/>de<s n="pr"/></l>        <r>per<b/>tal<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>por<b/>tot<b/>arreu<b/>de<s n="pr"/></l><r>de<b/>llarg<b/>a<b/>llarg<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>por<b/>urchencia<b/>de<s n="pr"/></l>  <r>per<b/>falta<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>pro<b/>de<s n="pr"/></l>               <r>n'hi<b/>ha<b/>prou<b/>de<s n="pr"/></r></p></e>
@@ -22191,13 +22202,6 @@
 <e>       <p><l>sin<b/>miedo<b/>de<s n="pr"/></l>      <r>sense<b/>por<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>sobre<s n="pr"/></l>                   <r>sobre<s n="pr"/></r></p></e>
 <e>       <p><l>sobre<b/>a<b/>base<b/>de<s n="pr"/></l><r>sobre<b/>la<b/>base<b/>de<s n="pr"/></r></p></e>
-<e>       <p><l>ta<s n="pr"/></l>                      <r>cap<b/>a<s n="pr"/></r></p></e>
-<e>       <p><l>ta<s n="pr"/></l>                      <r>per<b/>a<s n="pr"/></r></p></e>
-<e>       <p><l>ta<s n="pr"/></l>                      <r>per<s n="pr"/></r></p></e>
-<e>       <p><l>ta<s n="pr"/></l>                      <r>per<b/>tal<b/>de<s n="pr"/></r></p></e>
-<e>       <p><l>ta2<s n="pr"/></l>                     <r>per<b/>a<s n="pr"/></r></p></e>
-<e>       <p><l>ta2<s n="pr"/></l>                     <r>per<s n="pr"/></r></p></e>
-<e>       <p><l>ta2<s n="pr"/></l>                     <r>per<b/>tal<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>ta<b/>meyaus<b/>de<s n="pr"/></l>      <r>cap<b/>a<b/>mitjan<s n="pr"/></r></p></e>
 <e>       <p><l>tenendo<b/>en<b/>cuenta<s n="pr"/></l> <r>havent<b/>donat<b/>compte<b/>de<s n="pr"/></r></p></e>
 <e>       <p><l>tocant<b/>a<s n="pr"/></l>             <r>tocant<b/>a<s n="pr"/></r></p></e>
