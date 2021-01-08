@@ -1,3 +1,15 @@
+Jan 08, 2021
+* Release 0.2.0
+   * Changed arg.prob file (in apertium-arg)
+   * Adapted to changes in apertium-cat and apertium-arg
+   * Added support for new np labels and acronyms
+   * Definite articles generated according to "Gramatica Basica de l'Aragonés" neutral standard paradigm.
+   * Improved apostrophation rules in post generation. Fix problems with "de + en (prep)".
+   * Added support for superlatives with "muito/muit/molt"
+   * Minor fixes performed
+   * Bilingual dictionary: 
+     > 24386 entries (6930 proper nouns)
+
 Jan 16, 2016
 * Initial release (0.1.0), beta
 * Operative bidirectional release.
