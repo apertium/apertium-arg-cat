@@ -1,0 +1,28 @@
+[0yyGngsimMcC#0] ^llevat dʼ/llevat de<pr>$
+[/0yyGngsimMcC]
+[56wHhmaOD_Dw#0] ^:/:<sent>$
+[/56wHhmaOD_Dw]
+[9ajMVLf4X5zL#0] ^poc després dʼ/poc després de<pr>$
+[/9ajMVLf4X5zL]
+[LGJCMs3SIXcS#0] ^8/8<num>$
+[/LGJCMs3SIXcS]
+[QbgF6nrAFOI1#0] ^;/;<sent>$
+[/QbgF6nrAFOI1]
+[SyJ3d9TdH8Yc#0] ^4/4<num>$
+[/SyJ3d9TdH8Yc]
+[YyUbZJ_Mj64T#0] ^òrbLeirlcaàt/*òrbLeirlcaàt$
+[/YyUbZJ_Mj64T]
+[_SY_UdI5jyIZ#0] ^9.8/9.8<num>$
+[/_SY_UdI5jyIZ]
+[bEPfE1qZjPdM#0] ^5a/5<adj><ord><f><sg>$
+[/bEPfE1qZjPdM]
+[io3oI9XtPhJ0#0] ^?/?<sent>$
+[/io3oI9XtPhJ0]
+[sOmmuZBPmwvx#0] ^mʼ/em<prn><pro><p1><mf><sg>$
+[/sOmmuZBPmwvx]
+[ul7FHQekrA6V#0] ^)/)<rpar>$
+[/ul7FHQekrA6V]
+[vVoxYGf5L7vg#0] ^fins al cap d'/fins al cap de<pr>$
+[/vVoxYGf5L7vg]
+[zbTuKuppzGqD#0] ^./.<sent>$
+[/zbTuKuppzGqD]

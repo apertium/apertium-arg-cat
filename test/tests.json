@@ -1,0 +1,10 @@
+{
+    "arg-cat": {
+        "input": "arg-cat-input.txt",
+        "mode": "arg-cat"
+    },
+    "cat-arg": {
+        "input": "cat-arg-input.txt",
+        "mode": "cat-arg"
+    }
+}

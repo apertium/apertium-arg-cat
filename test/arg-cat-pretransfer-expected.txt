@@ -1,0 +1,28 @@
+[1ywqFnxl7odi#0] ^91<adj><ord><m><sg>$
+[/1ywqFnxl7odi]
+[56wHhmaOD_Dw#0] ^:<sent>$
+[/56wHhmaOD_Dw]
+[7OYJv3UHdpyb#0] ^hasta<pr>$ ^*dimpue$'
+[/7OYJv3UHdpyb]
+[91fGUWq1L0b0#0] ^fueras de<pr>$
+[/91fGUWq1L0b0]
+[Muuxq8wcYBzr#0] ^(<lpar>$
+[/Muuxq8wcYBzr]
+[NCFBkOjA1GBZ#0] ^¿<lquest>$
+[/NCFBkOjA1GBZ]
+[TPrWYPFLeWb0#0] ^78<adj><ord><f><sg>$
+[/TPrWYPFLeWb0]
+[WMA29A2ucWmr#0] ^pro de<pr>$
+[/WMA29A2ucWmr]
+[XcCy82iM5huj#0] ^*Xèyroápseiubea$
+[/XcCy82iM5huj]
+[cSPUM_Xhd_bK#0] ^58<adj><ord><m><sg>$
+[/cSPUM_Xhd_bK]
+[jELjestdaLGK#0] ^*deaysnsaos$'^i<prn><pro><adv>$ ^l<n><f><sg>$-
+[/jELjestdaLGK]
+[mTbyPxgXeuPX#0] ^a los efectos de<pr>$
+[/mTbyPxgXeuPX]
+[pelT0NE7BvZT#0] ^*esguapüecemi$
+[/pelT0NE7BvZT]
+[u3IIvJtdfATx#0] ^!<sent>$
+[/u3IIvJtdfATx]
