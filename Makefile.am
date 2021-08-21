@@ -36,6 +36,8 @@ TARGETS_COMMON =		\
 	$(PREFIX1C).autogen.bin  \
  	$(PREFIX1V).autogen.bin  \
  	$(PREFIX1U).autogen.bin  \
+	$(PREFIX1C).autopgen-diacritics-vells.bin 	\
+	$(PREFIX1C).autopgen-diacritics-nous.bin 	\
 	$(PREFIX1C).autopgen.bin		\
 	$(PREFIX1V).autopgen.bin		\
 	$(PREFIX1U).autopgen.bin		\
@@ -95,6 +97,12 @@ $(PREFIX2).automorf.bin: .deps/$(LANG2).automorf.bin $(PREFIX2).autobil.bin
 # -------------------
 # Catalan generation:
 # ---------------------
+
+$(PREFIX1C).autopgen-diacritics-vells.bin: $(AP_SRC2)/$(LANG2C).autopgen-diacritics-vells.bin
+	cp $< $@
+
+$(PREFIX1C).autopgen-diacritics-nous.bin: $(AP_SRC2)/$(LANG2C).autopgen-diacritics-nous.bin
+	cp $< $@
 
 $(PREFIX1C).autogen.bin: $(AP_SRC2)/$(LANG2C).autogen.bin
 	cp $< $@
