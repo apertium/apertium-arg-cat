@@ -36,8 +36,8 @@ TARGETS_COMMON =		\
 	$(PREFIX1C).autogen.bin  \
  	$(PREFIX1V).autogen.bin  \
  	$(PREFIX1U).autogen.bin  \
-	$(PREFIX1C).autopgen-diacritics-vells.bin 	\
-	$(PREFIX1C).autopgen-diacritics-nous.bin 	\
+	$(PREFIX1C).prefs.rlx.bin	\
+	$(PREFIX1C).pre2017_prefs.rlx.bin \
 	$(PREFIX1C).autopgen.bin		\
 	$(PREFIX1V).autopgen.bin		\
 	$(PREFIX1U).autopgen.bin		\
@@ -49,7 +49,8 @@ TARGETS_COMMON =		\
 	$(PREFIX2).autolex.bin	\
 	$(PREFIX2).autogen.bin	\
 	$(PREFIX2).autopgen.bin	\
-	$(PREFIX2).t1x.bin
+	$(PREFIX2).t1x.bin	\
+ 	prefs/$(PREFIX1).xml
 
 
 # This include defines goals for install-modes, .deps/.d and .mode files:
@@ -97,12 +98,6 @@ $(PREFIX2).automorf.bin: .deps/$(LANG2).automorf.bin $(PREFIX2).autobil.bin
 # -------------------
 # Catalan generation:
 # ---------------------
-
-$(PREFIX1C).autopgen-diacritics-vells.bin: $(AP_SRC2)/$(LANG2C).autopgen-diacritics-vells.bin
-	cp $< $@
-
-$(PREFIX1C).autopgen-diacritics-nous.bin: $(AP_SRC2)/$(LANG2C).autopgen-diacritics-nous.bin
-	cp $< $@
 
 $(PREFIX1C).autogen.bin: $(AP_SRC2)/$(LANG2C).autogen.bin
 	cp $< $@
@@ -197,6 +192,36 @@ $(PREFIX2).t1x.bin: $(BASENAME).$(PREFIX2).t1x
 	apertium-validate-transfer $<
 	apertium-preprocess-transfer $< $@
 
+###############################################################################
+## Variant preferences
+###############################################################################
+
+$(PREFIX1).pre2017_prefs.rlx.bin: $(AP_SRC2)/$(LANG2).pre2017_prefs.rlx.bin
+	cp $< $@
+
+$(PREFIX1).prefs.rlx.bin: $(AP_SRC2)/$(LANG2).prefs.rlx.bin
+	cp $< $@
+
+###############################################################################
+## Preferences
+###############################################################################
+
+prefs/$(LANG2).preferences.xml: $(AP_SRC2)/$(LANG2).preferences.xml
+	$(MKDIR_P) prefs
+	cp $< $@
+
+define mergePrefs =
+$(MKDIR_P) prefs
+echo '<preferences>' >$@.tmp
+for f in $^; do xmllint --xpath '/preferences/preference' "$$f"; done >>$@.tmp
+echo '</preferences>' >>$@.tmp
+mv $@.tmp $@
+endef
+
+# uncomment when we have bilingual preferences
+# prefs/$(PREFIX1).xml: $(LANG2).preferences.xml $(PREFIX1).preferences.xml
+prefs/$(PREFIX1).xml: prefs/$(LANG2).preferences.xml 
+		$(mergePrefs)
 
 ###############################################################################
 ## Distribution
@@ -208,7 +233,8 @@ EXTRA_DIST=					\
 		$(BASENAME).$(PREFIX2).lrx	\
 		$(BASENAME).$(PREFIX1).t1x	\
 		$(BASENAME).$(PREFIX2).t1x	\
-		modes.xml
+		modes.xml	\
+		$(PREFIX1).preferences.xml
 
 ###############################################################################
 ## Installation
