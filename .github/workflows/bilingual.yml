@@ -1,0 +1,14 @@
+name: apertium-arg-cat CI/CD
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+
+jobs:
+  call-workflow:
+    uses: apertium/github-actions/.github/workflows/bilingual-build.yml@master
+    with:
+      lang1: apertium-arg
+      lang2: apertium-cat
