@@ -987,6 +987,7 @@
 <e r="LR"><p><l>corrupto<s n="adj"/><s n="f"/><s n="pl"/></l><r>corrupte<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
 <e r="RL"><p><l>corrupto<s n="adj"/><s n="GD"/><s n="pl"/></l><r>corrupte<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
 <e>       <p><l>cortés<s n="adj"/></l>                 <r>cortès<s n="adj"/></r></p></e>
+<e>       <p><l>descortés<s n="adj"/></l>                 <r>descortès<s n="adj"/></r></p></e>
 <e>       <p><l>cosmico<s n="adj"/></l>                <r>còsmic<s n="adj"/></r></p></e>
 <e>       <p><l>cosmolochico<s n="adj"/></l>           <r>cosmològic<s n="adj"/></r></p></e>
 <e>       <p><l>cosmopolita<s n="adj"/></l>            <r>cosmopolita<s n="adj"/></r></p></e>
@@ -1279,6 +1280,7 @@
 <e>       <p><l>divulgativo<s n="adj"/></l>            <r>divulgatiu<s n="adj"/></r></p></e>
 <e>       <p><l>docent<s n="adj"/></l>                 <r>docent<s n="adj"/></r></p></e>
 <e>       <p><l>dócil<s n="adj"/></l>                  <r>dòcil<s n="adj"/></r></p></e>
+<e>       <p><l>indócil<s n="adj"/></l>                  <r>indòcil<s n="adj"/></r></p></e>
 <e>       <p><l>doctoral<s n="adj"/></l>               <r>doctoral<s n="adj"/></r></p></e>
 <e>       <p><l>doctrinal<s n="adj"/></l>              <r>doctrinal<s n="adj"/></r></p></e>
 <e>       <p><l>documental<s n="adj"/></l>             <r>documental<s n="adj"/></r></p></e>
@@ -1666,7 +1668,7 @@
 <e>       <p><l>facendau<s n="adj"/></l>               <r>hisendat<s n="adj"/></r></p></e>
 <e>       <p><l>fachendoso<s n="adj"/></l>             <r>jactanciós<s n="adj"/></r></p></e>
 <e>       <p><l>facial<s n="adj"/></l>                 <r>facial<s n="adj"/></r></p></e>
-<e>       <p><l>fácil<s n="adj"/></l>                  <r>fàcil<s n="adj"/></r></p></e>
+<e>       <p><l>facil<s n="adj"/></l>                  <r>fàcil<s n="adj"/></r></p></e>
 <e>       <p><l>factible<s n="adj"/></l>               <r>factible<s n="adj"/></r></p></e>
 <e>       <p><l>factico<s n="adj"/></l>                <r>fàctic<s n="adj"/></r></p></e>
 <e>       <p><l>factorial<s n="adj"/></l>              <r>factorial<s n="adj"/></r></p></e>
@@ -4359,7 +4361,7 @@
 <e>       <p><l>accesoriament<s n="adv"/></l>          <r>accessòriament<s n="adv"/></r></p></e>
 <e>       <p><l>accidentalment<s n="adv"/></l>         <r>accidentalment<s n="adv"/></r></p></e>
 <e>       <p><l>accionarialment<s n="adv"/></l>        <r>accionarialment<s n="adv"/></r></p></e>
-<e>       <p><l>áchilment<s n="adv"/></l>              <r>àgilment<s n="adv"/></r></p></e>
+<e>       <p><l>achilment<s n="adv"/></l>              <r>àgilment<s n="adv"/></r></p></e>
 <e>       <p><l>achitadament<s n="adv"/></l>           <r>agitadament<s n="adv"/></r></p></e>
 <e>       <p><l>achitadorament<s n="adv"/></l>         <r>agitadorament<s n="adv"/></r></p></e>
 <e>       <p><l>achustablement<s n="adv"/></l>         <r>ajustablement<s n="adv"/></r></p></e>
@@ -5154,7 +5156,7 @@
 <e>       <p><l>debant<s n="adv"/></l>                 <r>davant<s n="adv"/></r></p></e>
 <e>       <p><l>debant<s n="adv"/></l>                 <r>enfront<s n="adv"/></r></p></e>
 <e>       <p><l>debidament<s n="adv"/></l>             <r>degudament<s n="adv"/></r></p></e>
-<e r="LR"><p><l>débilment<s n="adv"/></l>              <r>feblement<s n="adv"/></r></p></e>
+<e r="LR"><p><l>debilment<s n="adv"/></l>              <r>feblement<s n="adv"/></r></p></e>
 <e>       <p><l>decadentment<s n="adv"/></l>           <r>decadentment<s n="adv"/></r></p></e>
 <e>       <p><l>decamín<s n="adv"/></l>                <r>de<b/>seguida<s n="adv"/></r></p></e>
 <e>       <p><l>decentment<s n="adv"/></l>             <r>decentment<s n="adv"/></r></p></e>
@@ -5319,7 +5321,7 @@
 <e>       <p><l>diferenciadorament<s n="adv"/></l>     <r>diferenciadorament<s n="adv"/></r></p></e>
 <e>       <p><l>diferencialment<s n="adv"/></l>        <r>diferencialment<s n="adv"/></r></p></e>
 <e>       <p><l>diferentment<s n="adv"/></l>           <r>diferentment<s n="adv"/></r></p></e>
-<e>       <p><l>difícilment<s n="adv"/></l>            <r>difícilment<s n="adv"/></r></p></e>
+<e>       <p><l>dificilment<s n="adv"/></l>            <r>difícilment<s n="adv"/></r></p></e>
 <e>       <p><l>difuera<s n="adv"/></l>                <r>a<b/>fora<s n="adv"/></r></p></e>
 <e>       <p><l>difuera<s n="adv"/></l>                <r>al<b/>defora<s n="adv"/></r></p></e>
 <e>       <p><l>difuera<s n="adv"/></l>                <r>enfora<s n="adv"/></r></p></e>
@@ -5379,7 +5381,7 @@
 <e>       <p><l>divisiblement<s n="adv"/></l>          <r>divisiblement<s n="adv"/></r></p></e>
 <e>       <p><l>divisoriament<s n="adv"/></l>          <r>divisòriament<s n="adv"/></r></p></e>
 <e>       <p><l>divulgativament<s n="adv"/></l>        <r>divulgativament<s n="adv"/></r></p></e>
-<e>       <p><l>dócilment<s n="adv"/></l>              <r>dòcilment<s n="adv"/></r></p></e>
+<e>       <p><l>docilment<s n="adv"/></l>              <r>dòcilment<s n="adv"/></r></p></e>
 <e>       <p><l>doctament<s n="adv"/></l>              <r>doctament<s n="adv"/></r></p></e>
 <e>       <p><l>doctoralment<s n="adv"/></l>           <r>doctoralment<s n="adv"/></r></p></e>
 <e>       <p><l>doctrinalment<s n="adv"/></l>          <r>doctrinalment<s n="adv"/></r></p></e>
@@ -5616,7 +5618,7 @@
 <e>       <p><l>estelarment<s n="adv"/></l>            <r>estel·larment<s n="adv"/></r></p></e>
 <e>       <p><l>estequiometricament<s n="adv"/></l>    <r>estequiomètricament<s n="adv"/></r></p></e>
 <e>       <p><l>estereofonicament<s n="adv"/></l>      <r>estereofònicament<s n="adv"/></r></p></e>
-<e>       <p><l>estérilment<s n="adv"/></l>            <r>estèrilment<s n="adv"/></r></p></e>
+<e>       <p><l>esterilment<s n="adv"/></l>            <r>estèrilment<s n="adv"/></r></p></e>
 <e>       <p><l>esterizadament<s n="adv"/></l>         <r>escruixidorament<s n="adv"/></r></p></e>
 <e>       <p><l>esteticament<s n="adv"/></l>           <r>estèticament<s n="adv"/></r></p></e>
 <e>       <p><l>estilisticament<s n="adv"/></l>        <r>estilísticament<s n="adv"/></r></p></e>
@@ -5791,7 +5793,7 @@
 <e>       <p><l>ferricament<s n="adv"/></l>            <r>fèrricament<s n="adv"/></r></p></e>
 <e>       <p><l>ferroviariament<s n="adv"/></l>        <r>ferroviàriament<s n="adv"/></r></p></e>
 <e>       <p><l>fertilizantment<s n="adv"/></l>        <r>fertilitzantment<s n="adv"/></r></p></e>
-<e>       <p><l>fértilment<s n="adv"/></l>             <r>fèrtilment<s n="adv"/></r></p></e>
+<e>       <p><l>fertilment<s n="adv"/></l>             <r>fèrtilment<s n="adv"/></r></p></e>
 <e>       <p><l>fervientment<s n="adv"/></l>            <r>ferventment<s n="adv"/></r></p></e>
 <e>       <p><l>fervorosament<s n="adv"/></l>          <r>fervorosament<s n="adv"/></r></p></e>
 <e>       <p><l>fesablement<s n="adv"/></l>            <r>factiblement<s n="adv"/></r></p></e>
@@ -5852,7 +5854,7 @@
 <e>       <p><l>fotoelectricament<s n="adv"/></l>      <r>fotoelèctricament<s n="adv"/></r></p></e>
 <e>       <p><l>fotograficament<s n="adv"/></l>        <r>fotogràficament<s n="adv"/></r></p></e>
 <e>       <p><l>fraccionariament<s n="adv"/></l>       <r>fraccionàriament<s n="adv"/></r></p></e>
-<e>       <p><l>fráchilment<s n="adv"/></l>            <r>fràgilment<s n="adv"/></r></p></e>
+<e>       <p><l>frachilment<s n="adv"/></l>            <r>fràgilment<s n="adv"/></r></p></e>
 <e>       <p><l>fragantment<s n="adv"/></l>            <r>fragantment<s n="adv"/></r></p></e>
 <e>       <p><l>fragorosament<s n="adv"/></l>          <r>fragorosament<s n="adv"/></r></p></e>
 <e>       <p><l>francament<s n="adv"/></l>             <r>francament<s n="adv"/></r></p></e>
@@ -5901,7 +5903,7 @@
 <e>       <p><l>furtivament<s n="adv"/></l>            <r>furtivament<s n="adv"/></r></p></e>
 <e>       <p><l>fusiblement<s n="adv"/></l>            <r>fusiblement<s n="adv"/></r></p></e>
 <e>       <p><l>futbolisticament<s n="adv"/></l>       <r>futbolísticament<s n="adv"/></r></p></e>
-<e>       <p><l>fútilment<s n="adv"/></l>              <r>fútilment<s n="adv"/></r></p></e>
+<e>       <p><l>futilment<s n="adv"/></l>              <r>fútilment<s n="adv"/></r></p></e>
 <e>       <p><l>fuyidizament<s n="adv"/></l>           <r>fugisserament<s n="adv"/></r></p></e>
 <e>       <p><l>galacticament<s n="adv"/></l>          <r>galàcticament<s n="adv"/></r></p></e>
 <e>       <p><l>galvanicament<s n="adv"/></l>          <r>galvànicament<s n="adv"/></r></p></e>
@@ -5953,7 +5955,7 @@
 <e>       <p><l>gubernativament<s n="adv"/></l>        <r>governativament<s n="adv"/></r></p></e>
 <e>       <p><l>guipuzcuanament<s n="adv"/></l>        <r>guipuscoanament<s n="adv"/></r></p></e>
 <e>       <p><l>gustosament<s n="adv"/></l>            <r>gustosament<s n="adv"/></r></p></e>
-<e>       <p><l>hábilment<s n="adv"/></l>              <r>hàbilment<s n="adv"/></r></p></e>
+<e>       <p><l>habilment<s n="adv"/></l>              <r>hàbilment<s n="adv"/></r></p></e>
 <e>       <p><l>habitablement<s n="adv"/></l>          <r>habitablement<s n="adv"/></r></p></e>
 <e>       <p><l>habitualment<s n="adv"/></l>           <r>habitualment<s n="adv"/></r></p></e>
 <e>       <p><l>harmonicament<s n="adv"/></l>          <r>harmònicament<s n="adv"/></r></p></e>
@@ -6056,7 +6058,7 @@
 <e>       <p><l>imachinablement<s n="adv"/></l>        <r>imaginablement<s n="adv"/></r></p></e>
 <e>       <p><l>imachinariament<s n="adv"/></l>        <r>imaginàriament<s n="adv"/></r></p></e>
 <e>       <p><l>imachinativament<s n="adv"/></l>       <r>imaginativament<s n="adv"/></r></p></e>
-<e>       <p><l>imbécilment<s n="adv"/></l>            <r>imbècilment<s n="adv"/></r></p></e>
+<e>       <p><l>imbecilment<s n="adv"/></l>            <r>imbècilment<s n="adv"/></r></p></e>
 <e>       <p><l>imborrablement<s n="adv"/></l>         <r>inesborrablement<s n="adv"/></r></p></e>
 <e>       <p><l>immaculadament<s n="adv"/></l>         <r>immaculadament<s n="adv"/></r></p></e>
 <e>       <p><l>immanentment<s n="adv"/></l>           <r>immanentment<s n="adv"/></r></p></e>
@@ -6070,7 +6072,7 @@
 <e>       <p><l>imminentment<s n="adv"/></l>           <r>imminentment<s n="adv"/></r></p></e>
 <e>       <p><l>immobiliariament<s n="adv"/></l>       <r>immobiliàriament<s n="adv"/></r></p></e>
 <e>       <p><l>immobilizadament<s n="adv"/></l>       <r>immobilitzadament<s n="adv"/></r></p></e>
-<e>       <p><l>immóbilment<s n="adv"/></l>            <r>immòbilment<s n="adv"/></r></p></e>
+<e>       <p><l>immobilment<s n="adv"/></l>            <r>immòbilment<s n="adv"/></r></p></e>
 <e>       <p><l>immodificablement<s n="adv"/></l>      <r>immodificablement<s n="adv"/></r></p></e>
 <e>       <p><l>immoralment<s n="adv"/></l>            <r>immoralment<s n="adv"/></r></p></e>
 <e>       <p><l>immortalment<s n="adv"/></l>           <r>immortalment<s n="adv"/></r></p></e>
@@ -6298,7 +6300,7 @@
 <e>       <p><l>ingratament<s n="adv"/></l>            <r>ingratament<s n="adv"/></r></p></e>
 <e>       <p><l>ingravidament<s n="adv"/></l>          <r>ingràvidament<s n="adv"/></r></p></e>
 <e>       <p><l>ingubernablement<s n="adv"/></l>       <r>ingovernablement<s n="adv"/></r></p></e>
-<e>       <p><l>inhábilment<s n="adv"/></l>            <r>inhàbilment<s n="adv"/></r></p></e>
+<e>       <p><l>inhabilment<s n="adv"/></l>            <r>inhàbilment<s n="adv"/></r></p></e>
 <e>       <p><l>inherentment<s n="adv"/></l>           <r>inherentment<s n="adv"/></r></p></e>
 <e>       <p><l>inhibitoriament<s n="adv"/></l>        <r>inhibitòriament<s n="adv"/></r></p></e>
 <e>       <p><l>inhospitament<s n="adv"/></l>          <r>inhòspitament<s n="adv"/></r></p></e>
@@ -6429,11 +6431,11 @@
 <e>       <p><l>inundablement<s n="adv"/></l>          <r>inundablement<s n="adv"/></r></p></e>
 <e>       <p><l>inusitadament<s n="adv"/></l>          <r>inusitadament<s n="adv"/></r></p></e>
 <e>       <p><l>inusualment<s n="adv"/></l>            <r>inusualment<s n="adv"/></r></p></e>
-<e>       <p><l>inútilment<s n="adv"/></l>             <r>inútilment<s n="adv"/></r></p></e>
+<e>       <p><l>inutilment<s n="adv"/></l>             <r>inútilment<s n="adv"/></r></p></e>
 <e>       <p><l>invalidament<s n="adv"/></l>           <r>invàlidament<s n="adv"/></r></p></e>
 <e>       <p><l>invalidantment<s n="adv"/></l>         <r>invalidantment<s n="adv"/></r></p></e>
 <e>       <p><l>invariablement<s n="adv"/></l>         <r>invariablement<s n="adv"/></r></p></e>
-<e>       <p><l>inverosímilment<s n="adv"/></l>        <r>inversemblantment<s n="adv"/></r></p></e>
+<e>       <p><l>inverisimilment<s n="adv"/></l>        <r>inversemblantment<s n="adv"/></r></p></e>
 <e>       <p><l>inversament<s n="adv"/></l>            <r>inversament<s n="adv"/></r></p></e>
 <e>       <p><l>invertebradament<s n="adv"/></l>       <r>invertebradament<s n="adv"/></r></p></e>
 <e>       <p><l>inviablement<s n="adv"/></l>           <r>inviablement<s n="adv"/></r></p></e>
@@ -6718,7 +6720,7 @@
 <e>       <p><l>mitolochicament<s n="adv"/></l>        <r>mitològicament<s n="adv"/></r></p></e>
 <e>       <p><l>mixtament<s n="adv"/></l>              <r>mixtament<s n="adv"/></r></p></e>
 <e>       <p><l>mnemotecnicament<s n="adv"/></l>       <r>mnemotècnicament<s n="adv"/></r></p></e>
-<e>       <p><l>móbilment<s n="adv"/></l>              <r>mòbilment<s n="adv"/></r></p></e>
+<e>       <p><l>mobilment<s n="adv"/></l>              <r>mòbilment<s n="adv"/></r></p></e>
 <e>       <p><l>modalment<s n="adv"/></l>              <r>modalment<s n="adv"/></r></p></e>
 <e>       <p><l>modelicament<s n="adv"/></l>           <r>modèlicament<s n="adv"/></r></p></e>
 <e>       <p><l>moderadament<s n="adv"/></l>           <r>moderadament<s n="adv"/></r></p></e>
@@ -7114,7 +7116,7 @@
 <e>       <p><l>por<b/>tot<b/>arreu<s n="adv"/></l>    <r>pertot<b/>arreu<s n="adv"/></r></p></e>
 <e>       <p><l>poregosament<s n="adv"/></l>           <r>poregosament<s n="adv"/></r></p></e>
 <e>       <p><l>porosament<s n="adv"/></l>             <r>porosament<s n="adv"/></r></p></e>
-<e>       <p><l>portátilment<s n="adv"/></l>           <r>portàtilment<s n="adv"/></r></p></e>
+<e>       <p><l>portatilment<s n="adv"/></l>           <r>portàtilment<s n="adv"/></r></p></e>
 <e>       <p><l>portentosament<s n="adv"/></l>         <r>portentosament<s n="adv"/></r></p></e>
 <e>       <p><l>portuariament<s n="adv"/></l>          <r>portuàriament<s n="adv"/></r></p></e>
 <e>       <p><l>posesivament<s n="adv"/></l>           <r>possessivament<s n="adv"/></r></p></e>
@@ -7684,7 +7686,7 @@
 <e>       <p><l>tacitament<s n="adv"/></l>             <r>tàcitament<s n="adv"/></r></p></e>
 <e>       <p><l>taciturnament<s n="adv"/></l>          <r>taciturnament<s n="adv"/></r></p></e>
 <e>       <p><l>tacticament<s n="adv"/></l>            <r>tàcticament<s n="adv"/></r></p></e>
-<e>       <p><l>táctilment<s n="adv"/></l>             <r>tàctilment<s n="adv"/></r></p></e>
+<e>       <p><l>tactilment<s n="adv"/></l>             <r>tàctilment<s n="adv"/></r></p></e>
 <e>       <p><l>tal<s n="adv"/></l>                    <r>tal<s n="adv"/></r></p></e>
 <e>       <p><l>tallantment<s n="adv"/></l>            <r>tallantment<s n="adv"/></r></p></e>
 <e>       <p><l>talment<s n="adv"/></l>                <r>potser<s n="adv"/></r></p></e>
@@ -7869,7 +7871,7 @@
 <e>       <p><l>ut<b/>supra<s n="adv"/></l>            <r>ut<b/>supra<s n="adv"/></r></p></e>
 <e>       <p><l>utilitariament<s n="adv"/></l>         <r>utilitàriament<s n="adv"/></r></p></e>
 <e>       <p><l>utilitaristament<s n="adv"/></l>       <r>utilitaristament<s n="adv"/></r></p></e>
-<e>       <p><l>útilment<s n="adv"/></l>               <r>útilment<s n="adv"/></r></p></e>
+<e>       <p><l>utilment<s n="adv"/></l>               <r>útilment<s n="adv"/></r></p></e>
 <e>       <p><l>utopicament<s n="adv"/></l>            <r>utòpicament<s n="adv"/></r></p></e>
 <e>       <p><l>v.<b/>gr.<s n="adv"/></l>              <r>v.<b/>gr.<s n="adv"/></r></p></e>
 <e>       <p><l>vacacionalment<s n="adv"/></l>         <r>vacacionalment<s n="adv"/></r></p></e>
@@ -7913,8 +7915,8 @@
 <e>       <p><l>vergüenyosament<s n="adv"/></l>        <r>vergonyosament<s n="adv"/></r></p></e>
 <e>       <p><l>veridicament<s n="adv"/></l>           <r>verídicament<s n="adv"/></r></p></e>
 <e>       <p><l>vernaclament<s n="adv"/></l>           <r>vernaclament<s n="adv"/></r></p></e>
-<e>       <p><l>verosímilment<s n="adv"/></l>          <r>versemblantment<s n="adv"/></r></p></e>
-<e>       <p><l>versátilment<s n="adv"/></l>           <r>versàtilment<s n="adv"/></r></p></e>
+<e>       <p><l>verisimilment<s n="adv"/></l>          <r>versemblantment<s n="adv"/></r></p></e>
+<e>       <p><l>versatilment<s n="adv"/></l>           <r>versàtilment<s n="adv"/></r></p></e>
 <e>       <p><l>vertebradorament<s n="adv"/></l>       <r>vertebradorament<s n="adv"/></r></p></e>
 <e>       <p><l>vertebralment<s n="adv"/></l>          <r>vertebralment<s n="adv"/></r></p></e>
 <e>       <p><l>verticalment<s n="adv"/></l>           <r>verticalment<s n="adv"/></r></p></e>
@@ -7966,7 +7968,7 @@
 <e>       <p><l>vocalment<s n="adv"/></l>              <r>vocalment<s n="adv"/></r></p></e>
 <e>       <p><l>vociferantment<s n="adv"/></l>         <r>vociferantment<s n="adv"/></r></p></e>
 <e>       <p><l>voladizament<s n="adv"/></l>           <r>voladissament<s n="adv"/></r></p></e>
-<e>       <p><l>volátilment<s n="adv"/></l>            <r>volàtilment<s n="adv"/></r></p></e>
+<e>       <p><l>volatilment<s n="adv"/></l>            <r>volàtilment<s n="adv"/></r></p></e>
 <e>       <p><l>volcanicament<s n="adv"/></l>          <r>volcànicament<s n="adv"/></r></p></e>
 <e>       <p><l>volitivament<s n="adv"/></l>           <r>volitivament<s n="adv"/></r></p></e>
 <e>       <p><l>volublement<s n="adv"/></l>            <r>volublement<s n="adv"/></r></p></e>
