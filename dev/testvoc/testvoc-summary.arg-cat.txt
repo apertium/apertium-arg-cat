@@ -1,25 +1,25 @@
-Fri 08 Jan 2021 01:03:37 AM UTC
+Thu May  4 09:33:54 PM UTC 2023
 ===============================================
 POS	Total	Clean	With @	With #	Clean %
-vblex	828638		0	0	
-vaux	91078		0	0	
-adj	38807		0	0	
-n	37591		0	0	
-adv	21691		0	0	
-np	9238		0	1	
-num	2961		0	0	
-vbmod	2851		0	0	
-vbser	1503		0	0	
-pr	979		0	0	
-vbhaver	771		0	0	
-prn	642		0	0	
-det	378		0	0	
-cnjadv	226		0	0	
-preadv	32		0	0	
-predet	13		0	0	
-cnjcoo	11		0	0	
+vblex	581838		0	0	
+vaux	60913		0	0	
+n	27810		0	0	
+adj	25542		0	0	
+adv	14490		0	0	
+np	8424		0	9	
+num	2505		0	0	
+vbmod	2329		0	0	
+vbser	1247		0	0	
+pr	904		0	0	
+vbhaver	702		0	0	
+prn	515		0	0	
+det	321		0	0	
+cnjadv	167		0	0	
+preadv	31		0	0	
+rel	18		0	0	
+cnjcoo	10		0	0	
+predet	9		0	0	
 cnjsub	6		0	0	
-rel	3		0	0	
 ij	0		0	0	
 guio	0		0	0	
 cm	0		0	0	

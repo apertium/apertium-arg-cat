@@ -1,3 +1,13 @@
+May 5, 2023
+* Release 0.3.0
+  * Change in generated Orthography - Adapted to the official orthograpy of the Academia Aragonesa de la Lengua (https://www.academiaaragonesadelalengua.org/sites/default/files/ficheros-pdf/Ortograf%C3%ADa%20de%20l%27aragon%C3%A9s_web_an.pdf)
+  * Keeps analysis compatibility with previous orthography (apertium-arg)
+  * New entries added.
+  * Minor fixes performed.
+  * Bilingual dictionary:
+     > 24405 entries (6934 proper nouns).
+  * Main pending issues: improve disambiguation with CG, add support for generating dialectal preferences
+
 Jan 08, 2021
 * Release 0.2.0
    * Changed arg.prob file (in apertium-arg)
