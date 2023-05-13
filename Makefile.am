@@ -252,6 +252,8 @@ apertium_arg_cat_DATA=	\
 noinst_DATA=modes/$(PREFIX1).mode
 
 install-data-local: install-modes
+	$(MKDIR_P) $(DESTDIR)$(apertium_modesdir)/../prefs
+	$(INSTALL_DATA) $(TARGETS_PREFS) $(DESTDIR)$(apertium_modesdir)/../prefs
 
 ###############################################################################
 ## Cleanup
