@@ -219,7 +219,7 @@ mv $@.tmp $@
 endef
 
 # uncomment when we have bilingual preferences
-# prefs/$(PREFIX1).xml: $(LANG2).preferences.xml $(PREFIX1).preferences.xml
+# prefs/$(PREFIX1).xml: prefs/$(LANG2).preferences.xml $(PREFIX1).preferences.xml
 prefs/$(PREFIX1).xml: prefs/$(LANG2).preferences.xml 
 		$(mergePrefs)
 
@@ -249,7 +249,7 @@ apertium_arg_cat_DATA=	\
 	$(BASENAME).$(PREFIX2).t1x
 
 # All modes are created by the same goal, listing several will just give problems with make -j2
-noinst_DATA=modes/$(PREFIX1).mode
+noinst_DATA=modes/$(PREFIX1).mode $(TARGETS_PREFS)
 
 install-data-local: install-modes
 	$(MKDIR_P) $(DESTDIR)$(apertium_modesdir)/../prefs
