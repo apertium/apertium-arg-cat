@@ -25,6 +25,9 @@ PREFIX2U=$(LANG2U)-$(LANG1)
 
 BASENAME=apertium-$(PREFIX1)
 
+TARGETS_PREFS = prefs/$(PREFIX1).xml	\
+		prefs/$(PREFIX2).xml
+
 TARGETS_COMMON =		\
 	$(PREFIX1).automorf.bin	\
 	$(PREFIX1).prob		\
@@ -48,9 +51,11 @@ TARGETS_COMMON =		\
 	$(PREFIX2).autobil.bin	\
 	$(PREFIX2).autolex.bin	\
 	$(PREFIX2).autogen.bin	\
+	$(PREFIX2).prefs.rlx.bin	\
 	$(PREFIX2).autopgen.bin	\
 	$(PREFIX2).t1x.bin	\
- 	prefs/$(PREFIX1).xml
+ 	prefs/$(PREFIX1).xml	\
+	prefs/$(PREFIX2).xml
 
 
 # This include defines goals for install-modes, .deps/.d and .mode files:
@@ -202,11 +207,19 @@ $(PREFIX1).pre2017_prefs.rlx.bin: $(AP_SRC2)/$(LANG2).pre2017_prefs.rlx.bin
 $(PREFIX1).prefs.rlx.bin: $(AP_SRC2)/$(LANG2).prefs.rlx.bin
 	cp $< $@
 
+$(PREFIX2).prefs.rlx.bin: $(AP_SRC1)/$(LANG1).prefs.rlx.bin
+	cp $< $@
+
+
 ###############################################################################
 ## Preferences
 ###############################################################################
 
 prefs/$(LANG2).preferences.xml: $(AP_SRC2)/$(LANG2).preferences.xml
+	$(MKDIR_P) prefs
+	cp $< $@
+
+prefs/$(LANG1).preferences.xml: $(AP_SRC1)/$(LANG1).preferences.xml
 	$(MKDIR_P) prefs
 	cp $< $@
 
@@ -222,6 +235,9 @@ endef
 # prefs/$(PREFIX1).xml: prefs/$(LANG2).preferences.xml $(PREFIX1).preferences.xml
 prefs/$(PREFIX1).xml: prefs/$(LANG2).preferences.xml 
 		$(mergePrefs)
+prefs/$(PREFIX2).xml: prefs/$(LANG1).preferences.xml 
+		$(mergePrefs)
+
 
 ###############################################################################
 ## Distribution
@@ -234,7 +250,8 @@ EXTRA_DIST=					\
 		$(BASENAME).$(PREFIX1).t1x	\
 		$(BASENAME).$(PREFIX2).t1x	\
 		modes.xml	\
-		$(PREFIX1).preferences.xml
+		$(PREFIX1).preferences.xml	\
+		$(PREFIX2).preferences.xml
 
 ###############################################################################
 ## Installation
@@ -249,7 +266,7 @@ apertium_arg_cat_DATA=	\
 	$(BASENAME).$(PREFIX2).t1x
 
 # All modes are created by the same goal, listing several will just give problems with make -j2
-noinst_DATA=modes/$(PREFIX1).mode $(TARGETS_PREFS)
+noinst_DATA=modes/$(PREFIX1).mode modes/$(PREFIX2).mode $(TARGETS_PREFS)
 
 install-data-local: install-modes
 	$(MKDIR_P) $(DESTDIR)$(apertium_modesdir)/../prefs
