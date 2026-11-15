@@ -160,7 +160,151 @@
     <def-var n="auxn"/>
     <def-var n="temp"/>
 
-  </section-def-vars>
+  <def-var n="sup_positive_gen"/>
+</section-def-vars>
+
+  <section-def-lists>
+    <def-list n="sup_analytic">
+      <list-item v="aclarit&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;pl&gt;"/>
+      <list-item v="aclarit&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;sg&gt;"/>
+      <list-item v="aclarit&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;pl&gt;"/>
+      <list-item v="aclarit&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;sg&gt;"/>
+      <list-item v="campestre&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;pl&gt;"/>
+      <list-item v="campestre&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;sg&gt;"/>
+      <list-item v="campestre&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;pl&gt;"/>
+      <list-item v="campestre&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;sg&gt;"/>
+      <list-item v="ceràmic&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;pl&gt;"/>
+      <list-item v="ceràmic&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;sg&gt;"/>
+      <list-item v="ceràmic&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;pl&gt;"/>
+      <list-item v="ceràmic&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;sg&gt;"/>
+      <list-item v="ciutadà&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;pl&gt;"/>
+      <list-item v="ciutadà&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;sg&gt;"/>
+      <list-item v="ciutadà&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;pl&gt;"/>
+      <list-item v="ciutadà&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;sg&gt;"/>
+      <list-item v="concorde&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;pl&gt;"/>
+      <list-item v="concorde&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;sg&gt;"/>
+      <list-item v="concorde&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;pl&gt;"/>
+      <list-item v="concorde&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;sg&gt;"/>
+      <list-item v="curull&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;pl&gt;"/>
+      <list-item v="curull&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;sg&gt;"/>
+      <list-item v="curull&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;pl&gt;"/>
+      <list-item v="curull&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;sg&gt;"/>
+      <list-item v="cívic&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;pl&gt;"/>
+      <list-item v="cívic&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;sg&gt;"/>
+      <list-item v="cívic&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;pl&gt;"/>
+      <list-item v="cívic&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;sg&gt;"/>
+      <list-item v="desproveït&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;pl&gt;"/>
+      <list-item v="desproveït&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;sg&gt;"/>
+      <list-item v="desproveït&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;pl&gt;"/>
+      <list-item v="desproveït&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;sg&gt;"/>
+      <list-item v="diocesà&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;pl&gt;"/>
+      <list-item v="diocesà&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;sg&gt;"/>
+      <list-item v="diocesà&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;pl&gt;"/>
+      <list-item v="diocesà&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;sg&gt;"/>
+      <list-item v="exaltat&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;pl&gt;"/>
+      <list-item v="exaltat&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;sg&gt;"/>
+      <list-item v="exaltat&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;pl&gt;"/>
+      <list-item v="exaltat&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;sg&gt;"/>
+      <list-item v="explícit&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;pl&gt;"/>
+      <list-item v="explícit&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;sg&gt;"/>
+      <list-item v="explícit&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;pl&gt;"/>
+      <list-item v="explícit&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;sg&gt;"/>
+      <list-item v="frèvol&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;pl&gt;"/>
+      <list-item v="frèvol&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;sg&gt;"/>
+      <list-item v="frèvol&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;pl&gt;"/>
+      <list-item v="frèvol&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;sg&gt;"/>
+      <list-item v="gandul&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;pl&gt;"/>
+      <list-item v="gandul&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;sg&gt;"/>
+      <list-item v="gandul&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;pl&gt;"/>
+      <list-item v="gandul&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;sg&gt;"/>
+      <list-item v="guerxo&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;pl&gt;"/>
+      <list-item v="guerxo&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;sg&gt;"/>
+      <list-item v="guerxo&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;pl&gt;"/>
+      <list-item v="guerxo&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;sg&gt;"/>
+      <list-item v="imprecís&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;pl&gt;"/>
+      <list-item v="imprecís&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;sg&gt;"/>
+      <list-item v="imprecís&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;pl&gt;"/>
+      <list-item v="imprecís&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;sg&gt;"/>
+      <list-item v="imprudent&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;pl&gt;"/>
+      <list-item v="imprudent&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;sg&gt;"/>
+      <list-item v="imprudent&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;pl&gt;"/>
+      <list-item v="imprudent&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;sg&gt;"/>
+      <list-item v="indeterminat&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;pl&gt;"/>
+      <list-item v="indeterminat&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;sg&gt;"/>
+      <list-item v="indeterminat&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;pl&gt;"/>
+      <list-item v="indeterminat&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;sg&gt;"/>
+      <list-item v="llanut&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;pl&gt;"/>
+      <list-item v="llanut&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;sg&gt;"/>
+      <list-item v="llanut&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;pl&gt;"/>
+      <list-item v="llanut&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;sg&gt;"/>
+      <list-item v="mort&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;pl&gt;"/>
+      <list-item v="mort&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;sg&gt;"/>
+      <list-item v="mort&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;pl&gt;"/>
+      <list-item v="mort&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;sg&gt;"/>
+      <list-item v="muntanyenc&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;pl&gt;"/>
+      <list-item v="muntanyenc&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;sg&gt;"/>
+      <list-item v="muntanyenc&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;pl&gt;"/>
+      <list-item v="muntanyenc&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;sg&gt;"/>
+      <list-item v="nu&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;pl&gt;"/>
+      <list-item v="nu&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;sg&gt;"/>
+      <list-item v="nu&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;pl&gt;"/>
+      <list-item v="nu&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;sg&gt;"/>
+      <list-item v="oblidadís&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;pl&gt;"/>
+      <list-item v="oblidadís&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;sg&gt;"/>
+      <list-item v="oblidadís&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;pl&gt;"/>
+      <list-item v="oblidadís&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;sg&gt;"/>
+      <list-item v="pirinenc&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;pl&gt;"/>
+      <list-item v="pirinenc&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;sg&gt;"/>
+      <list-item v="pirinenc&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;pl&gt;"/>
+      <list-item v="pirinenc&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;sg&gt;"/>
+      <list-item v="profà&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;pl&gt;"/>
+      <list-item v="profà&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;sg&gt;"/>
+      <list-item v="profà&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;pl&gt;"/>
+      <list-item v="profà&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;sg&gt;"/>
+      <list-item v="ranci&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;pl&gt;"/>
+      <list-item v="ranci&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;sg&gt;"/>
+      <list-item v="ranci&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;pl&gt;"/>
+      <list-item v="ranci&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;sg&gt;"/>
+      <list-item v="somort&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;pl&gt;"/>
+      <list-item v="somort&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;sg&gt;"/>
+      <list-item v="somort&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;pl&gt;"/>
+      <list-item v="somort&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;sg&gt;"/>
+      <list-item v="tort&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;pl&gt;"/>
+      <list-item v="tort&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;sg&gt;"/>
+      <list-item v="tort&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;pl&gt;"/>
+      <list-item v="tort&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;sg&gt;"/>
+      <list-item v="translúcid&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;pl&gt;"/>
+      <list-item v="translúcid&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;sg&gt;"/>
+      <list-item v="translúcid&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;pl&gt;"/>
+      <list-item v="translúcid&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;sg&gt;"/>
+      <list-item v="vague&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;pl&gt;"/>
+      <list-item v="vague&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;sg&gt;"/>
+      <list-item v="vague&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;pl&gt;"/>
+      <list-item v="vague&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;sg&gt;"/>
+      <list-item v="volcànic&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;pl&gt;"/>
+      <list-item v="volcànic&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;sg&gt;"/>
+      <list-item v="volcànic&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;pl&gt;"/>
+      <list-item v="volcànic&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;sg&gt;"/>
+      <list-item v="ximple&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;pl&gt;"/>
+      <list-item v="ximple&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;sg&gt;"/>
+      <list-item v="ximple&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;pl&gt;"/>
+      <list-item v="ximple&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;sg&gt;"/>
+    </def-list>
+    <def-list n="sup_positive_mf">
+      <list-item v="campestre&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;pl&gt;"/>
+      <list-item v="campestre&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;pl&gt;"/>
+      <list-item v="campestre&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;sg&gt;"/>
+      <list-item v="concorde&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;pl&gt;"/>
+      <list-item v="concorde&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;pl&gt;"/>
+      <list-item v="concorde&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;sg&gt;"/>
+      <list-item v="imprudent&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;pl&gt;"/>
+      <list-item v="imprudent&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;pl&gt;"/>
+      <list-item v="imprudent&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;sg&gt;"/>
+      <list-item v="ximple&lt;adj&gt;&lt;sup&gt;&lt;f&gt;&lt;pl&gt;"/>
+      <list-item v="ximple&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;pl&gt;"/>
+      <list-item v="ximple&lt;adj&gt;&lt;sup&gt;&lt;m&gt;&lt;sg&gt;"/>
+    </def-list>
+  </section-def-lists>
 
   <section-def-macros>
 
@@ -2117,6 +2261,85 @@
     </choose>
 </def-macro>
 
+  
+    <!-- Preserve synthetic superlatives; use muy/molt only for the listed gaps. -->
+    <def-macro n="f_out_adj_sup" npar="1">
+      <choose>
+        <when>
+          <test>
+            <and>
+              <equal>
+                <clip pos="1" side="tl" part="a_adjec"/>
+                <lit-tag v="adj.sup"/>
+              </equal>
+              <in caseless="yes">
+                <clip pos="1" side="tl" part="whole"/>
+                <list n="sup_analytic"/>
+              </in>
+            </and>
+          </test>
+          <let>
+            <var n="sup_positive_gen"/>
+            <clip pos="1" side="tl" part="gen"/>
+          </let>
+          <choose>
+            <when>
+              <test>
+                <in caseless="yes">
+                  <clip pos="1" side="tl" part="whole"/>
+                  <list n="sup_positive_mf"/>
+                </in>
+              </test>
+              <let>
+                <var n="sup_positive_gen"/>
+                <lit-tag v="mf"/>
+              </let>
+            </when>
+          </choose>
+          <choose>
+            <when>
+              <test>
+                <equal>
+                  <case-of pos="1" side="sl" part="lemh"/>
+                  <lit v="Aa"/>
+                </equal>
+              </test>
+              <modify-case>
+                <clip pos="1" side="tl" part="lemh"/>
+                <lit v="aa"/>
+              </modify-case>
+            </when>
+          </choose>
+          <out>
+            <lu>
+              <get-case-from pos="1">
+                <lit v="molt"/>
+              </get-case-from>
+              <lit-tag v="adv"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <lit-tag v="adj"/>
+              <var n="sup_positive_gen"/>
+              <clip pos="1" side="tl" part="nbr"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </out>
+        </when>
+        <otherwise>
+          <out>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_adjec"/>
+              <clip pos="1" side="tl" part="gen"/>
+              <clip pos="1" side="tl" part="nbr"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </out>
+        </otherwise>
+      </choose>
+    </def-macro>
   </section-def-macros>
 
   <section-rules>
@@ -2129,13 +2352,13 @@
         <call-macro n="f_concord1">
           <with-param pos="1"/>
         </call-macro>
-        <out>
+        <choose><when><test><in caseless="yes"><clip pos="1" side="tl" part="whole"/><list n="sup_analytic"/></in></test><call-macro n="f_out_adj_sup"><with-param pos="1"/></call-macro></when><otherwise><out>
             <lu>
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="tags"/>
               <clip pos="1" side="tl" part="lemq"/>
             </lu>
-        </out>
+        </out></otherwise></choose>
       </action>
     </rule>
 
@@ -2262,14 +2485,8 @@
 		<clip pos="1" side="tl" part="lemq"/> 
 	      </lu>
 	      <b pos="1"/>
-	      <lu>
-		<clip pos="2" side="tl" part="lemh"/>
-		<clip pos="2" side="tl" part="a_adjec"/>
-		<clip pos="2" side="tl" part="gen"/>
-		<clip pos="2" side="tl" part="nbr"/>
-		<clip pos="2" side="tl" part="lemq"/>
-	      </lu>	    
-	    </out>
+	      </out>
+        <call-macro n="f_out_adj_sup"><with-param pos="2"/></call-macro>
       </action>
     </rule>
 
@@ -2295,22 +2512,12 @@
 	    <clip pos="1" side="tl" part="lemq"/> 
 	  </lu>
 	  <b pos="1"/>
-	  <lu>
-	    <clip pos="2" side="tl" part="lemh"/>
-	    <clip pos="2" side="tl" part="a_adjec"/>
-	    <clip pos="2" side="tl" part="gen"/>
-	    <clip pos="2" side="tl" part="nbr"/>
-	    <clip pos="2" side="tl" part="lemq"/>
-	  </lu>	    
+	  </out>
+        <call-macro n="f_out_adj_sup"><with-param pos="2"/></call-macro>
+        <out>	    
 	  <b pos="2"/>
-	  <lu>
-	    <clip pos="3" side="tl" part="lemh"/>
-	    <clip pos="3" side="tl" part="a_adjec"/>
-	    <clip pos="3" side="tl" part="gen"/>
-	    <clip pos="3" side="tl" part="nbr"/>
-	    <clip pos="3" side="tl" part="lemq"/>
-	  </lu>	    
-	</out>
+	  </out>
+        <call-macro n="f_out_adj_sup"><with-param pos="3"/></call-macro>
       </action>
     </rule>
     
@@ -2326,14 +2533,8 @@
 	  <with-param pos="2"/>
 	  <with-param pos="1"/>
 	</call-macro> 
-	<out>  
-	  <lu>
-	    <clip pos="1" side="tl" part="lemh"/>
-	    <clip pos="1" side="tl" part="a_adjec"/>
-	    <clip pos="1" side="tl" part="gen"/>
-	    <clip pos="1" side="tl" part="nbr"/>
-	    <clip pos="1" side="tl" part="lemq"/>   
-	  </lu>
+	<call-macro n="f_out_adj_sup"><with-param pos="1"/></call-macro>
+        <out>
 	  <b pos="1"/>
 	  <lu>
 	    <clip pos="2" side="tl" part="lemh"/>
@@ -2413,22 +2614,12 @@ closa
 	    <clip pos="2" side="tl" part="lemq"/> 
 	  </lu>
 	  <b pos="2"/>
-	  <lu>
-	    <clip pos="3" side="tl" part="lemh"/>
-	    <clip pos="3" side="tl" part="a_adjec"/>
-	    <clip pos="3" side="tl" part="gen"/>
-	    <clip pos="3" side="tl" part="nbr"/>
-	    <clip pos="3" side="tl" part="lemq"/>
-	  </lu>
+	  </out>
+        <call-macro n="f_out_adj_sup"><with-param pos="3"/></call-macro>
+        <out>
 	  <b pos="3"/>
-	  <lu>
-	    <clip pos="4" side="tl" part="lemh"/>
-	    <clip pos="4" side="tl" part="a_adjec"/>
-	    <clip pos="4" side="tl" part="gen"/>
-	    <clip pos="4" side="tl" part="nbr"/>
-	    <clip pos="4" side="tl" part="lemq"/>
-	  </lu>
-	</out>
+	  </out>
+        <call-macro n="f_out_adj_sup"><with-param pos="4"/></call-macro>
       </action>
     </rule>
 
@@ -2455,22 +2646,12 @@ closa
 	    <clip pos="1" side="tl" part="lemq"/>   
 	  </lu> 
 	  <b pos="1"/>
-	  <lu>
-	    <clip pos="2" side="tl" part="lemh"/>
-	    <clip pos="2" side="tl" part="a_adjec"/>
-	    <clip pos="2" side="tl" part="gen"/>
-	    <clip pos="2" side="tl" part="nbr"/>
-	    <clip pos="2" side="tl" part="lemq"/>
-	  </lu>
+	  </out>
+        <call-macro n="f_out_adj_sup"><with-param pos="2"/></call-macro>
+        <out>
 	  <b pos="2"/>
-	  <lu>
-	    <clip pos="3" side="tl" part="lemh"/>
-	    <clip pos="3" side="tl" part="a_adjec"/>
-	    <clip pos="3" side="tl" part="gen"/>
-	    <clip pos="3" side="tl" part="nbr"/>
-	    <clip pos="3" side="tl" part="lemq"/>
-	  </lu>
-	</out>
+	  </out>
+        <call-macro n="f_out_adj_sup"><with-param pos="3"/></call-macro>
       </action>
     </rule>
 
@@ -2493,13 +2674,9 @@ closa
 	    <clip pos="1" side="tl" part="whole"/>
 	  </lu>
 	  <b pos="1"/>
-	  <lu>
-	    <clip pos="2" side="tl" part="lemh"/>
-	    <clip pos="2" side="tl" part="a_adjec"/>
-	    <clip pos="2" side="tl" part="gen"/>
-	    <clip pos="2" side="tl" part="nbr"/>
-	    <clip pos="2" side="tl" part="lemq"/>
-	  </lu>
+	  </out>
+        <call-macro n="f_out_adj_sup"><with-param pos="2"/></call-macro>
+        <out>
 	  <b pos="2"/>
 	  <lu>
 	    <clip pos="3" side="tl" part="lemh"/>
@@ -2578,14 +2755,8 @@ closa
 	    <clip pos="3" side="tl" part="lemq"/> 
 	  </lu>
 	  <b pos="3"/>
-	  <lu>
-	    <clip pos="4" side="tl" part="lemh"/>
-	    <clip pos="4" side="tl" part="a_adjec"/>
-	    <clip pos="4" side="tl" part="gen"/>
-	    <clip pos="4" side="tl" part="nbr"/>
-	    <clip pos="4" side="tl" part="lemq"/>
-	  </lu>
-	</out>
+	  </out>
+        <call-macro n="f_out_adj_sup"><with-param pos="4"/></call-macro>
       </action>
     </rule>
 
@@ -2606,14 +2777,8 @@ closa
 	    <clip pos="1" side="tl" part="whole"/>
 	  </lu>
 	  <b pos="1"/>
-	  <lu>
-	    <clip pos="2" side="tl" part="lemh"/>
-	    <clip pos="2" side="tl" part="a_adjec"/>
-	    <clip pos="2" side="tl" part="gen"/>
-	    <clip pos="2" side="tl" part="nbr"/>
-	    <clip pos="2" side="tl" part="lemq"/>
-	  </lu>
-	</out>
+	  </out>
+        <call-macro n="f_out_adj_sup"><with-param pos="2"/></call-macro>
       </action>
     </rule>
 
@@ -2630,14 +2795,8 @@ closa
 	  <with-param pos="3"/>
 	  <with-param pos="1"/>
 	</call-macro>  
-	<out>  
-	  <lu>
-	    <clip pos="1" side="tl" part="lemh"/>
-	    <clip pos="1" side="tl" part="a_adjec"/>
-	    <clip pos="1" side="tl" part="gen"/>
-	    <clip pos="1" side="tl" part="nbr"/>
-	    <clip pos="1" side="tl" part="lemq"/>     
-	  </lu>
+	<call-macro n="f_out_adj_sup"><with-param pos="1"/></call-macro>
+        <out>
 	  <b pos="1"/>
 	  <lu>
 	    <clip pos="2" side="tl" part="lemh"/>
@@ -2647,14 +2806,8 @@ closa
 	    <clip pos="2" side="tl" part="lemq"/> 
 	  </lu>
 	  <b pos="2"/>
-	  <lu>
-	    <clip pos="3" side="tl" part="lemh"/>
-	    <clip pos="3" side="tl" part="a_adjec"/>
-	    <clip pos="3" side="tl" part="gen"/>
-	    <clip pos="3" side="tl" part="nbr"/>
-	    <clip pos="3" side="tl" part="lemq"/>
-	  </lu>
-	</out>
+	  </out>
+        <call-macro n="f_out_adj_sup"><with-param pos="3"/></call-macro>
       </action>
     </rule>
 
@@ -2678,13 +2831,9 @@ closa
 	    <clip pos="1" side="tl" part="whole"/>
 	  </lu>
 	  <b pos="1"/>
-	  <lu>
-	    <clip pos="2" side="tl" part="lemh"/>
-	    <clip pos="2" side="tl" part="a_adjec"/>
-	    <clip pos="2" side="tl" part="gen"/>
-	    <clip pos="2" side="tl" part="nbr"/>
-	    <clip pos="2" side="tl" part="lemq"/>
-	  </lu>
+	  </out>
+        <call-macro n="f_out_adj_sup"><with-param pos="2"/></call-macro>
+        <out>
 	  <b pos="2"/>
 	  <lu>
 	    <clip pos="3" side="tl" part="lemh"/>
@@ -2694,14 +2843,8 @@ closa
 	    <clip pos="3" side="tl" part="lemq"/> 
 	  </lu>
 	  <b pos="3"/>
-	  <lu>
-	    <clip pos="4" side="tl" part="lemh"/>
-	    <clip pos="4" side="tl" part="a_adjec"/>
-	    <clip pos="4" side="tl" part="gen"/>
-	    <clip pos="4" side="tl" part="nbr"/>
-	    <clip pos="4" side="tl" part="lemq"/>
-	  </lu>
-	</out>
+	  </out>
+        <call-macro n="f_out_adj_sup"><with-param pos="4"/></call-macro>
       </action>
     </rule>
 
@@ -2730,14 +2873,8 @@ closa
 	    <clip pos="2" side="tl" part="whole"/>
 	  </lu>
 	  <b pos="2"/>
-	  <lu>
-	    <clip pos="3" side="tl" part="lemh"/>
-	    <clip pos="3" side="tl" part="a_adjec"/>
-	    <clip pos="3" side="tl" part="gen"/>
-	    <clip pos="3" side="tl" part="nbr"/>
-	    <clip pos="3" side="tl" part="lemq"/>
-	  </lu>
-	</out>
+	  </out>
+        <call-macro n="f_out_adj_sup"><with-param pos="3"/></call-macro>
       </action>
     </rule>
 
@@ -2771,14 +2908,8 @@ closa
 	    <clip pos="3" side="tl" part="whole"/>
 	  </lu>
 	  <b pos="3"/>
-	  <lu>
-	    <clip pos="4" side="tl" part="lemh"/>
-	    <clip pos="4" side="tl" part="a_adjec"/>
-	    <clip pos="4" side="tl" part="gen"/>
-	    <clip pos="4" side="tl" part="nbr"/>
-	    <clip pos="4" side="tl" part="lemq"/>
-	  </lu>
-	</out>
+	  </out>
+        <call-macro n="f_out_adj_sup"><with-param pos="4"/></call-macro>
       </action>
     </rule>
 
@@ -2830,14 +2961,8 @@ closa
 	    <clip pos="1" side="tl" part="whole"/>
 	  </lu>
 	  <b pos="1"/>
-	  <lu>
-	    <clip pos="2" side="tl" part="lemh"/>
-	    <clip pos="2" side="tl" part="a_adjec"/>
-	    <clip pos="2" side="tl" part="gen"/>
-	    <clip pos="2" side="tl" part="nbr"/>
-	    <clip pos="2" side="tl" part="lemq"/>
-	  </lu>
-	</out>
+	  </out>
+        <call-macro n="f_out_adj_sup"><with-param pos="2"/></call-macro>
       </action>
     </rule>
 
@@ -2869,14 +2994,8 @@ closa
 	    <clip pos="2" side="tl" part="lemq"/> 
 	  </lu>  
 	  <b pos="2"/>
-	  <lu>
-	    <clip pos="3" side="tl" part="lemh"/>
-	    <clip pos="3" side="tl" part="a_adjec"/>
-	    <clip pos="3" side="tl" part="gen"/>
-	    <clip pos="3" side="tl" part="nbr"/>
-	    <clip pos="3" side="tl" part="lemq"/>
-	  </lu>
-	</out>
+	  </out>
+        <call-macro n="f_out_adj_sup"><with-param pos="3"/></call-macro>
       </action>
     </rule>
 
@@ -2897,13 +3016,9 @@ closa
 	    <clip pos="1" side="tl" part="whole"/>
 	  </lu>
 	  <b pos="1"/>
-	  <lu>
-	    <clip pos="2" side="tl" part="lemh"/>
-	    <clip pos="2" side="tl" part="a_adjec"/>
-	    <clip pos="2" side="tl" part="gen"/>
-	    <clip pos="2" side="tl" part="nbr"/>
-	    <clip pos="2" side="tl" part="lemq"/>
-	  </lu>
+	  </out>
+        <call-macro n="f_out_adj_sup"><with-param pos="2"/></call-macro>
+        <out>
 	  <b pos="2"/>
 	  <lu>
 	    <clip pos="3" side="tl" part="lemh"/>
@@ -3012,14 +3127,8 @@ closa
 	    <clip pos="2" side="tl" part="whole"/>
 	  </lu>  
 	  <b pos="2"/>
-	  <lu>
-	    <clip pos="3" side="tl" part="lemh"/>
-	    <clip pos="3" side="tl" part="a_adjec"/>
-	    <clip pos="3" side="tl" part="gen"/>
-	    <clip pos="3" side="tl" part="nbr"/>
-	    <clip pos="3" side="tl" part="lemq"/> 
-	  </lu>
-	</out>
+	  </out>
+        <call-macro n="f_out_adj_sup"><with-param pos="3"/></call-macro>
       </action>
     </rule>
     
