@@ -139,6 +139,7 @@
     <def-var n="auxn"/>
     <def-var n="temp"/>
   <def-var n="sup_ar_gen"/>
+  <def-var n="sup_ar_degree_word"/>
 </section-def-vars>
 
   <section-def-lists>
@@ -2446,7 +2447,7 @@
 	<call-macro n="f_concord1">
 	  <with-param pos="1"/>
 	</call-macro>     
-	<choose><when><test><and><equal><clip pos="1" side="tl" part="a_ar_sup"/><lit-tag v="adj.sup"/></equal><in caseless="yes"><clip pos="1" side="tl" part="lemh"/><list n="sup_ar_analytic_lemmas"/></in></and></test><let><var n="sup_ar_gen"/><clip pos="1" side="tl" part="gen"/></let><choose><when><test><in caseless="yes"><clip pos="1" side="tl" part="lemh"/><list n="sup_ar_positive_mf_lemmas"/></in></test><let><var n="sup_ar_gen"/><lit-tag v="mf"/></let></when></choose><choose><when><test><equal><case-of pos="1" side="sl" part="lemh"/><lit v="Aa"/></equal></test><modify-case><clip pos="1" side="tl" part="lemh"/><lit v="aa"/></modify-case></when></choose><out><get-case-from pos="1"><lit v="muit"/></get-case-from><b/><lu><clip pos="1" side="tl" part="lemh"/><lit-tag v="adj"/><var n="sup_ar_gen"/><clip pos="1" side="tl" part="nbr"/><clip pos="1" side="tl" part="lemq"/></lu></out></when><otherwise><out>  
+	<choose><when><test><and><equal><clip pos="1" side="tl" part="a_ar_sup"/><lit-tag v="adj.sup"/></equal><in caseless="yes"><clip pos="1" side="tl" part="lemh"/><list n="sup_ar_analytic_lemmas"/></in></and></test><let><var n="sup_ar_gen"/><clip pos="1" side="tl" part="gen"/></let><choose><when><test><in caseless="yes"><clip pos="1" side="tl" part="lemh"/><list n="sup_ar_positive_mf_lemmas"/></in></test><let><var n="sup_ar_gen"/><lit-tag v="mf"/></let></when></choose><choose><when><test><equal><case-of pos="1" side="sl" part="lemh"/><lit v="Aa"/></equal></test><modify-case><clip pos="1" side="tl" part="lemh"/><lit v="aa"/></modify-case></when></choose><let><var n="sup_ar_degree_word"/><get-case-from pos="1"><lit v="muit"/></get-case-from></let><out><var n="sup_ar_degree_word"/><b/><lu><clip pos="1" side="tl" part="lemh"/><lit-tag v="adj"/><var n="sup_ar_gen"/><clip pos="1" side="tl" part="nbr"/><clip pos="1" side="tl" part="lemq"/></lu></out></when><otherwise><out>  
 	  <lu>
 	    <clip pos="1" side="tl" part="lemh"/>
 	    <clip pos="1" side="tl" part="tags"/>
