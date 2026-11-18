@@ -118,7 +118,8 @@
 
 
 
-  </section-def-attrs>
+  <def-attr n="a_ar_sup"><attr-item tags="adj.sup"/></def-attr>
+</section-def-attrs>
 
   <section-def-vars>
     <def-var n="numvist"/>
@@ -137,7 +138,8 @@
     <def-var n="auxg"/>
     <def-var n="auxn"/>
     <def-var n="temp"/>
-  </section-def-vars>
+  <def-var n="sup_ar_gen"/>
+</section-def-vars>
 
   <section-def-lists>
     <def-list n="perif_venir">
@@ -150,7 +152,72 @@
       <list-item v="trabajar"/>
     </def-list>
 
-  </section-def-lists>
+  
+<def-list n="sup_ar_analytic_lemmas">
+  <list-item v="accesible"/>
+  <list-item v="adverso"/>
+  <list-item v="agresivo"/>
+  <list-item v="anomalo"/>
+  <list-item v="anonimo"/>
+  <list-item v="arido"/>
+  <list-item v="atractivo"/>
+  <list-item v="austero"/>
+  <list-item v="avido"/>
+  <list-item v="brusco"/>
+  <list-item v="calido"/>
+  <list-item v="calvo"/>
+  <list-item v="celebre"/>
+  <list-item v="civil"/>
+  <list-item v="confuso"/>
+  <list-item v="considerable"/>
+  <list-item v="cristiano"/>
+  <list-item v="cruento"/>
+  <list-item v="descontento"/>
+  <list-item v="difuso"/>
+  <list-item v="eterno"/>
+  <list-item v="exclusivo"/>
+  <list-item v="extremo"/>
+  <list-item v="fluiu"/>
+  <list-item v="franco"/>
+  <list-item v="fresco"/>
+  <list-item v="frito"/>
+  <list-item v="fráchil"/>
+  <list-item v="fácil"/>
+  <list-item v="hábil"/>
+  <list-item v="inaccesible"/>
+  <list-item v="intimo"/>
+  <list-item v="intranquilo"/>
+  <list-item v="irreprensible"/>
+  <list-item v="lamentable"/>
+  <list-item v="nocivo"/>
+  <list-item v="notable"/>
+  <list-item v="nuevo"/>
+  <list-item v="obtuso"/>
+  <list-item v="pasivo"/>
+  <list-item v="profuso"/>
+  <list-item v="suficient"/>
+  <list-item v="timido"/>
+  <list-item v="tranquilo"/>
+  <list-item v="ubierto"/>
+  <list-item v="valido"/>
+  <list-item v="áchil"/>
+</def-list>
+<def-list n="sup_ar_positive_mf_lemmas">
+  <list-item v="accesible"/>
+  <list-item v="celebre"/>
+  <list-item v="civil"/>
+  <list-item v="considerable"/>
+  <list-item v="fráchil"/>
+  <list-item v="fácil"/>
+  <list-item v="hábil"/>
+  <list-item v="inaccesible"/>
+  <list-item v="irreprensible"/>
+  <list-item v="lamentable"/>
+  <list-item v="notable"/>
+  <list-item v="suficient"/>
+  <list-item v="áchil"/>
+</def-list>
+</section-def-lists>
   <section-def-macros>
     <def-macro n="f_preps_det" npar="3">
       <let>
@@ -2379,13 +2446,13 @@
 	<call-macro n="f_concord1">
 	  <with-param pos="1"/>
 	</call-macro>     
-	<out>  
+	<choose><when><test><and><equal><clip pos="1" side="tl" part="a_ar_sup"/><lit-tag v="adj.sup"/></equal><in caseless="yes"><clip pos="1" side="tl" part="lemh"/><list n="sup_ar_analytic_lemmas"/></in></and></test><let><var n="sup_ar_gen"/><clip pos="1" side="tl" part="gen"/></let><choose><when><test><in caseless="yes"><clip pos="1" side="tl" part="lemh"/><list n="sup_ar_positive_mf_lemmas"/></in></test><let><var n="sup_ar_gen"/><lit-tag v="mf"/></let></when></choose><choose><when><test><equal><case-of pos="1" side="sl" part="lemh"/><lit v="Aa"/></equal></test><modify-case><clip pos="1" side="tl" part="lemh"/><lit v="aa"/></modify-case></when></choose><out><get-case-from pos="1"><lit v="muit"/></get-case-from><b/><lu><clip pos="1" side="tl" part="lemh"/><lit-tag v="adj"/><var n="sup_ar_gen"/><clip pos="1" side="tl" part="nbr"/><clip pos="1" side="tl" part="lemq"/></lu></out></when><otherwise><out>  
 	  <lu>
 	    <clip pos="1" side="tl" part="lemh"/>
 	    <clip pos="1" side="tl" part="tags"/>
 	    <clip pos="1" side="tl" part="lemq"/>
 	  </lu>
-	</out>
+	</out></otherwise></choose>
       </action>
     </rule>
 
