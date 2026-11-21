@@ -8404,7 +8404,7 @@
 <e>       <p><l>OP<s n="n"/><s n="acr"/><s n="m"/></l> <r>OP<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
 <e>       <p><l>OPEP<s n="n"/><s n="acr"/><s n="f"/></l><r>OPEP<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
 <e>       <p><l>OTAN<s n="n"/><s n="acr"/><s n="f"/></l><r>OTAN<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
-<e>       <p><l>Once<s n="n"/><s n="acr"/><s n="f"/></l><r>Once<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+<e>       <p><l>ONCE<s n="n"/><s n="acr"/><s n="f"/></l><r>Once<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
 <e>       <p><l>P.V.P.<s n="n"/><s n="acr"/><s n="m"/></l><r>PVP<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
 <e>       <p><l>PASOK<s n="n"/><s n="acr"/><s n="m"/></l><r>PASOK<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
 <e>       <p><l>PC<s n="n"/><s n="acr"/><s n="m"/></l> <r>PC<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
@@ -9615,7 +9615,7 @@
 <e r="LR"><p><l>cera<s n="n"/><s n="f"/></l>           <r>por<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>ceramica<s n="n"/><s n="f"/></l>       <r>ceràmica<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>cerclo<s n="n"/><s n="m"/></l>         <r>cercle<s n="n"/><s n="m"/></r></p></e>
-<e>       <p><l>ceremonia<s n="n"/><s n="f"/></l>      <r>cerimònia<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>cerimonia<s n="n"/><s n="f"/></l>      <r>cerimònia<s n="n"/><s n="f"/></r></p></e>
 <e r="LR"><p><l>cerina<s n="n"/><s n="f"/></l>         <r>por<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>certeza<s n="n"/><s n="f"/></l>        <r>certesa<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>certificación<s n="n"/><s n="f"/></l>  <r>certificació<s n="n"/><s n="f"/></r></p></e>
@@ -10652,7 +10652,7 @@
 <e>       <p><l>discordancia<s n="n"/><s n="f"/></l>   <r>discordança<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>discordia<s n="n"/><s n="f"/></l>      <r>discòrdia<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>discoteca<s n="n"/><s n="f"/></l>      <r>discoteca<s n="n"/><s n="f"/></r></p></e>
-<e>       <p><l>discrección<s n="n"/><s n="f"/></l>    <r>discreció<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>discreción<s n="n"/><s n="f"/></l>    <r>discreció<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>discrepancia<s n="n"/><s n="f"/></l>   <r>discrepància<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>discriminación<s n="n"/><s n="f"/></l> <r>discriminació<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>discurso<s n="n"/><s n="m"/></l>       <r>discurs<s n="n"/><s n="m"/></r></p></e>
@@ -11714,8 +11714,8 @@
 <e vr="cat"><p><l>gurrión<s n="n"/></l>                <r>pardal<s n="n"/></r></p></e>
 <e>       <p><l>gusto<s n="n"/><s n="m"/></l>          <r>gust<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>gusto<s n="n"/><s n="m"/></l>          <r>sabor<s n="n"/><s n="m"/></r></p></e>
-<e>       <p><l>güelo<s n="n"/><s n="m"/></l>          <r>avi<s n="n"/><s n="m"/></r></p></e>
-<e>       <p><l>güelo<s n="n"/><s n="f"/></l>          <r>avi<s n="n"/><s n="f"/></r></p></e>
+<e>       <p><l>avuelo<s n="n"/><s n="m"/></l>          <r>avi<s n="n"/><s n="m"/></r></p></e>
+<e>       <p><l>avuelo<s n="n"/><s n="f"/></l>          <r>avi<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>h<s n="n"/><s n="f"/></l>              <r>h<s n="n"/><s n="f"/></r></p></e>
 <e>       <p><l>haber<s n="n"/><s n="m"/></l>          <r>haver<s n="n"/><s n="m"/></r></p></e>
 <e>       <p><l>habilidat<s n="n"/><s n="f"/></l>      <r>habilitat<s n="n"/><s n="f"/></r></p></e>
